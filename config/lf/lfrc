@@ -1,0 +1,3 @@
+set hidden
+map d $rm $f
+map D $rm -rf $f

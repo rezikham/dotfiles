@@ -1,0 +1,12 @@
+25/9/2022 1:33:50 pm
+System.InvalidOperationException
+Collection was modified; enumeration operation may not execute.
+System.Private.CoreLib
+   at System.Collections.Generic.List`1.Enumerator.MoveNext()
+   at OpenTabletDriver.Daemon.DriverDaemon.SetSettings(Settings settings)
+   at OpenTabletDriver.Daemon.DriverDaemon.<.ctor>b__0_3()
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_1(Object state)
+   at System.Threading.QueueUserWorkItemCallbackDefaultContext.Execute()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+   at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart()
+ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion
