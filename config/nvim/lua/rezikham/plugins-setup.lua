@@ -104,4 +104,14 @@ return packer.startup(function(use)
 	if packer_bootstrap then
 		require("packer").sync()
 	end
+
+	-- markdown
+	use("ixru/nvim-markdown")
+	use({
+		"iamcco/markdown-preview.nvim",
+		run = function()
+			vim.fn["mkdp#util#install"]()
+		end,
+	})
+	use("dhruvasagar/vim-table-mode")
 end)
