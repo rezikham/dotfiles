@@ -108,10 +108,13 @@ return packer.startup(function(use)
 	-- markdown
 	use("ixru/nvim-markdown")
 	use({
-		"iamcco/markdown-preview.nvim",
+		"iamcco/markdown-preview.nvim", -- realtime markdown preview in browser
 		run = function()
 			vim.fn["mkdp#util#install"]()
 		end,
 	})
-	use("dhruvasagar/vim-table-mode")
+	use("dhruvasagar/vim-table-mode") -- easily make markdown table
+
+	-- Debug Adapter Protocol
+	use("mfussenegger/nvim-dap")
 end)
