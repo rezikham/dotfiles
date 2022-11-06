@@ -74,10 +74,10 @@ starship init fish | source
 enable_transience
 
 # change theme based on time
-if test $(date +%H) -ge 06 
-  tokyonight_day
-else if test $(date +%H) -ge 18
+if test $(date +%H) -ge 18
   tokyonight_night
+else if test $(date +%H) -ge 06 
+  tokyonight_day
 else if test $(date +%H) -ge 00
   tokyonight_night
 end
@@ -88,4 +88,3 @@ bind -e \cj
 # !! Contents within this block are managed by 'conda init' !!
 eval /home/rezikham/anaconda3/bin/conda "shell.fish" "hook" $argv | source
 # <<< conda initialize <<<
-tokyonight_day
