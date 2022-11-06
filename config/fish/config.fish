@@ -11,13 +11,6 @@ set -Ux fish_tmux_autoconnect true
 set -U EDITOR nvim
 set -Ux BAT_THEME ansi
 
-# alias nvim config
-abbr va "nvim ~/.config/alacritty/alacritty.yml"
-abbr vf "nvim ~/.config/fish/config.fish"
-abbr vt "nvim ~/.config/tmux/.tmux.conf"
-abbr vn "nvim ~/.config/nvim/"
-abbr vnv "nvim ~/.config/nvim/lua/rezikham/core/neovide.lua"
-
 # set alias
 alias ls='exa -a --color=always --group-directories-first --icons' # all files and dirs
 alias la='exa -al --color=always --group-directories-first --icons' # preferred listing
@@ -31,16 +24,6 @@ alias grubup='sudo grub-mkconfig -o /boot/grub/grub.cfg'
 alias grep='grep --color=auto'
 alias nv='nvidia-smi'
 alias mp=ncmpcpp
-
-# alias git command
-alias gca='git add .; git commit -m'
-alias gps='git push'
-alias gpl='git pull'
-# tmux shortcut
-abbr tn "tmux new -s (pwd | sed 's/.*\///g')"
-abbr ta "tmux a"
-abbr tat "tmux attach -t"
-alias td='tmux detach'
 
 # alias nand2tetris tools
 alias n2thw=~/Documents/Deakin_Co/SIT111/nand2tetris/tools/HardwareSimulator.sh
@@ -64,9 +47,35 @@ alias .3='cd ../../..'
 alias .4='cd ../../../..'
 alias .5='cd ../../../../..'
 
+# abbr general
+abbr c clear
+abbr cx 'chmod +x'
+abbr rmd "rm -r"
+abbr tr "tldr --list | fzf --header 'tldr (tealdeer)' --reverse --preview 'tldr {1}' --preview-window=right,80% | xargs tldr"
+
+# abbr git command
+abbr g 'git status'
+abbr gca 'git add .; git commit -m'
+abbr gd 'git diff'
+abbr gp 'git push'
+abbr gl 'git pull'
+
+# tmux shortcut
+abbr tn "tmux new -s (pwd | sed 's/.*\///g')"
+abbr ta "tmux a"
+abbr tat "tmux attach -t"
+abbr td 'tmux detach'
+
 # abbreviation
-abbr -a -g df sudo btrfs filesystem usage
-abbr -a -g dupe sudo duperemove -df
+abbr df 'sudo btrfs filesystem usage'
+abbr dupe 'sudo duperemove -df'
+
+# alias nvim config
+abbr va "nvim ~/.config/alacritty/alacritty.yml"
+abbr vf "nvim ~/.config/fish/config.fish"
+abbr vt "nvim ~/.config/tmux/.tmux.conf"
+abbr vn "nvim ~/.config/nvim/"
+abbr vnv "nvim ~/.config/nvim/lua/rezikham/core/neovide.lua"
 
 # plugins
 zoxide init fish | source
