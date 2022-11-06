@@ -9,6 +9,7 @@ set -x MANPAGER "sh -c 'col -bx | bat -l man -p'" # set man to use bat
 set -gx PATH ~/.local/bin/ $PATH # set python PATH env
 set -Ux fish_tmux_autoconnect true
 set -U EDITOR nvim
+set -Ux BAT_THEME ansi
 
 # alias nvim config
 abbr va "nvim ~/.config/alacritty/alacritty.yml"
@@ -31,6 +32,10 @@ alias grep='grep --color=auto'
 alias nv='nvidia-smi'
 alias mp=ncmpcpp
 
+# alias git command
+alias gca='git add .; git commit -m'
+alias gps='git push'
+alias gpl='git pull'
 # tmux shortcut
 abbr tn "tmux new -s (pwd | sed 's/.*\///g')"
 abbr ta "tmux a"
