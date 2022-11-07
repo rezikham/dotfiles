@@ -19,7 +19,7 @@ alias hy='/home/rezikham/.local/bin/wrappedhl'
 alias v='WINIT_UNIX_BACKEND=x11 neovide --multigrid'
 alias vwl='neovide --multigrid'
 alias vi=nvim
-alias cat='bat --style header --style snip --style changes --style header'
+alias bat='bat --style header --style snip --style changes --style header'
 alias grubup='sudo grub-mkconfig -o /boot/grub/grub.cfg'
 alias grep='grep --color=auto'
 alias nv='nvidia-smi'
@@ -55,6 +55,8 @@ abbr tr "tldr --list | fzf --header 'tldr (tealdeer)' --reverse --preview 'tldr 
 
 # abbr git command
 abbr g 'git status'
+abbr ga 'git add'
+abbr gc 'git commit -m'
 abbr gca 'git add .; git commit -m'
 abbr gd 'git diff'
 abbr gp 'git push'
@@ -73,7 +75,7 @@ abbr dupe 'sudo duperemove -df'
 # alias nvim config
 abbr va "nvim ~/.config/alacritty/alacritty.yml"
 abbr vf "nvim ~/.config/fish/config.fish"
-abbr vt "nvim ~/.config/tmux/.tmux.conf"
+abbr vt "nvim ~/.config/tmux/tmux.conf"
 abbr vn "nvim ~/.config/nvim/"
 abbr vnv "nvim ~/.config/nvim/lua/rezikham/core/neovide.lua"
 

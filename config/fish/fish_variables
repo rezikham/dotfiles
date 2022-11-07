@@ -8,6 +8,8 @@ SETUVAR _fish_abbr_cx:chmod\x20\x2bx
 SETUVAR _fish_abbr_df:sudo\x20btrfs\x20filesystem\x20usage
 SETUVAR _fish_abbr_dupe:sudo\x20duperemove\x20\x2ddf
 SETUVAR _fish_abbr_g:git\x20status
+SETUVAR _fish_abbr_ga:git\x20add
+SETUVAR _fish_abbr_gc:git\x20commit\x20\x2dm
 SETUVAR _fish_abbr_gca:git\x20add\x20\x2e\x3b\x20git\x20commit\x20\x2dm
 SETUVAR _fish_abbr_gd:git\x20diff
 SETUVAR _fish_abbr_gl:git\x20pull
@@ -27,7 +29,7 @@ SETUVAR _fish_abbr_va:nvim\x20\x7e/\x2econfig/alacritty/alacritty\x2eyml
 SETUVAR _fish_abbr_vf:nvim\x20\x7e/\x2econfig/fish/config\x2efish
 SETUVAR _fish_abbr_vn:nvim\x20\x7e/\x2econfig/nvim/
 SETUVAR _fish_abbr_vnv:nvim\x20\x7e/\x2econfig/nvim/lua/rezikham/core/neovide\x2elua
-SETUVAR _fish_abbr_vt:nvim\x20\x7e/\x2econfig/tmux/\x2etmux\x2econf
+SETUVAR _fish_abbr_vt:nvim\x20\x7e/\x2econfig/tmux/tmux\x2econf
 SETUVAR _fisher_jorgebucaran_2F_fisher_files:\x7e/\x2econfig/fish/functions/fisher\x2efish\x1e\x7e/\x2econfig/fish/completions/fisher\x2efish
 SETUVAR _fisher_plugins:jorgebucaran/fisher
 SETUVAR _fisher_upgraded_to_4_4:\x1d
