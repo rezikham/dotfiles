@@ -476,7 +476,7 @@
     {
       "Tablet": "XP-Pen Star G640",
       "OutputMode": {
-        "Path": "OpenTabletDriver.Desktop.Output.LinuxArtistMode",
+        "Path": "OpenTabletDriver.Desktop.Output.AbsoluteMode",
         "Settings": [],
         "Enable": true
       },
@@ -491,6 +491,10 @@
             {
               "Property": "AntichatterOffsetX",
               "Value": null
+            },
+            {
+              "Property": "AntichatterOffsetY",
+              "Value": 1.0
             },
             {
               "Property": "PredictionEnabled",
@@ -518,23 +522,14 @@
             },
             {
               "Property": "Latency",
-              "Value": 20.0
-            },
-            {
-              "Property": "AntichatterStrength",
               "Value": 10.0
             },
             {
-              "Property": "AntichatterOffsetY",
-              "Value": 0.0
+              "Property": "AntichatterStrength",
+              "Value": 5.0
             }
           ],
           "Enable": true
-        },
-        {
-          "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping_Inverse",
-          "Settings": [],
-          "Enable": false
         }
       ],
       "AbsoluteModeSettings": {
@@ -546,11 +541,11 @@
           "Rotation": 0.0
         },
         "Tablet": {
-          "Width": 64.8,
-          "Height": 45.0,
-          "X": 53.781166,
-          "Y": 55.09948,
-          "Rotation": 270.0
+          "Width": 50.399,
+          "Height": 35.0,
+          "X": 43.16664,
+          "Y": 21.021265,
+          "Rotation": 0.0
         },
         "EnableClipping": true,
         "EnableAreaLimiting": false,
@@ -564,21 +559,39 @@
       },
       "Bindings": {
         "TipActivationThreshold": 0.0,
-        "TipButton": null,
-        "EraserActivationThreshold": 0.0,
-        "EraserButton": {
-          "Path": "OpenTabletDriver.Desktop.Binding.LinuxArtistMode.LinuxArtistModeButtonBinding",
+        "TipButton": {
+          "Path": "OpenTabletDriver.Desktop.Binding.MouseBinding",
           "Settings": [
             {
               "Property": "Button",
-              "Value": "Pen Button 1"
+              "Value": "Left"
             }
           ],
           "Enable": true
         },
+        "EraserActivationThreshold": 0.0,
+        "EraserButton": null,
         "PenButtons": [
-          null,
-          null
+          {
+            "Path": "OpenTabletDriver.Desktop.Binding.MouseBinding",
+            "Settings": [
+              {
+                "Property": "Button",
+                "Value": "Right"
+              }
+            ],
+            "Enable": true
+          },
+          {
+            "Path": "OpenTabletDriver.Desktop.Binding.MouseBinding",
+            "Settings": [
+              {
+                "Property": "Button",
+                "Value": "Middle"
+              }
+            ],
+            "Enable": true
+          }
         ],
         "AuxButtons": [],
         "MouseButtons": [],

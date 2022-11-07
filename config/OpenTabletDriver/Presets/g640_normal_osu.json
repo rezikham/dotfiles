@@ -518,15 +518,15 @@
             },
             {
               "Property": "Latency",
-              "Value": 20.0
-            },
-            {
-              "Property": "AntichatterStrength",
               "Value": 10.0
             },
             {
               "Property": "AntichatterOffsetY",
               "Value": 0.0
+            },
+            {
+              "Property": "AntichatterStrength",
+              "Value": 10.0
             }
           ],
           "Enable": true
@@ -546,10 +546,10 @@
           "Rotation": 0.0
         },
         "Tablet": {
-          "Width": 64.8,
-          "Height": 45.0,
-          "X": 53.781166,
-          "Y": 55.09948,
+          "Width": 50.399,
+          "Height": 35.0,
+          "X": 49.774574,
+          "Y": 61.990425,
           "Rotation": 270.0
         },
         "EnableClipping": true,

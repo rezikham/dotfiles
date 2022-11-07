@@ -493,6 +493,10 @@
               "Value": null
             },
             {
+              "Property": "AntichatterOffsetY",
+              "Value": 1.0
+            },
+            {
               "Property": "PredictionEnabled",
               "Value": null
             },
@@ -522,11 +526,7 @@
             },
             {
               "Property": "AntichatterStrength",
-              "Value": 10.0
-            },
-            {
-              "Property": "AntichatterOffsetY",
-              "Value": 0.0
+              "Value": 7.0
             }
           ],
           "Enable": true
@@ -546,11 +546,11 @@
           "Rotation": 0.0
         },
         "Tablet": {
-          "Width": 64.8,
-          "Height": 45.0,
-          "X": 53.781166,
-          "Y": 55.09948,
-          "Rotation": 270.0
+          "Width": 50.399,
+          "Height": 35.0,
+          "X": 43.16664,
+          "Y": 21.021265,
+          "Rotation": 0.0
         },
         "EnableClipping": true,
         "EnableAreaLimiting": false,
@@ -564,9 +564,7 @@
       },
       "Bindings": {
         "TipActivationThreshold": 0.0,
-        "TipButton": null,
-        "EraserActivationThreshold": 0.0,
-        "EraserButton": {
+        "TipButton": {
           "Path": "OpenTabletDriver.Desktop.Binding.LinuxArtistMode.LinuxArtistModeButtonBinding",
           "Settings": [
             {
@@ -576,9 +574,29 @@
           ],
           "Enable": true
         },
+        "EraserActivationThreshold": 0.0,
+        "EraserButton": null,
         "PenButtons": [
-          null,
-          null
+          {
+            "Path": "OpenTabletDriver.Desktop.Binding.LinuxArtistMode.LinuxArtistModeButtonBinding",
+            "Settings": [
+              {
+                "Property": "Button",
+                "Value": "Pen Button 2"
+              }
+            ],
+            "Enable": true
+          },
+          {
+            "Path": "OpenTabletDriver.Desktop.Binding.LinuxArtistMode.LinuxArtistModeButtonBinding",
+            "Settings": [
+              {
+                "Property": "Button",
+                "Value": "Pen Button 3"
+              }
+            ],
+            "Enable": true
+          }
         ],
         "AuxButtons": [],
         "MouseButtons": [],

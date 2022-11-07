@@ -517,16 +517,16 @@
               "Value": 1000.0
             },
             {
-              "Property": "Latency",
-              "Value": 20.0
+              "Property": "AntichatterOffsetY",
+              "Value": 0.0
             },
             {
-              "Property": "AntichatterStrength",
+              "Property": "Latency",
               "Value": 10.0
             },
             {
-              "Property": "AntichatterOffsetY",
-              "Value": 0.0
+              "Property": "AntichatterStrength",
+              "Value": 5.0
             }
           ],
           "Enable": true
@@ -534,6 +534,26 @@
         {
           "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping_Inverse",
           "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "VoiDPlugins.Filter.Reconstructor",
+          "Settings": [
+            {
+              "Property": "EMAWeight",
+              "Value": 0.5
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Blended_E_Grid_Mapping_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
           "Enable": false
         }
       ],
@@ -546,10 +566,10 @@
           "Rotation": 0.0
         },
         "Tablet": {
-          "Width": 64.8,
-          "Height": 45.0,
-          "X": 53.781166,
-          "Y": 55.09948,
+          "Width": 53.28,
+          "Height": 37.0,
+          "X": 43.20529,
+          "Y": 56.197357,
           "Rotation": 270.0
         },
         "EnableClipping": true,
