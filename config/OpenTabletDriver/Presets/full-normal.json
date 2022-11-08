@@ -518,18 +518,18 @@
             },
             {
               "Property": "Latency",
+              "Value": 20.0
+            },
+            {
+              "Property": "AntichatterStrength",
               "Value": 10.0
             },
             {
               "Property": "AntichatterOffsetY",
               "Value": 0.0
-            },
-            {
-              "Property": "AntichatterStrength",
-              "Value": 10.0
             }
           ],
-          "Enable": false
+          "Enable": true
         },
         {
           "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping_Inverse",
@@ -537,34 +537,128 @@
           "Enable": false
         },
         {
-          "Path": "RadialFollow.RadialFollowSmoothingTabletSpace",
+          "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Pressure_Debounce.Pressure_Debounce",
           "Settings": [
             {
-              "Property": "OuterRadius",
-              "Value": 1.0
+              "Property": "Drop_excess",
+              "Value": null
             },
             {
-              "Property": "InnerRadius",
-              "Value": 0.0
+              "Property": "Disable_timer",
+              "Value": null
             },
             {
-              "Property": "SmoothingCoefficient",
-              "Value": 0.95
+              "Property": "Debounce_timer",
+              "Value": 100.0
             },
             {
-              "Property": "SoftKneeScale",
-              "Value": 1.0
-            },
-            {
-              "Property": "SmoothingLeakCoefficient",
-              "Value": 0.0
+              "Property": "Pressure_threshold",
+              "Value": 0.5
             }
           ],
           "Enable": true
         },
         {
-          "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping",
+          "Path": "Circular_Area.Circular_Biased_Squelch_Horizontal_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Lamé_based_Mapping",
           "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Horizontal",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Vertical",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Non_axial_2_Pinch_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "VoiDPlugins.Filter.Reconstructor",
+          "Settings": [
+            {
+              "Property": "EMAWeight",
+              "Value": 0.5
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Vertical_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Hover_Distance_Limiter.Hover_Distance_Limiter",
+          "Settings": [
+            {
+              "Property": "Hover_min",
+              "Value": 0.0
+            },
+            {
+              "Property": "Pressure_max",
+              "Value": 8192.0
+            },
+            {
+              "Property": "Pen",
+              "Value": null
+            },
+            {
+              "Property": "Eraser",
+              "Value": null
+            },
+            {
+              "Property": "Pressure_min",
+              "Value": 100.0
+            },
+            {
+              "Property": "Pressure",
+              "Value": false
+            },
+            {
+              "Property": "NearProximity",
+              "Value": false
+            },
+            {
+              "Property": "Hover_max",
+              "Value": 10.0
+            }
+          ],
           "Enable": false
         }
       ],
@@ -577,11 +671,11 @@
           "Rotation": 0.0
         },
         "Tablet": {
-          "Width": 50.399,
-          "Height": 35.0,
-          "X": 49.774574,
-          "Y": 61.990425,
-          "Rotation": 270.0
+          "Width": 160.0,
+          "Height": 100.0,
+          "X": 80.0,
+          "Y": 50.0,
+          "Rotation": 0.0
         },
         "EnableClipping": true,
         "EnableAreaLimiting": false,
@@ -594,22 +688,31 @@
         "RelativeResetDelay": "00:00:00.1000000"
       },
       "Bindings": {
-        "TipActivationThreshold": 0.0,
+        "TipActivationThreshold": 15.0,
         "TipButton": null,
         "EraserActivationThreshold": 0.0,
-        "EraserButton": {
-          "Path": "OpenTabletDriver.Desktop.Binding.LinuxArtistMode.LinuxArtistModeButtonBinding",
-          "Settings": [
-            {
-              "Property": "Button",
-              "Value": "Pen Button 1"
-            }
-          ],
-          "Enable": true
-        },
+        "EraserButton": null,
         "PenButtons": [
-          null,
-          null
+          {
+            "Path": "OpenTabletDriver.Desktop.Binding.LinuxArtistMode.LinuxArtistModeButtonBinding",
+            "Settings": [
+              {
+                "Property": "Button",
+                "Value": "Pen Button 2"
+              }
+            ],
+            "Enable": true
+          },
+          {
+            "Path": "OpenTabletDriver.Desktop.Binding.LinuxArtistMode.LinuxArtistModeButtonBinding",
+            "Settings": [
+              {
+                "Property": "Button",
+                "Value": "Pen Button 3"
+              }
+            ],
+            "Enable": true
+          }
         ],
         "AuxButtons": [],
         "MouseButtons": [],
