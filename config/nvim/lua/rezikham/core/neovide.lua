@@ -1,7 +1,7 @@
 --set guifont=JetBrainsMono\ Nerd\ Font\ Regular\ Font:h10,\ JetBrainsMono\ Nerd\ Font\ Regular\ Font:h11,\ Fira\ Sans\ Regular\ Font:h11
 vim.cmd([[
   set guifont=JetBrainsMonoNL\ Nerd\ Font\ Mono\ Regular\ Font:h10
-  let g:neovide_transparency = 0.8
+  let g:neovide_transparency = 0.9
   let g:transparency = 1.0
   let g:neovide_background_color = '#0f1117'.printf('%x', float2nr(255 * g:transparency))
   let g:neovide_cursor_vfx_mode = "pixiedust"
