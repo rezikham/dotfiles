@@ -1,284 +1,221 @@
-[09:49:43:976] Translator::loadCatalog: can't load "qt_en_AU" from "/usr/share/smplayer/translations"
-[09:49:43:976] Translator::loadCatalog: successfully loaded "qt_en_AU" from "/usr/share/qt/translations"
-[09:49:43:976] Translator::loadCatalog: can't load "qtbase_en_AU" from "/usr/share/smplayer/translations"
-[09:49:43:976] Translator::loadCatalog: successfully loaded "qtbase_en_AU" from "/usr/share/qt/translations"
-[09:49:43:977] Translator::loadCatalog: successfully loaded "smplayer_en_AU" from "/usr/share/smplayer/translations"
-[09:49:43:977] This is SMPlayer v. 22.7.0 (revision 10091) running on Linux
-[09:49:43:977] Compiled with Qt v. 5.15.5, using 5.15.6
-[09:49:43:977]  * application path: "/usr/bin"
-[09:49:43:977]  * data path: "/usr/share/smplayer"
-[09:49:43:977]  * translation path: "/usr/share/smplayer/translations"
-[09:49:43:977]  * doc path: "/usr/share/doc/smplayer"
-[09:49:43:977]  * themes path: "/usr/share/smplayer/themes"
-[09:49:43:977]  * shortcuts path: "/usr/share/smplayer/shortcuts"
-[09:49:43:977]  * config path: "/home/rezikham/.config/smplayer"
-[09:49:43:977]  * ini path: "/home/rezikham/.config/smplayer"
-[09:49:43:977]  * file for subtitles' styles: "/home/rezikham/.config/smplayer/styles.ass"
-[09:49:43:977]  * current path: "/home/rezikham"
-[09:49:43:977] main: hdpi_config_path: "/home/rezikham/.config/smplayer"
-[09:49:43:977] SMPlayer::processArgs: arguments: 1
-[09:49:43:977] SMPlayer::processArgs: 0 = /usr/bin/smplayer
-[09:49:43:977] SMPlayer::processArgs: files_to_play: count: 0
-[09:49:43:977] SMPlayer::gui: changed working directory to app path
-[09:49:43:977] SMPlayer::gui: current directory: /usr/bin
-[09:49:43:977] ScreenHelper::setAutoHideCursor: 0
-[09:49:43:978] MediaSettings::reset
-[09:49:43:978] Core::changeFileSettingsMethod: hash
-[09:49:43:978] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:49:43:978] PlayerProcess::createPlayerProcess: creating MPVProcess
-[09:49:43:978] MyProcess::MyProcess: bin_path: "/home/rezikham/bin"
-[09:49:43:978] MyProcess::MyProcess: PATH: "/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/cuda/bin:/opt/cuda/nsight_compute:/opt/cuda/nsight_systems/bin:/home/rezikham/.dotnet/tools:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
-[09:49:43:978] MyProcess::MyProcess: paths: ("/usr/local/sbin", "/usr/local/bin", "/usr/bin", "/opt/cuda/bin", "/opt/cuda/nsight_compute", "/opt/cuda/nsight_systems/bin", "/home/rezikham/.dotnet/tools", "/var/lib/flatpak/exports/bin", "/usr/lib/jvm/default/bin", "/usr/bin/site_perl", "/usr/bin/vendor_perl", "/usr/bin/core_perl")
-[09:49:43:978] MyProcess::MyProcess: PATH: "/home/rezikham/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/cuda/bin:/opt/cuda/nsight_compute:/opt/cuda/nsight_systems/bin:/home/rezikham/.dotnet/tools:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
-[09:49:43:978] MPVProcess::initializeOptionVars
-[09:49:43:978] MPVProcess::MPVProcess: socket_name: "/tmp/smplayer-mpv-1ecb5"
-[09:49:43:978] MediaSettings::reset
-[09:49:43:978] VideoLayer::setRepaintBackground: 1
-[09:49:43:978] Preferences::monitor_aspect_double
-[09:49:43:978]  warning: monitor_aspect couldn't be parsed!
-[09:49:43:978]  monitor_aspect set to 0
-[09:49:43:978] PowerSaving::PowerSaving: interface is valid
-[09:49:43:994] Playlist::setModified: 0
-[09:49:43:994] Playlist::updateWindowTitle: "Untitled playlist"
-[09:49:43:995] WARNING: libpng warning: iCCP: known incorrect sRGB profile
-[09:49:44:006] Recents::addItem: 'http://smplayer.info/sample.m3u8'
-[09:49:44:006] Playlist::setConfigPath: "/home/rezikham/.config/smplayer"
-[09:49:44:006] Playlist::setConfigPath: ini file: "/home/rezikham/.config/smplayer/playlist.ini"
-[09:49:44:007] Playlist::loadSettings
-[09:49:44:007] Helper::qtVersion: 6506
-[09:49:44:007] Playlist::updateWindowTitle: "Untitled playlist"
-[09:49:44:007] Playlist::setModified: 0
-[09:49:44:007] Playlist::updateWindowTitle: "Untitled playlist"
-[09:49:44:009] BaseGui::BaseGui: default_style: ""
-[09:49:44:010] Favorites::load
-[09:49:44:010] Favorites::load
-[09:49:44:010] TVList::parse_channels_conf
-[09:49:44:010] VList::parse_channels_conf: /home/rezikham/.mplayer/channels.conf.ter doesn't exist
-[09:49:44:010] TVList::parse_channels_conf: can't open /home/rezikham/.mplayer/channels.conf
-[09:49:44:010] Favorites::load
-[09:49:44:010] TVList::parse_channels_conf
-[09:49:44:010] VList::parse_channels_conf: /home/rezikham/.mplayer/channels.conf.ter doesn't exist
-[09:49:44:010] TVList::parse_channels_conf: can't open /home/rezikham/.mplayer/channels.conf
-[09:49:44:026] BaseGui::initializeMenus
-[09:49:44:026] BaseGui::updateBookmarks
-[09:49:44:027] WARNING: libpng warning: iCCP: known incorrect sRGB profile
-[09:49:44:027] WARNING: libpng warning: iCCP: known incorrect sRGB profile
-[09:49:44:027] WARNING: libpng warning: iCCP: known incorrect sRGB profile
-[09:49:44:030] WARNING: libpng warning: iCCP: known incorrect sRGB profile
-[09:49:44:030] WARNING: libpng warning: iCCP: known incorrect sRGB profile
-[09:49:44:031] BaseGui::initializeMenus
-[09:49:44:031] BaseGui::updateBookmarks
-[09:49:44:031] BaseGui::updateRecents
-[09:49:44:032] BaseGui::updateWidgets
-[09:49:44:032] Core::changeUseCustomSubStyle: 1
-[09:49:44:032] Core::changeSubVisilibity: 1
-[09:49:44:032] Core::displayMessage
-[09:49:44:032] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:49:44:032] BaseGui::setupNetworkProxy
-[09:49:44:032] BaseGui::setupNetworkProxy: no proxy
-[09:49:44:032] BaseGui::setStayOnTop: 0
-[09:49:44:032] BaseGui::setStayOnTop: nothing to do
-[09:49:44:032] BaseGui::updateWidgets
-[09:49:44:032] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:49:44:032] BaseGui::updateRecents
-[09:49:44:032] UpdateChecker::UpdateChecker: enabled: true
-[09:49:44:032] UpdateChecker::UpdateChecker: days_to_check: 7
-[09:49:44:032] UpdateChecker::UpdateChecker: days since last check: 0
-[09:49:44:033] BaseGuiPlus::updateSendToScreen
-[09:49:44:033] BaseGuiPlus::updateSendAudioMenu
-[09:49:44:033] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:49:44:033] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:49:44:033] DeviceInfo::mpvAudioDevices
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "List of detected audio devices:"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'auto' (Autoselect device)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'pulse/alsa_output.usb-iFi__by_AMR__iFi__by_AMR__HD_USB_Audio_0000-00.iec958-stereo' (iFi (by AMR) HD USB Audio Digital Stereo (IEC958))"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: device: "alsa_output.usb-iFi__by_AMR__iFi__by_AMR__HD_USB_Audio_0000-00.iec958-stereo" name: "iFi (by AMR) HD USB Audio Digital Stereo (IEC958)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'pulse/alsa_output.pci-0000_07_00.6.analog-stereo' (Family 17h/19h HD Audio Controller Analog Stereo)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: device: "alsa_output.pci-0000_07_00.6.analog-stereo" name: "Family 17h/19h HD Audio Controller Analog Stereo"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'pulse/alsa_output.pci-0000_01_00.1.hdmi-stereo' (HDA NVidia Digital Stereo (HDMI))"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: device: "alsa_output.pci-0000_01_00.1.hdmi-stereo" name: "HDA NVidia Digital Stereo (HDMI)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa' (Default (alsa))"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/lavrate' (Rate Converter Plugin Using Libav/FFmpeg Library)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/samplerate' (Rate Converter Plugin Using Samplerate Library)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/speexrate' (Rate Converter Plugin Using Speex Resampler)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/jack' (JACK Audio Connection Kit)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/oss' (Open Sound System)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/pipewire' (PipeWire Sound Server)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/speex' (Plugin using Speex DSP (resample, agc, denoise, echo, dereverb))"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/upmix' (Plugin for channel upmix (4,6,8))"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/vdownmix' (Plugin for channel downmix (stereo) with a simple spacialization)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=NVidia,DEV=0' (HDA NVidia, MSI G27C6    /HDMI Audio Output)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=NVidia,DEV=1' (HDA NVidia, HDMI 1/HDMI Audio Output)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=NVidia,DEV=2' (HDA NVidia, HDMI 2/HDMI Audio Output)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=NVidia,DEV=3' (HDA NVidia, HDMI 3/HDMI Audio Output)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=NVidia,DEV=4' (HDA NVidia, HDMI 4/HDMI Audio Output)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/usbstream:CARD=NVidia' (HDA NVidia/USB Stream Output)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=Generic,DEV=0' (HD-Audio Generic, HDMI 0/HDMI Audio Output)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/usbstream:CARD=Generic' (HD-Audio Generic/USB Stream Output)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/sysdefault:CARD=Generic_1' (HD-Audio Generic, ALC289 Analog/Default Audio Device)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/front:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/Front output / input)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/surround21:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/2.1 Surround output to Front and Subwoofer speakers)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/surround40:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/4.0 Surround output to Front and Rear speakers)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/surround41:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/4.1 Surround output to Front, Rear and Subwoofer speakers)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/surround50:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/5.0 Surround output to Front, Center and Rear speakers)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/surround51:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/5.1 Surround output to Front, Center, Rear and Subwoofer speakers)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/surround71:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/7.1 Surround output to Front, Center, Side, Rear and Woofer speakers)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/usbstream:CARD=Generic_1' (HD-Audio Generic/USB Stream Output)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/sysdefault:CARD=Audio' (iFi (by AMR) HD USB Audio, USB Audio/Default Audio Device)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/front:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/Front output / input)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/surround21:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/2.1 Surround output to Front and Subwoofer speakers)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/surround40:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/4.0 Surround output to Front and Rear speakers)"
-[09:49:44:098] DeviceInfo::mpvAudioDevices: "'alsa/surround41:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/4.1 Surround output to Front, Rear and Subwoofer speakers)"
-[09:49:44:099] DeviceInfo::mpvAudioDevices: "'alsa/surround50:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/5.0 Surround output to Front, Center and Rear speakers)"
-[09:49:44:099] DeviceInfo::mpvAudioDevices: "'alsa/surround51:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/5.1 Surround output to Front, Center, Rear and Subwoofer speakers)"
-[09:49:44:099] DeviceInfo::mpvAudioDevices: "'alsa/surround71:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/7.1 Surround output to Front, Center, Side, Rear and Woofer speakers)"
-[09:49:44:099] DeviceInfo::mpvAudioDevices: "'alsa/iec958:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/IEC958 (S/PDIF) Digital Audio Output)"
-[09:49:44:099] DeviceInfo::mpvAudioDevices: "'alsa/usbstream:CARD=Audio' (iFi (by AMR) HD USB Audio/USB Stream Output)"
-[09:49:44:099] DeviceInfo::mpvAudioDevices: "'jack' (Default (jack))"
-[09:49:44:099] GlobalShortcuts::GlobalShortcuts
-[09:49:44:099] GlobalShortcuts::setEnabled: false
-[09:49:44:099] Chromecast::loadSettings
-[09:49:44:101] BaseGui::initializeMenus
-[09:49:44:101] BaseGui::updateBookmarks
-[09:49:44:101] BaseGui::updateRecents
-[09:49:44:101] BaseGuiPlus::updateWidgets
-[09:49:44:101] BaseGui::updateWidgets
-[09:49:44:101] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:49:44:103] BaseGuiPlus::loadConfig
-[09:49:44:103] TimeSlider::setDragDelay: 100
-[09:49:44:104] AutohideWidget::installFilter: child name: ""
-[09:49:44:104] AutohideWidget::installFilter: child name: "mplayerwindowlogo"
-[09:49:44:104] AutohideWidget::installFilter: child name: ""
-[09:49:44:104] BaseGuiPlus::populateMainMenu
-[09:49:44:104] BaseGui::populateMainMenu
-[09:49:44:105] BaseGuiPlus::initializeSystrayMenu
-[09:49:44:105] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:105] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:106] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:106] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:106] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:106] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:106] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:106] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:113] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:113] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:113] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:113] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:116] BaseGui::initializeMenus
-[09:49:44:116] BaseGui::updateBookmarks
-[09:49:44:116] BaseGui::updateRecents
-[09:49:44:116] BaseGuiPlus::updateWidgets
-[09:49:44:116] BaseGui::updateWidgets
-[09:49:44:116] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:49:44:118] DesktopInfo::isInsideScreen: center point of window: QPoint(1105,507)
-[09:49:44:118] DesktopInfo::isInsideScreen: virtual geometry: QRect(0,0 3840x1080)
-[09:49:44:118] Helper::qtVersion: 6506
-[09:49:44:118] BaseGui::applyStyles
-[09:49:44:118] BaseGui::applyStyles: stylesheet: ""
-[09:49:44:118] BaseGui::changeStyleSheet: ""
-[09:49:44:118] BaseGui::loadQss: :/default-theme/style.qss
-[09:49:44:118] Images::setThemesPath: "/usr/share/smplayer/themes"
-[09:49:44:118] Images::resourceFilename: ""
-[09:49:44:118] Images::setTheme: has_rcc: false
-[09:49:44:124] BaseGui::applyStyles: style: "kvantum-dark"
-[09:49:44:141] BaseGui::showEvent
-[09:49:44:153] BaseGui::loadActions
-[09:49:44:153] ActionsEditor::loadFromConfig
-[09:49:44:159] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:159] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:159] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:159] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:159] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:159] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:160] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:160] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:165] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:165] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:165] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:165] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:167] BaseGui::initializeMenus
-[09:49:44:167] BaseGui::updateBookmarks
-[09:49:44:167] BaseGui::updateRecents
-[09:49:44:168] BaseGuiPlus::updateWidgets
-[09:49:44:168] BaseGui::updateWidgets
-[09:49:44:168] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:49:44:286] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:286] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:286] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:286] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:287] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:287] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:297] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:297] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:297] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:297] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:298] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:298] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:304] BaseGuiPlus::updateShortcutsContext
-[09:49:44:304] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:304] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:304] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:304] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:304] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:304] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:44:305] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:44:305] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:45:033] BaseGui::checkReminder
-[09:49:53:866] BaseGui::dragEnterEvent
-[09:49:54:387] BaseGui::dropEvent
-[09:49:54:411] BaseGui::dropEvent: scheme: "file"
-[09:49:54:411] BaseGui::dropEvent: file: "/run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]"
-[09:49:54:411] BaseGui::dropEvent: list of dirs: ("/run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]")
-[09:49:54:411] BaseGui::dropEvent: list of files: ()
-[09:49:54:411] BaseGui::dropEvent: subtitle file: ""
-[09:49:54:411] BaseGui::openDirectory: '/run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]'
-[09:49:54:411] Playlist::setModified: 0
-[09:49:54:411] Playlist::updateWindowTitle: "Untitled playlist"
-[09:49:54:411] Playlist::addFiles
-[09:49:54:411] Playlist::addFiles: latest_dir: "/run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]"
-[09:49:54:411] Playlist::setModified: 1
-[09:49:54:412] Playlist::updateWindowTitle: "Untitled playlist (*)"
-[09:49:54:412] Playlist::playItem: 0 (count: 1)
-[09:49:54:412] Core::open: '/run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO'
-[09:49:54:412] Core::open: * identified as a dvd iso
-[09:49:54:412] DiscName::join: result: 'dvd://0//run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO'
-[09:49:54:412] Core::openDVD: 'dvd://0//run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO'
-[09:49:54:412] DiscName::split: disc_url: 'dvd://0//run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO'
-[09:49:54:412] DiscName::split: protocol: 'dvd'
-[09:49:54:412] DiscName::split: title: '0'
-[09:49:54:412] DiscName::split: device: '/run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO'
-[09:49:54:412] Core::saveMediaInfo
-[09:49:54:412] MediaSettings::reset
-[09:49:54:412] Core::initPlaying
-[09:49:54:412] MplayerWindow::setLogoVisible: false
-[09:49:54:412] Core::startMplayer: file: "dvd://0//run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO" seek: 0
-[09:49:54:412] RetrieveYoutubeUrl::close
-[09:49:54:412] DiscName::split: disc_url: 'dvd://0//run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO'
-[09:49:54:412] DiscName::split: protocol: 'dvd'
-[09:49:54:412] DiscName::split: title: '0'
-[09:49:54:412] DiscName::split: device: '/run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO'
-[09:49:54:412] Core::startMplayer: checking if stream is a playlist
-[09:49:54:412] Core::startMplayer: url path: ''
-[09:49:54:412] Core::startMplayer: url_is_playlist: 0
-[09:49:54:412] InfoReader::setPlayerBin: mplayerbin: "/usr/bin/mpv"
-[09:49:54:413] InfoReader::getInfo: sname: "mpv_293174a9b0164bdf"
-[09:49:54:414] InfoReader::getInfo: loaded info from "/home/rezikham/.config/smplayer/player_info.ini"
-[09:49:54:420] Core::startMplayer: hardware decoding is enabled. The video filters will be ignored
-[09:49:54:421] Core::startMplayer: edl file: ''
-[09:49:54:421] Core::startMplayer: extra_params: ()
-[09:49:54:421] MyProcess::splitArguments: '--vo=gpu'
-[09:49:54:421] MyProcess::splitArguments: arg: 0 '--vo=gpu'
-[09:49:54:421] arg 0: --vo=gpu
-[09:49:54:421] MPVProcess::addUserOption: "--vo=gpu"
-[09:49:54:421] MPVProcess::addUserOption: s: "--vo=gpu"
-[09:49:54:421] ScreenHelper::playingStarted
-[09:49:54:421] ScreenHelper::setAutoHideCursor: 1
-[09:49:54:421] VideoLayer::playingStarted
-[09:49:54:421] Core::disableScreensaver
-[09:49:54:421] PowerSaving::inhibit
-[09:49:54:421] PowerSaving::inhibit: valid reply
-[09:49:54:421] PowerSaving::inhibit: cookie: 11910
-[09:49:54:422] Core::startMplayer: command: '/usr/bin/mpv --no-quiet --terminal --no-msg-color --input-ipc-server=/tmp/smplayer-mpv-1ecb5 --msg-level=ffmpeg/demuxer=error --video-rotate=no --no-config --no-fs --hwdec=vaapi --sub-auto=fuzzy --vo=vaapi, --ao=pulse, --no-input-default-bindings --input-vo-keyboard=no --no-input-cursor --cursor-autohide=no --no-keepaspect --wid=73400341 --monitorpixelaspect=1 --osd-level=1 --osd-scale=1 --osd-bar-align-y=0.6 --sub-ass --embeddedfonts --sub-ass-line-spacing=0 --sub-scale=1 --sub-font=Arial --sub-color=#ffffffff --sub-shadow-color=#ff000000 --sub-border-color=#ff000000 --sub-border-size=0.75 --sub-shadow-offset=2.5 --sub-font-size=50 --sub-bold=no --sub-italic=no --sub-margin-y=8 --sub-margin-x=20 --sub-codepage=ISO-8859-1 --sub-pos=100 --volume=55 --dvd-device=/run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO --cache=auto --screenshot-template=cap_%F_%p_%02n --screenshot-format=jpg --screenshot-directory=/home/rezikham/Pictures/smplayer_screenshots --audio-pitch-correction=yes --volume-max=110 --vo=gpu --term-playing-msg=MPV_VERSION=${=mpv-version:}
+[23:43:32:427] Translator::loadCatalog: can't load "qt_en_AU" from "/usr/share/smplayer/translations"
+[23:43:32:428] Translator::loadCatalog: successfully loaded "qt_en_AU" from "/usr/share/qt/translations"
+[23:43:32:428] Translator::loadCatalog: can't load "qtbase_en_AU" from "/usr/share/smplayer/translations"
+[23:43:32:428] Translator::loadCatalog: successfully loaded "qtbase_en_AU" from "/usr/share/qt/translations"
+[23:43:32:428] Translator::loadCatalog: successfully loaded "smplayer_en_AU" from "/usr/share/smplayer/translations"
+[23:43:32:428] This is SMPlayer v. 22.7.0 (revision 10091) running on Linux
+[23:43:32:428] Compiled with Qt v. 5.15.5, using 5.15.7
+[23:43:32:428]  * application path: "/usr/bin"
+[23:43:32:428]  * data path: "/usr/share/smplayer"
+[23:43:32:428]  * translation path: "/usr/share/smplayer/translations"
+[23:43:32:428]  * doc path: "/usr/share/doc/smplayer"
+[23:43:32:428]  * themes path: "/usr/share/smplayer/themes"
+[23:43:32:428]  * shortcuts path: "/usr/share/smplayer/shortcuts"
+[23:43:32:428]  * config path: "/home/rezikham/.config/smplayer"
+[23:43:32:428]  * ini path: "/home/rezikham/.config/smplayer"
+[23:43:32:428]  * file for subtitles' styles: "/home/rezikham/.config/smplayer/styles.ass"
+[23:43:32:428]  * current path: "/home/rezikham"
+[23:43:32:428] main: hdpi_config_path: "/home/rezikham/.config/smplayer"
+[23:43:32:428] SMPlayer::processArgs: arguments: 2
+[23:43:32:428] SMPlayer::processArgs: 0 = smplayer
+[23:43:32:428] SMPlayer::processArgs: 1 = /home/rezikham/Videos/immortal-flame-5star.mp4
+[23:43:32:428] SMPlayer::processArgs: files_to_play: count: 1
+[23:43:32:428] SMPlayer::processArgs: files_to_play[0]: '/home/rezikham/Videos/immortal-flame-5star.mp4'
+[23:43:32:428] SMPlayer::gui: changed working directory to app path
+[23:43:32:428] SMPlayer::gui: current directory: /usr/bin
+[23:43:32:428] ScreenHelper::setAutoHideCursor: 0
+[23:43:32:429] MediaSettings::reset
+[23:43:32:429] Core::changeFileSettingsMethod: hash
+[23:43:32:429] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[23:43:32:429] PlayerProcess::createPlayerProcess: creating MPVProcess
+[23:43:32:429] MyProcess::MyProcess: bin_path: "/home/rezikham/bin"
+[23:43:32:429] MyProcess::MyProcess: PATH: "/home/rezikham/anaconda3/condabin:/home/rezikham/.local/bin/:/home/rezikham/.config/fish/color:/home/rezikham/.config/bin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
+[23:43:32:429] MyProcess::MyProcess: paths: ("/home/rezikham/anaconda3/condabin", "/home/rezikham/.local/bin/", "/home/rezikham/.config/fish/color", "/home/rezikham/.config/bin", "/usr/local/bin", "/usr/bin", "/usr/bin/site_perl", "/usr/bin/vendor_perl", "/usr/bin/core_perl")
+[23:43:32:429] MyProcess::MyProcess: PATH: "/home/rezikham/bin:/home/rezikham/anaconda3/condabin:/home/rezikham/.local/bin/:/home/rezikham/.config/fish/color:/home/rezikham/.config/bin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
+[23:43:32:429] MPVProcess::initializeOptionVars
+[23:43:32:429] MPVProcess::MPVProcess: socket_name: "/tmp/smplayer-mpv-2337d9"
+[23:43:32:429] MediaSettings::reset
+[23:43:32:429] VideoLayer::setRepaintBackground: 1
+[23:43:32:429] Preferences::monitor_aspect_double
+[23:43:32:429]  warning: monitor_aspect couldn't be parsed!
+[23:43:32:429]  monitor_aspect set to 0
+[23:43:32:430] PowerSaving::PowerSaving: interface is valid
+[23:43:32:445] Playlist::setModified: 0
+[23:43:32:445] Playlist::updateWindowTitle: "Untitled playlist"
+[23:43:32:446] WARNING: libpng warning: iCCP: known incorrect sRGB profile
+[23:43:32:463] Recents::addItem: 'http://smplayer.info/sample.m3u8'
+[23:43:32:463] Playlist::setConfigPath: "/home/rezikham/.config/smplayer"
+[23:43:32:463] Playlist::setConfigPath: ini file: "/home/rezikham/.config/smplayer/playlist.ini"
+[23:43:32:463] Playlist::loadSettings
+[23:43:32:463] Helper::qtVersion: 6507
+[23:43:32:463] Playlist::updateWindowTitle: "Untitled playlist"
+[23:43:32:463] Playlist::setModified: 0
+[23:43:32:463] Playlist::updateWindowTitle: "Untitled playlist"
+[23:43:32:465] BaseGui::BaseGui: default_style: ""
+[23:43:32:466] Favorites::load
+[23:43:32:466] Favorites::load
+[23:43:32:466] TVList::parse_channels_conf
+[23:43:32:466] VList::parse_channels_conf: /home/rezikham/.mplayer/channels.conf.ter doesn't exist
+[23:43:32:466] TVList::parse_channels_conf: can't open /home/rezikham/.mplayer/channels.conf
+[23:43:32:466] Favorites::load
+[23:43:32:466] TVList::parse_channels_conf
+[23:43:32:466] VList::parse_channels_conf: /home/rezikham/.mplayer/channels.conf.ter doesn't exist
+[23:43:32:466] TVList::parse_channels_conf: can't open /home/rezikham/.mplayer/channels.conf
+[23:43:32:468] BaseGui::initializeMenus
+[23:43:32:468] BaseGui::updateBookmarks
+[23:43:32:468] WARNING: libpng warning: iCCP: known incorrect sRGB profile
+[23:43:32:469] WARNING: libpng warning: iCCP: known incorrect sRGB profile
+[23:43:32:469] WARNING: libpng warning: iCCP: known incorrect sRGB profile
+[23:43:32:471] WARNING: libpng warning: iCCP: known incorrect sRGB profile
+[23:43:32:472] WARNING: libpng warning: iCCP: known incorrect sRGB profile
+[23:43:32:473] BaseGui::initializeMenus
+[23:43:32:473] BaseGui::updateBookmarks
+[23:43:32:473] BaseGui::updateRecents
+[23:43:32:473] BaseGui::updateWidgets
+[23:43:32:473] Core::changeUseCustomSubStyle: 1
+[23:43:32:473] Core::changeSubVisilibity: 1
+[23:43:32:473] Core::displayMessage
+[23:43:32:473] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[23:43:32:473] BaseGui::setupNetworkProxy
+[23:43:32:473] BaseGui::setupNetworkProxy: no proxy
+[23:43:32:473] BaseGui::setStayOnTop: 0
+[23:43:32:473] BaseGui::setStayOnTop: nothing to do
+[23:43:32:473] BaseGui::updateWidgets
+[23:43:32:473] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[23:43:32:473] BaseGui::updateRecents
+[23:43:32:474] UpdateChecker::UpdateChecker: enabled: true
+[23:43:32:474] UpdateChecker::UpdateChecker: days_to_check: 7
+[23:43:32:474] UpdateChecker::UpdateChecker: days since last check: 0
+[23:43:32:477] BaseGuiPlus::updateSendToScreen
+[23:43:32:477] BaseGuiPlus::updateSendAudioMenu
+[23:43:32:477] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[23:43:32:477] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[23:43:32:478] DeviceInfo::mpvAudioDevices
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "List of detected audio devices:"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'auto' (Autoselect device)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'pulse/alsa_output.pci-0000_07_00.6.analog-stereo' (Family 17h/19h HD Audio Controller Analog Stereo)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: device: "alsa_output.pci-0000_07_00.6.analog-stereo" name: "Family 17h/19h HD Audio Controller Analog Stereo"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'pulse/alsa_output.usb-iFi__by_AMR__iFi__by_AMR__HD_USB_Audio_0000-00.iec958-stereo' (iFi (by AMR) HD USB Audio Digital Stereo (IEC958))"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: device: "alsa_output.usb-iFi__by_AMR__iFi__by_AMR__HD_USB_Audio_0000-00.iec958-stereo" name: "iFi (by AMR) HD USB Audio Digital Stereo (IEC958)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa' (Default (alsa))"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/lavrate' (Rate Converter Plugin Using Libav/FFmpeg Library)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/samplerate' (Rate Converter Plugin Using Samplerate Library)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/speexrate' (Rate Converter Plugin Using Speex Resampler)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/jack' (JACK Audio Connection Kit)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/oss' (Open Sound System)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/pipewire' (PipeWire Sound Server)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/speex' (Plugin using Speex DSP (resample, agc, denoise, echo, dereverb))"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/upmix' (Plugin for channel upmix (4,6,8))"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/vdownmix' (Plugin for channel downmix (stereo) with a simple spacialization)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=NVidia,DEV=0' (HDA NVidia, HDMI 0/HDMI Audio Output)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=NVidia,DEV=1' (HDA NVidia, HDMI 1/HDMI Audio Output)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=NVidia,DEV=2' (HDA NVidia, HDMI 2/HDMI Audio Output)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=NVidia,DEV=3' (HDA NVidia, HDMI 3/HDMI Audio Output)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=NVidia,DEV=4' (HDA NVidia, HDMI 4/HDMI Audio Output)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/usbstream:CARD=NVidia' (HDA NVidia/USB Stream Output)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=Generic,DEV=0' (HD-Audio Generic, MSI G27C6/HDMI Audio Output)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/usbstream:CARD=Generic' (HD-Audio Generic/USB Stream Output)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/sysdefault:CARD=Generic_1' (HD-Audio Generic, ALC289 Analog/Default Audio Device)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/front:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/Front output / input)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/surround21:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/2.1 Surround output to Front and Subwoofer speakers)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/surround40:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/4.0 Surround output to Front and Rear speakers)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/surround41:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/4.1 Surround output to Front, Rear and Subwoofer speakers)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/surround50:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/5.0 Surround output to Front, Center and Rear speakers)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/surround51:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/5.1 Surround output to Front, Center, Rear and Subwoofer speakers)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/surround71:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/7.1 Surround output to Front, Center, Side, Rear and Woofer speakers)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/usbstream:CARD=Generic_1' (HD-Audio Generic/USB Stream Output)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/sysdefault:CARD=Audio' (iFi (by AMR) HD USB Audio, USB Audio/Default Audio Device)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/front:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/Front output / input)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/surround21:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/2.1 Surround output to Front and Subwoofer speakers)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/surround40:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/4.0 Surround output to Front and Rear speakers)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/surround41:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/4.1 Surround output to Front, Rear and Subwoofer speakers)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/surround50:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/5.0 Surround output to Front, Center and Rear speakers)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/surround51:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/5.1 Surround output to Front, Center, Rear and Subwoofer speakers)"
+[23:43:32:562] DeviceInfo::mpvAudioDevices: "'alsa/surround71:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/7.1 Surround output to Front, Center, Side, Rear and Woofer speakers)"
+[23:43:32:563] DeviceInfo::mpvAudioDevices: "'alsa/iec958:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/IEC958 (S/PDIF) Digital Audio Output)"
+[23:43:32:563] DeviceInfo::mpvAudioDevices: "'alsa/usbstream:CARD=Audio' (iFi (by AMR) HD USB Audio/USB Stream Output)"
+[23:43:32:563] DeviceInfo::mpvAudioDevices: "'jack' (Default (jack))"
+[23:43:32:563] GlobalShortcuts::GlobalShortcuts
+[23:43:32:563] GlobalShortcuts::setEnabled: false
+[23:43:32:565] Chromecast::loadSettings
+[23:43:32:566] BaseGui::initializeMenus
+[23:43:32:567] BaseGui::updateBookmarks
+[23:43:32:567] BaseGui::updateRecents
+[23:43:32:567] BaseGuiPlus::updateWidgets
+[23:43:32:567] BaseGui::updateWidgets
+[23:43:32:567] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[23:43:32:567] BaseGuiPlus::loadConfig
+[23:43:32:568] TimeSlider::setDragDelay: 100
+[23:43:32:568] AutohideWidget::installFilter: child name: ""
+[23:43:32:568] AutohideWidget::installFilter: child name: "mplayerwindowlogo"
+[23:43:32:568] AutohideWidget::installFilter: child name: ""
+[23:43:32:568] BaseGuiPlus::populateMainMenu
+[23:43:32:568] BaseGui::populateMainMenu
+[23:43:32:568] BaseGuiPlus::initializeSystrayMenu
+[23:43:32:570] WARNING: libpng warning: known incorrect sRGB profile
+[23:43:32:570] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[23:43:32:571] WARNING: libpng warning: known incorrect sRGB profile
+[23:43:32:571] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[23:43:32:574] BaseGui::initializeMenus
+[23:43:32:574] BaseGui::updateBookmarks
+[23:43:32:574] BaseGui::updateRecents
+[23:43:32:574] BaseGuiPlus::updateWidgets
+[23:43:32:574] BaseGui::updateWidgets
+[23:43:32:574] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[23:43:32:575] DesktopInfo::isInsideScreen: center point of window: QPoint(483,568)
+[23:43:32:575] DesktopInfo::isInsideScreen: virtual geometry: QRect(0,32 1920x1048)
+[23:43:32:575] Helper::qtVersion: 6507
+[23:43:32:575] BaseGui::applyStyles
+[23:43:32:575] BaseGui::applyStyles: stylesheet: ""
+[23:43:32:575] BaseGui::changeStyleSheet: ""
+[23:43:32:575] BaseGui::loadQss: :/default-theme/style.qss
+[23:43:32:575] Images::setThemesPath: "/usr/share/smplayer/themes"
+[23:43:32:575] Images::resourceFilename: ""
+[23:43:32:575] Images::setTheme: has_rcc: false
+[23:43:32:585] BaseGui::applyStyles: style: "kvantum-dark"
+[23:43:32:636] BaseGui::showEvent
+[23:43:32:637] BaseGui::setInitialSecond: 0
+[23:43:32:637] BaseGui::openFiles
+[23:43:32:637] Playlist::setModified: 0
+[23:43:32:637] Playlist::updateWindowTitle: "Untitled playlist"
+[23:43:32:637] Playlist::addFiles
+[23:43:32:637] Playlist::addFiles: latest_dir: "/home/rezikham/Videos"
+[23:43:32:637] BaseGui::open: '/home/rezikham/Videos/immortal-flame-5star.mp4'
+[23:43:32:637] Core::open: '/home/rezikham/Videos/immortal-flame-5star.mp4'
+[23:43:32:637] Core::open: * identified as local file
+[23:43:32:637] Core::openFile: '/home/rezikham/Videos/immortal-flame-5star.mp4'
+[23:43:32:637] Core::playNewFile: '/home/rezikham/Videos/immortal-flame-5star.mp4'
+[23:43:32:637] Core::saveMediaInfo
+[23:43:32:637] MediaSettings::reset
+[23:43:32:637] FileSettingsHash::existSettingsFor: "/home/rezikham/Videos/immortal-flame-5star.mp4"
+[23:43:32:639] FileSettingsHash::existSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/7/73567dfd6732c52c.ini"
+[23:43:32:639] Core::playNewFile: volume: 40, old_volume: 40
+[23:43:32:639] Core::initPlaying
+[23:43:32:639] MplayerWindow::setLogoVisible: false
+[23:43:32:639] Core::startMplayer: file: "/home/rezikham/Videos/immortal-flame-5star.mp4" seek: 0
+[23:43:32:639] RetrieveYoutubeUrl::close
+[23:43:32:639] Core::startMplayer: checking if stream is a playlist
+[23:43:32:639] Core::startMplayer: url path: '/home/rezikham/Videos/immortal-flame-5star.mp4'
+[23:43:32:639] Core::startMplayer: url_is_playlist: 0
+[23:43:32:639] InfoReader::setPlayerBin: mplayerbin: "/usr/bin/mpv"
+[23:43:32:640] InfoReader::getInfo: sname: "mpv_293174a9b0164bdf"
+[23:43:32:641] InfoReader::getInfo: loaded info from "/home/rezikham/.config/smplayer/player_info.ini"
+[23:43:32:644] Core::startMplayer: hardware decoding is enabled. The video filters will be ignored
+[23:43:32:644] Core::startMplayer: edl file: ''
+[23:43:32:644] Core::startMplayer: extra_params: ()
+[23:43:32:644] MyProcess::splitArguments: '--vo=gpu'
+[23:43:32:644] MyProcess::splitArguments: arg: 0 '--vo=gpu'
+[23:43:32:644] arg 0: --vo=gpu
+[23:43:32:644] MPVProcess::addUserOption: "--vo=gpu"
+[23:43:32:644] MPVProcess::addUserOption: s: "--vo=gpu"
+[23:43:32:644] ScreenHelper::playingStarted
+[23:43:32:644] ScreenHelper::setAutoHideCursor: 1
+[23:43:32:644] VideoLayer::playingStarted
+[23:43:32:644] Core::disableScreensaver
+[23:43:32:644] PowerSaving::inhibit
+[23:43:32:646] PowerSaving::inhibit: valid reply
+[23:43:32:646] PowerSaving::inhibit: cookie: 578496891
+[23:43:32:646] Core::startMplayer: command: '/usr/bin/mpv --no-quiet --terminal --no-msg-color --input-ipc-server=/tmp/smplayer-mpv-2337d9 --msg-level=ffmpeg/demuxer=error --video-rotate=no --no-config --no-fs --hwdec=vaapi --sub-auto=fuzzy --vo=vaapi, --ao=pulse, --no-input-default-bindings --input-vo-keyboard=no --no-input-cursor --cursor-autohide=no --no-keepaspect --wid=85983249 --monitorpixelaspect=1 --osd-level=1 --osd-scale=1 --osd-bar-align-y=0.6 --sub-ass --embeddedfonts --sub-ass-line-spacing=0 --sub-scale=1 --sub-font=Arial --sub-color=#ffffffff --sub-shadow-color=#ff000000 --sub-border-color=#ff000000 --sub-border-size=0.75 --sub-shadow-offset=2.5 --sub-font-size=50 --sub-bold=no --sub-italic=no --sub-margin-y=8 --sub-margin-x=20 --sub-codepage=ISO-8859-1 --sub-pos=100 --volume=55 --cache=auto --screenshot-template=cap_%F_%p_%02n --screenshot-format=jpg --screenshot-directory=/home/rezikham/Pictures/smplayer_screenshots --audio-pitch-correction=yes --volume-max=110 --vo=gpu --term-playing-msg=MPV_VERSION=${=mpv-version:}
 INFO_VIDEO_WIDTH=${=width}
 INFO_VIDEO_HEIGHT=${=height}
 INFO_VIDEO_ASPECT=${=video-params/aspect}
@@ -305,1966 +242,308 @@ METADATA_TRACK=${metadata/by-key/track:}
 METADATA_COPYRIGHT=${metadata/by-key/copyright:}
 INFO_MEDIA_TITLE=${=media-title:}
 INFO_STREAM_PATH=${stream-path}
- --audio-client-name=SMPlayer --term-status-msg=STATUS: ${=time-pos} / ${=duration:${=length:0}} P: ${=pause} B: ${=paused-for-cache} I: ${=core-idle} VB: ${=video-bitrate:0} AB: ${=audio-bitrate:0} dvd://0'
-[09:49:54:422] MyProcess::start: environment path: "/home/rezikham/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/cuda/bin:/opt/cuda/nsight_compute:/opt/cuda/nsight_systems/bin:/home/rezikham/.dotnet/tools:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
-[09:49:54:422] MyProcess::start: current directory: "/usr/bin"
-[09:49:54:583] MPVProcess::parseLine: "libdvdnav: DVD Title: DVD_VIDEO"
-[09:49:54:583] MPVProcess::parseLine: "libdvdnav: DVD Serial Number: 50cb374a"
-[09:49:54:584] MPVProcess::parseLine: "libdvdnav: DVD Title (Alternative): 1"
-[09:49:54:584] MPVProcess::parseLine: "libdvdnav: DVD disk reports itself with Region mask 0x00000000. Regions: 01 02 03 04 05 06 07 08"
-[09:49:54:584] MPVProcess::parseLine: "libdvdread: Attempting to retrieve all CSS keys"
-[09:49:54:584] MPVProcess::parseLine: "libdvdread: This can take a _long_ time, please be patient"
-[09:49:54:584] MPVProcess::parseLine: "libdvdread: Get key for /VIDEO_TS/VIDEO_TS.VOB at 0x0000011a"
-[09:49:54:584] MPVProcess::parseLine: "libdvdread: Elapsed time 0"
-[09:49:54:584] MPVProcess::parseLine: "libdvdread: Get key for /VIDEO_TS/VTS_01_1.VOB at 0x0000172d"
-[09:49:54:584] MPVProcess::parseLine: "libdvdread: Elapsed time 0"
-[09:49:54:584] MPVProcess::parseLine: "libdvdread: Found 1 VTS's"
-[09:49:54:584] MPVProcess::parseLine: "libdvdread: Elapsed time 0"
-[09:49:54:584] MPVProcess::parseLine: "libdvdnav: Language 'en' not found, using 'ja' instead"
-[09:49:54:584] MPVProcess::parseLine: "libdvdnav: Menu Languages available: ja "
-[09:49:54:584] MPVProcess::parseLine: "[dvdnav] DVDNAV, switched to title: 1"
-[09:49:54:609] MPVProcess::parseLine: " (+) Video --vid=1 (mpeg2video 720x480 29.970fps)"
-[09:49:54:609] MPVProcess::parseLine: " (+) Audio --aid=1 (pcm_dvd 2ch 48000Hz)"
-[09:49:54:609] MPVProcess::parseLine: audio id: 1 lang: "" name: ""
-[09:49:54:609] MPVProcess::updateAudioTrack: ID: 1
-[09:49:54:609] MPVProcess::parseLine: "File tags:"
-[09:49:54:609] MPVProcess::parseLine: " Title: DVD_VIDEO"
-[09:49:54:609] MPVProcess::parseLine: stream_title: "DVD_VIDEO"
-[09:49:54:609] Core::sendMediaInfo
-[09:49:54:609] Favorites::getCurrentMedia: 'dvd://0//run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO', 'DVD_VIDEO'
-[09:49:54:610] Favorites::getCurrentMedia: 'dvd://0//run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO', 'DVD_VIDEO'
-[09:49:54:610] Favorites::getCurrentMedia: 'dvd://0//run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO', 'DVD_VIDEO'
-[09:49:54:610] BaseGuiPlus::updateMediaInfo
-[09:49:54:610] BaseGui::updateMediaInfo
-[09:49:54:686] MPVProcess::parseLine: "AO: [pulse] 48000Hz stereo 2ch s16"
-[09:49:54:686] Core::gotAO: "pulse"
-[09:49:54:687] MPVProcess::parseLine: "VO: [gpu] 720x480 => 853x480 yuv420p"
-[09:49:54:687] VideoLayer::gotVO: "gpu"
-[09:49:54:687] Core::gotVO: "gpu"
-[09:49:54:687] MPVProcess::sendCommand: "print_text INFO_VIDEO_DSIZE=${=dwidth}x${=dheight}"
-[09:49:54:687] MPVProcess::sendCommand: state: QLocalSocket::UnconnectedState
-[09:49:54:687] MPVProcess::sendCommand: error: "Unknown error"
-[09:49:54:687] MPVProcess::sendCommand: state: QLocalSocket::ConnectedState
-[09:49:54:699] MPVProcess::parseLine: "INFO_VIDEO_DSIZE=853x480"
-[09:49:54:699] Core::gotWindowResolution: 853, 480
-[09:49:54:699] BaseGui::resizeWindow: 853, 480
-[09:49:54:699] BaseGui::resizeWindow: size to scale: 853, 480
-[09:49:54:699] BaseGui::resizeWindow: new_width: 853 new_height: 558
-[09:49:54:709] BaseGui::resizeWindow: done: window size: 853, 558
-[09:49:54:709] BaseGui::resizeWindow: done: panel->size: 853, 480
-[09:49:54:709] BaseGui::resizeWindow: done: mplayerwindow->size: 853, 480
-[09:49:54:709] BaseGui::resizeWindow: right bottom point: 1318, 701
-[09:49:54:709] BaseGui::centerWindow
-[09:49:54:709] BaseGui::centerWindow: desktop rect: QRect(0,0 1920x1080)
-[09:49:54:711] MPVProcess::parseLine: "MPV_VERSION=mpv 0.34.1-dirty"
-[09:49:54:711] MPVProcess::parseLine: mpv version: "0.34.1-dirty"
-[09:49:54:711] MplayerVersion::mplayerVersion: mpv version found: "0.34.1-dirty"
-[09:49:54:711] MplayerVersion::mplayerVersion: mplayer_svn: 33472
-[09:49:54:711] MPVProcess::parseLine: "INFO_VIDEO_WIDTH=720"
-[09:49:54:712] MPVProcess::parseLine: md.video_width set to 720
-[09:49:54:712] MPVProcess::parseLine: "INFO_VIDEO_HEIGHT=480"
-[09:49:54:712] MPVProcess::parseLine: md.video_height set to 480
-[09:49:54:712] MPVProcess::parseLine: "INFO_VIDEO_ASPECT=1.777083"
-[09:49:54:712] MPVProcess::parseLine: md.video_aspect set to 1.77708
-[09:49:54:712] MPVProcess::parseLine: "INFO_VIDEO_FPS=29.970030"
-[09:49:54:712] MPVProcess::parseLine: "INFO_VIDEO_FORMAT=mpeg2video"
-[09:49:54:712] MPVProcess::parseLine: "INFO_VIDEO_CODEC=mpeg2video (MPEG-2 video)"
-[09:49:54:712] MPVProcess::parseLine: md.video_codec: "mpeg2video"
-[09:49:54:712] MPVProcess::parseLine: "INFO_DEMUX_ROTATION="
-[09:49:54:712] Core::gotDemuxRotation: 0
-[09:49:54:712] MPVProcess::parseLine: "INFO_AUDIO_FORMAT=pcm_dvd"
-[09:49:54:712] MPVProcess::parseLine: "INFO_AUDIO_CODEC=pcm_dvd (PCM signed 16|20|24-bit big-endian for DVD media)"
-[09:49:54:712] MPVProcess::parseLine: md.audio_codec: "pcm_dvd"
-[09:49:54:712] MPVProcess::parseLine: "INFO_AUDIO_RATE=48000"
-[09:49:54:712] MPVProcess::parseLine: "INFO_AUDIO_NCH=2"
-[09:49:54:712] MPVProcess::parseLine: "INFO_LENGTH=285.400000"
-[09:49:54:712] MPVProcess::parseLine: md.duration set to 285.4
-[09:49:54:712] MPVProcess::parseLine: "INFO_DEMUXER=disc"
-[09:49:54:712] MPVProcess::parseLine: "INFO_SEEKABLE=yes"
-[09:49:54:712] MPVProcess::parseLine: "INFO_TITLES="
-[09:49:54:712] MPVProcess::parseLine: "INFO_CHAPTERS=1"
-[09:49:54:712] MPVProcess::sendCommand: "print_text INFO_CHAPTER_0_NAME=${chapter-list/0/title}"
-[09:49:54:712] MPVProcess::parseLine: "INFO_TRACKS_COUNT=2"
-[09:49:54:712] MPVProcess::sendCommand: "print_text \"INFO_TRACK_0: ${track-list/0/type} ${track-list/0/id} '${track-list/0/lang:}' '${track-list/0/title:}' ${track-list/0/selected}\""
-[09:49:54:712] MPVProcess::sendCommand: "print_text \"INFO_TRACK_1: ${track-list/1/type} ${track-list/1/id} '${track-list/1/lang:}' '${track-list/1/title:}' ${track-list/1/selected}\""
-[09:49:54:712] MPVProcess::parseLine: "METADATA_TITLE=DVD_VIDEO"
-[09:49:54:712] MPVProcess::parseLine: "METADATA_ARTIST="
-[09:49:54:712] MPVProcess::parseLine: "METADATA_ALBUM="
-[09:49:54:712] MPVProcess::parseLine: "METADATA_GENRE="
-[09:49:54:712] MPVProcess::parseLine: "METADATA_DATE="
-[09:49:54:712] MPVProcess::parseLine: "METADATA_TRACK="
-[09:49:54:712] MPVProcess::parseLine: "METADATA_COPYRIGHT="
-[09:49:54:712] MPVProcess::parseLine: "INFO_MEDIA_TITLE=DVD_VIDEO"
-[09:49:54:712] MPVProcess::parseLine: "INFO_STREAM_PATH=dvd://0"
-[09:49:54:712] MPVProcess::parseLine: starting sec: 0.033367
-[09:49:54:712] Core::gotStartingTime: 0.033367
-[09:49:54:712] Core::gotStartingTime: current_sec: 0.000000
-[09:49:54:712] BaseGui::displayState: "Playing"
-[09:49:54:712] BaseGui::togglePlayAction
-[09:49:54:713] Core::changeCurrentSec: mplayer reports that now it's playing
-[09:49:54:716] Core::finishRestart: --- start ---
-[09:49:54:716] Core::newMediaPlaying: --- start ---
-[09:49:54:716] Core::initializeMenus
-[09:49:54:716] BaseGui::initializeMenus
-[09:49:54:716] MplayerVersion::isMplayerAtLeast: comparing 25391 with 33472
-[09:49:54:716] MplayerVersion::isMplayerAtLeast: comparing 29407 with 33472
-[09:49:54:716] BaseGui::updateBookmarks
-[09:49:54:716] MediaData::list
-[09:49:54:716]   filename: 'dvd://0//run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO'
-[09:49:54:716]   duration: 285.400000
-[09:49:54:716]   video_width: 720
-[09:49:54:716]   video_height: 480
-[09:49:54:716]   video_aspect: 1.777083
-[09:49:54:716]   type: 1
-[09:49:54:716]   novideo: 0
-[09:49:54:716]   dvd_id: ''
-[09:49:54:716]   initialized: 1
-[09:49:54:716]   chapters: 1
-[09:49:54:716]   Titles:
-[09:49:54:716]   demuxer: 'disc'
-[09:49:54:716]   video_format: 'mpeg2video'
-[09:49:54:716]   audio_format: 'pcm_dvd'
-[09:49:54:716]   video_bitrate: 0
-[09:49:54:716]   video_fps: '29.970030'
-[09:49:54:716]   audio_bitrate: 0
-[09:49:54:716]   audio_rate: 48000
-[09:49:54:716]   audio_nch: 2
-[09:49:54:716]   video_codec: 'mpeg2video'
-[09:49:54:716]   audio_codec: 'pcm_dvd'
-[09:49:54:716] MediaSettings::list
-[09:49:54:716]   current_sec: 0.033367
-[09:49:54:716]   current_subtitle_track: -1000
-[09:49:54:716]   current_secondary_subtitle_track: -1000
-[09:49:54:716]   current_video_id: -1000
-[09:49:54:716]   current_audio_id: -1000
-[09:49:54:716]   current_title_id: 0
-[09:49:54:716]   current_angle_id: 1
-[09:49:54:716]   aspect_ratio_id: 1
-[09:49:54:716]   volume: 40
-[09:49:54:716]   mute: 0
-[09:49:54:716]   external_subtitles: ''
-[09:49:54:716]   external_subtitles_fps: '0'
-[09:49:54:716]   external_audio: ''
-[09:49:54:716]   sub_delay: 0
-[09:49:54:716]   audio_delay: 0
-[09:49:54:716]   sub_pos: 100
-[09:49:54:716]   sub_scale: 5.000000
-[09:49:54:716]   sub_scale_ass: 1.000000
-[09:49:54:716]   closed_caption_channel: 0
-[09:49:54:716]   brightness: 0
-[09:49:54:716]   contrast: 0
-[09:49:54:716]   gamma: 0
-[09:49:54:716]   hue: 0
-[09:49:54:716]   saturation: 0
-[09:49:54:716]   speed: 1.000000
-[09:49:54:716]   phase_filter: 0
-[09:49:54:716]   deblock_filter: 0
-[09:49:54:716]   dering_filter: 0
-[09:49:54:717]   gradfun_filter: 0
-[09:49:54:717]   noise_filter: 0
-[09:49:54:717]   postprocessing_filter: 0
-[09:49:54:717]   upscaling_filter: 0
-[09:49:54:717]   current_denoiser: 0
-[09:49:54:717]   current_unsharp: 0
-[09:49:54:717]   stereo3d_in: none
-[09:49:54:717]   stereo3d_out: 
-[09:49:54:717]   current_deinterlacer: 0
-[09:49:54:717]   add_letterbox: 0
-[09:49:54:717]   karaoke_filter: 0
-[09:49:54:717]   extrastereo_filter: 0
-[09:49:54:717]   volnorm_filter: 0
-[09:49:54:717]   earwax_filter: 0
-[09:49:54:717]   audio_use_channels: 0
-[09:49:54:717]   stereo_mode: 0
-[09:49:54:717]   zoom_factor: 1.000000
-[09:49:54:717]   rotate: -1
-[09:49:54:717]   flip: 0
-[09:49:54:717]   mirror: 0
-[09:49:54:717]   loop: 0
-[09:49:54:717]   A_marker: -1
-[09:49:54:717]   B_marker: -1
-[09:49:54:717]   current_demuxer: 'disc'
-[09:49:54:717]   forced_demuxer: ''
-[09:49:54:717]   forced_video_codec: ''
-[09:49:54:717]   forced_audio_codec: ''
-[09:49:54:717]   original_demuxer: ''
-[09:49:54:717]   original_video_codec: ''
-[09:49:54:717]   original_audio_codec: ''
-[09:49:54:717]   mplayer_additional_options: ''
-[09:49:54:717]   mplayer_additional_video_filters: ''
-[09:49:54:717]   mplayer_additional_audio_filters: ''
-[09:49:54:717]   win_width: 853
-[09:49:54:717]   win_height: 480
-[09:49:54:717]   win_aspect(): 1.777083
-[09:49:54:717]   is264andHD: 0
-[09:49:54:717]   Videos:
-[09:49:54:717]   Audios:
-[09:49:54:717]   Subtitles:
-[09:49:54:717] Core::newMediaPlaying: --- end ---
-[09:49:54:717] Core::changeAspectRatio: 1
-[09:49:54:717] Core::displayMessage
-[09:49:54:717] AudioEqualizer::setValues
-[09:49:54:717] Core::changeZoom: 1.000000
-[09:49:54:717] Core::displayMessage
-[09:49:54:717] Core::changeSubVisilibity: 1
-[09:49:54:717] MPVProcess::sendCommand: "no-osd set sub-visibility yes"
-[09:49:54:717] Core::displayMessage
-[09:49:54:717] BaseGui::enableActionsOnPlaying
-[09:49:54:720] BaseGui::autosaveMplayerLog
-[09:49:54:720] Core::sendMediaInfo
-[09:49:54:720] Favorites::getCurrentMedia: 'dvd://0//run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO', 'DVD_VIDEO'
-[09:49:54:720] Favorites::getCurrentMedia: 'dvd://0//run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO', 'DVD_VIDEO'
-[09:49:54:720] Favorites::getCurrentMedia: 'dvd://0//run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO', 'DVD_VIDEO'
-[09:49:54:720] BaseGuiPlus::updateMediaInfo
-[09:49:54:720] BaseGui::updateMediaInfo
-[09:49:54:720] TimeSliderAction::setDuration: 285.4
-[09:49:54:720] Playlist::getMediaInfo
-[09:49:54:720] Core::updateWidgets
-[09:49:54:720] BaseGuiPlus::updateWidgets
-[09:49:54:720] BaseGui::updateWidgets
-[09:49:54:721] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:49:54:721] Core::finishRestart: --- end ---
-[09:49:54:721] BaseGui::checkStayOnTop
-[09:49:54:723] BaseGui::enterFullscreenOnPlay: arg_start_in_fullscreen: -1, pref->start_in_fullscreen: 0
-[09:49:54:723] BaseGui::newMediaLoaded
-[09:49:54:723] BaseGui::newMediaLoaded: mdat.stream_title: DVD_VIDEO
-[09:49:54:723] Recents::addItem: 'dvd://0//run/media/rezikham/Seagate 1/[2020.07.22] ReoNa - ANIMA [CD][DVDISO][VVCL-1680~1]/DVD_VIDEO.ISO|title]=DVD_VIDEO'
-[09:49:54:723] BaseGui::updateRecents
-[09:49:54:723] BaseGui::checkPendingActionsToRun
-[09:49:54:723] BaseGui::checkMplayerVersion
-[09:49:54:723] MplayerVersion::isMplayerAtLeast: comparing 25158 with 33472
-[09:49:54:723] Core::checkIfVideoIsHD
-[09:49:54:734] MPVProcess::parseLine: "INFO_CHAPTER_0_NAME="
-[09:49:54:734] MPVProcess::parseLine: chapter id: 0 title: "1"
-[09:49:54:734] MPVProcess::parseLine: "INFO_TRACK_0: video 1 '' '' yes"
-[09:49:54:734] MPVProcess::parseLine: ID: 1 type: "video" name: "" lang: "" selected: "yes"
-[09:49:54:734] MPVProcess::updateVideoTrack: ID: 1
-[09:49:54:735] MPVProcess::parseLine: "INFO_TRACK_1: audio 1 '' '' yes"
-[09:49:54:735] MPVProcess::parseLine: ID: 1 type: "audio" name: "" lang: "" selected: "yes"
-[09:49:54:735] MPVProcess::updateAudioTrack: ID: 1
-[09:49:54:759] MPVProcess::parseLine: video_info_changed
-[09:49:54:759] MPVProcess::parseLine: chapter_info_changed
-[09:49:54:759] Core::initVideoTrack: selected_id: 1
-[09:49:54:759] Core::initializeMenus
-[09:49:54:759] BaseGui::initializeMenus
-[09:49:54:759] MplayerVersion::isMplayerAtLeast: comparing 25391 with 33472
-[09:49:54:759] MplayerVersion::isMplayerAtLeast: comparing 29407 with 33472
-[09:49:54:759] BaseGui::updateBookmarks
-[09:49:54:759] Core::updateWidgets
-[09:49:54:759] BaseGuiPlus::updateWidgets
-[09:49:54:759] BaseGui::updateWidgets
-[09:49:54:759] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:49:54:759] Core::updateChapterInfo
-[09:49:54:759] Core::initializeMenus
-[09:49:54:759] BaseGui::initializeMenus
-[09:49:54:760] BaseGui::updateBookmarks
-[09:49:54:760] Core::updateWidgets
-[09:49:54:760] BaseGuiPlus::updateWidgets
-[09:49:54:760] BaseGui::updateWidgets
-[09:49:54:760] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:49:55:119] MPVProcess::parseLine: audio_info_changed
-[09:49:55:119] Core::initAudioTrack: num_items: 1 selected_id: 1
-[09:49:55:119] Core::initAudioTrack: list of audios:
-[09:49:55:119] Tracks::list: item 1: ID: 1 lang: '' name: ''
-[09:49:55:119] Core::initializeMenus
-[09:49:55:119] BaseGui::initializeMenus
-[09:49:55:119] BaseGui::updateBookmarks
-[09:49:55:119] Core::updateWidgets
-[09:49:55:119] BaseGuiPlus::updateWidgets
-[09:49:55:119] BaseGui::updateWidgets
-[09:49:55:119] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:49:55:119] Core::initAudioTrack: preferred audio track: 0 previous_selected_id: -1000
-[09:49:55:119] BaseGui::enableActionsOnPlaying
-[09:49:55:120] Core::initAudioTrack: current_audio_id: 1
-[09:49:55:962] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:55:962] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:55:963] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:55:963] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:55:964] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:55:964] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:55:968] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:55:968] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:55:968] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:55:968] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:49:55:969] WARNING: libpng warning: known incorrect sRGB profile
-[09:49:55:969] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:50:46:780] BaseGui::dragEnterEvent
-[09:50:47:266] BaseGui::dropEvent
-[09:50:47:267] BaseGui::dropEvent: scheme: "file"
-[09:50:47:267] BaseGui::dropEvent: file: "/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H"
-[09:50:47:267] BaseGui::dropEvent: list of dirs: ("/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H")
-[09:50:47:267] BaseGui::dropEvent: list of files: ()
-[09:50:47:267] BaseGui::dropEvent: subtitle file: ""
-[09:50:47:267] BaseGui::openDirectory: '/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H'
-[09:50:47:267] Playlist::setModified: 0
-[09:50:47:267] Playlist::updateWindowTitle: "Untitled playlist"
-[09:50:47:268] Playlist::addFiles
-[09:50:47:268] Playlist::addFiles: latest_dir: "/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H"
-[09:50:47:268] Playlist::setModified: 1
-[09:50:47:268] Playlist::updateWindowTitle: "Untitled playlist (*)"
-[09:50:47:268] Playlist::playItem: 0 (count: 4)
-[09:50:47:268] Core::open: '/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H/Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv'
-[09:50:47:268] Core::open: * identified as local file
-[09:50:47:268] Core::openFile: '/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H/Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv'
-[09:50:47:268] Core::playNewFile: '/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H/Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv'
-[09:50:47:268] Core::stopMplayer
-[09:50:47:268] MPVProcess::sendCommand: "quit 0"
-[09:50:47:268] Core::stopMplayer: Waiting mplayer to finish...
-[09:50:47:269] MPVProcess::parseLine: "Exiting... (Quit)"
-[09:50:47:312] MyProcess::procFinished
-[09:50:47:312] MyProcess::procFinished: Bytes available:  0
-[09:50:47:312] MPVProcess::processFinished: exitCode: 0, status: 0
-[09:50:47:312] ScreenHelper::playingStopped
-[09:50:47:312] ScreenHelper::setAutoHideCursor: 0
-[09:50:47:312] VideoLayer::playingStopped
-[09:50:47:312] Core::enableScreensaver
-[09:50:47:312] PowerSaving::uninhibit
-[09:50:47:312] PowerSaving::uninhibit: cookie: 11910
-[09:50:47:313] PowerSaving::uninhibit: valid reply
-[09:50:47:313] Core::stopMplayer: Finished.
-[09:50:47:313] Core::saveMediaInfo
-[09:50:47:313] MediaSettings::reset
-[09:50:47:313] FileSettingsHash::existSettingsFor: "/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H/Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv"
-[09:50:47:353] FileSettingsHash::existSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/f/f5e774368e731a93.ini"
-[09:50:47:353] Core::playNewFile: volume: 40, old_volume: 40
-[09:50:47:353] Core::initPlaying
-[09:50:47:353] MplayerWindow::setLogoVisible: false
-[09:50:47:353] Core::startMplayer: file: "/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H/Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv" seek: 0
-[09:50:47:353] RetrieveYoutubeUrl::close
-[09:50:47:353] Core::startMplayer: checking if stream is a playlist
-[09:50:47:353] Core::startMplayer: url path: '/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H/Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv'
-[09:50:47:353] Core::startMplayer: url_is_playlist: 0
-[09:50:47:353] Core::startMplayer: hardware decoding is enabled. The video filters will be ignored
-[09:50:47:353] Core::startMplayer: edl file: ''
-[09:50:47:353] Core::startMplayer: extra_params: ()
-[09:50:47:353] MyProcess::splitArguments: '--vo=gpu'
-[09:50:47:353] MyProcess::splitArguments: arg: 0 '--vo=gpu'
-[09:50:47:353] arg 0: --vo=gpu
-[09:50:47:353] MPVProcess::addUserOption: "--vo=gpu"
-[09:50:47:353] MPVProcess::addUserOption: s: "--vo=gpu"
-[09:50:47:353] ScreenHelper::playingStarted
-[09:50:47:353] ScreenHelper::setAutoHideCursor: 1
-[09:50:47:353] VideoLayer::playingStarted
-[09:50:47:353] Core::disableScreensaver
-[09:50:47:354] PowerSaving::inhibit
-[09:50:47:354] PowerSaving::inhibit: valid reply
-[09:50:47:354] PowerSaving::inhibit: cookie: 11911
-[09:50:47:354] Core::startMplayer: command: '/usr/bin/mpv --no-quiet --terminal --no-msg-color --input-ipc-server=/tmp/smplayer-mpv-1ecb5 --msg-level=ffmpeg/demuxer=error --video-rotate=no --no-config --no-fs --hwdec=vaapi --sub-auto=fuzzy --vo=vaapi, --ao=pulse, --no-input-default-bindings --input-vo-keyboard=no --no-input-cursor --cursor-autohide=no --no-keepaspect --wid=73400341 --monitorpixelaspect=1 --osd-level=1 --osd-scale=1 --osd-bar-align-y=0.6 --sub-ass --embeddedfonts --sub-ass-line-spacing=0 --sub-scale=1 --sub-font=Arial --sub-color=#ffffffff --sub-shadow-color=#ff000000 --sub-border-color=#ff000000 --sub-border-size=0.75 --sub-shadow-offset=2.5 --sub-font-size=50 --sub-bold=no --sub-italic=no --sub-margin-y=8 --sub-margin-x=20 --sub-codepage=ISO-8859-1 --sub-pos=100 --volume=55 --cache=auto --screenshot-template=cap_%F_%p_%02n --screenshot-format=jpg --screenshot-directory=/home/rezikham/Pictures/smplayer_screenshots --audio-pitch-correction=yes --volume-max=110 --vo=gpu --term-playing-msg=MPV_VERSION=${=mpv-version:}
-INFO_VIDEO_WIDTH=${=width}
-INFO_VIDEO_HEIGHT=${=height}
-INFO_VIDEO_ASPECT=${=video-params/aspect}
-INFO_VIDEO_FPS=${=container-fps:${=fps}}
-INFO_VIDEO_FORMAT=${=video-format}
-INFO_VIDEO_CODEC=${=video-codec}
-INFO_DEMUX_ROTATION=${=track-list/0/demux-rotation}
-INFO_AUDIO_FORMAT=${=audio-codec-name}
-INFO_AUDIO_CODEC=${=audio-codec}
-INFO_AUDIO_RATE=${=audio-params/samplerate}
-INFO_AUDIO_NCH=${=audio-params/channel-count}
-INFO_LENGTH=${=duration:${=length}}
-INFO_DEMUXER=${=current-demuxer:${=demuxer}}
-INFO_SEEKABLE=${=seekable}
-INFO_TITLES=${=disc-titles}
-INFO_CHAPTERS=${=chapters}
-INFO_TRACKS_COUNT=${=track-list/count}
-METADATA_TITLE=${metadata/by-key/title:}
-METADATA_ARTIST=${metadata/by-key/artist:}
-METADATA_ALBUM=${metadata/by-key/album:}
-METADATA_GENRE=${metadata/by-key/genre:}
-METADATA_DATE=${metadata/by-key/date:}
-METADATA_TRACK=${metadata/by-key/track:}
-METADATA_COPYRIGHT=${metadata/by-key/copyright:}
-INFO_MEDIA_TITLE=${=media-title:}
-INFO_STREAM_PATH=${stream-path}
- --audio-client-name=SMPlayer --term-status-msg=STATUS: ${=time-pos} / ${=duration:${=length:0}} P: ${=pause} B: ${=paused-for-cache} I: ${=core-idle} VB: ${=video-bitrate:0} AB: ${=audio-bitrate:0} /run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H/Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv'
-[09:50:47:354] MyProcess::start: environment path: "/home/rezikham/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/cuda/bin:/opt/cuda/nsight_compute:/opt/cuda/nsight_systems/bin:/home/rezikham/.dotnet/tools:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
-[09:50:47:354] MyProcess::start: current directory: "/usr/bin"
-[09:50:47:356] Core::processFinished
-[09:50:47:356] Core::processFinished: we_are_restarting: 0
-[09:50:47:356] Core::processFinished: play has finished!
-[09:50:47:357] BaseGui::displayState: "Stopped"
-[09:50:47:357] BaseGui::togglePlayAction
-[09:50:47:357] Core::processFinished: exit_code: 0
-[09:50:47:357] BaseGui::checkStayOnTop
-[09:50:47:419] MPVProcess::parseLine: " (+) Video --vid=1 (*) (h264 1920x1080 25.000fps)"
-[09:50:47:419] MPVProcess::parseLine: " (+) Audio --aid=1 --alang=eng 'English' (eac3 6ch 48000Hz)"
-[09:50:47:419] MPVProcess::parseLine: audio id: 1 lang: "eng" name: "English"
-[09:50:47:419] MPVProcess::updateAudioTrack: ID: 1
-[09:50:47:419] MPVProcess::parseLine: "     Subs  --sid=1 --slang=eng 'English' (subrip)"
-[09:50:47:419] MPVProcess::parseLine: sub id: 1 lang: "eng" name: "English"
-[09:50:47:419] MPVProcess::updateSubtitleTrack: ID: 1
-[09:50:47:419] SubTracks::find: item type: 1, ID: 1 doesn't exist
-[09:50:47:419] MPVProcess::parseLine: "     Subs  --sid=2 --slang=ara 'Arabic' (subrip)"
-[09:50:47:419] MPVProcess::parseLine: sub id: 2 lang: "ara" name: "Arabic"
-[09:50:47:419] MPVProcess::updateSubtitleTrack: ID: 2
-[09:50:47:419] SubTracks::find: item type: 1, ID: 2 doesn't exist
-[09:50:47:419] MPVProcess::parseLine: "     Subs  --sid=3 --slang=chi 'Chinese Simplified' (subrip)"
-[09:50:47:419] MPVProcess::parseLine: sub id: 3 lang: "chi" name: "Chinese Simplified"
-[09:50:47:419] MPVProcess::updateSubtitleTrack: ID: 3
-[09:50:47:419] SubTracks::find: item type: 1, ID: 3 doesn't exist
-[09:50:47:419] MPVProcess::parseLine: "     Subs  --sid=4 --slang=chi 'Chinese Traditional' (subrip)"
-[09:50:47:419] MPVProcess::parseLine: sub id: 4 lang: "chi" name: "Chinese Traditional"
-[09:50:47:419] MPVProcess::updateSubtitleTrack: ID: 4
-[09:50:47:419] SubTracks::find: item type: 1, ID: 4 doesn't exist
-[09:50:47:419] MPVProcess::parseLine: "     Subs  --sid=5 --slang=hrv 'Croatian' (subrip)"
-[09:50:47:419] MPVProcess::parseLine: sub id: 5 lang: "hrv" name: "Croatian"
-[09:50:47:419] MPVProcess::updateSubtitleTrack: ID: 5
-[09:50:47:419] SubTracks::find: item type: 1, ID: 5 doesn't exist
-[09:50:47:419] MPVProcess::parseLine: "     Subs  --sid=6 --slang=cze 'Czech' (subrip)"
-[09:50:47:419] MPVProcess::parseLine: sub id: 6 lang: "cze" name: "Czech"
-[09:50:47:419] MPVProcess::updateSubtitleTrack: ID: 6
-[09:50:47:419] SubTracks::find: item type: 1, ID: 6 doesn't exist
-[09:50:47:419] MPVProcess::parseLine: "     Subs  --sid=7 --slang=dan 'Danish' (subrip)"
-[09:50:47:419] MPVProcess::parseLine: sub id: 7 lang: "dan" name: "Danish"
-[09:50:47:419] MPVProcess::updateSubtitleTrack: ID: 7
-[09:50:47:419] SubTracks::find: item type: 1, ID: 7 doesn't exist
-[09:50:47:419] MPVProcess::parseLine: "     Subs  --sid=8 --slang=dut 'Dutch' (subrip)"
-[09:50:47:419] MPVProcess::parseLine: sub id: 8 lang: "dut" name: "Dutch"
-[09:50:47:419] MPVProcess::updateSubtitleTrack: ID: 8
-[09:50:47:419] SubTracks::find: item type: 1, ID: 8 doesn't exist
-[09:50:47:419] MPVProcess::parseLine: "     Subs  --sid=9 --slang=fin 'Finnish' (subrip)"
-[09:50:47:419] MPVProcess::parseLine: sub id: 9 lang: "fin" name: "Finnish"
-[09:50:47:419] MPVProcess::updateSubtitleTrack: ID: 9
-[09:50:47:419] SubTracks::find: item type: 1, ID: 9 doesn't exist
-[09:50:47:419] MPVProcess::parseLine: "     Subs  --sid=10 --slang=fre 'French' (subrip)"
-[09:50:47:419] MPVProcess::parseLine: sub id: 10 lang: "fre" name: "French"
-[09:50:47:419] MPVProcess::updateSubtitleTrack: ID: 10
-[09:50:47:419] SubTracks::find: item type: 1, ID: 10 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=11 --slang=ger 'German' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 11 lang: "ger" name: "German"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 11
-[09:50:47:420] SubTracks::find: item type: 1, ID: 11 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=12 --slang=gre 'Greek' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 12 lang: "gre" name: "Greek"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 12
-[09:50:47:420] SubTracks::find: item type: 1, ID: 12 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=13 --slang=heb 'Hebrew' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 13 lang: "heb" name: "Hebrew"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 13
-[09:50:47:420] SubTracks::find: item type: 1, ID: 13 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=14 --slang=hun 'Hungarian' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 14 lang: "hun" name: "Hungarian"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 14
-[09:50:47:420] SubTracks::find: item type: 1, ID: 14 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=15 --slang=ind 'Indonesian' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 15 lang: "ind" name: "Indonesian"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 15
-[09:50:47:420] SubTracks::find: item type: 1, ID: 15 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=16 --slang=ita 'Italian' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 16 lang: "ita" name: "Italian"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 16
-[09:50:47:420] SubTracks::find: item type: 1, ID: 16 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=17 --slang=jpn 'Japanese' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 17 lang: "jpn" name: "Japanese"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 17
-[09:50:47:420] SubTracks::find: item type: 1, ID: 17 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=18 --slang=kor 'Korean' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 18 lang: "kor" name: "Korean"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 18
-[09:50:47:420] SubTracks::find: item type: 1, ID: 18 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=19 --slang=may 'Malay' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 19 lang: "may" name: "Malay"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 19
-[09:50:47:420] SubTracks::find: item type: 1, ID: 19 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=20 --slang=nob 'Norwegian Bokmal' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 20 lang: "nob" name: "Norwegian Bokmal"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 20
-[09:50:47:420] SubTracks::find: item type: 1, ID: 20 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=21 --slang=pol 'Polish' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 21 lang: "pol" name: "Polish"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 21
-[09:50:47:420] SubTracks::find: item type: 1, ID: 21 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=22 --slang=por 'Portuguese' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 22 lang: "por" name: "Portuguese"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 22
-[09:50:47:420] SubTracks::find: item type: 1, ID: 22 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=23 --slang=por 'Brazilian Portuguese' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 23 lang: "por" name: "Brazilian Portuguese"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 23
-[09:50:47:420] SubTracks::find: item type: 1, ID: 23 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=24 --slang=rum 'Romanian' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 24 lang: "rum" name: "Romanian"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 24
-[09:50:47:420] SubTracks::find: item type: 1, ID: 24 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=25 --slang=rus 'Russian' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 25 lang: "rus" name: "Russian"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 25
-[09:50:47:420] SubTracks::find: item type: 1, ID: 25 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=26 --slang=spa 'Spanish' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 26 lang: "spa" name: "Spanish"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 26
-[09:50:47:420] SubTracks::find: item type: 1, ID: 26 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=27 --slang=spa 'European Spanish' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 27 lang: "spa" name: "European Spanish"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 27
-[09:50:47:420] SubTracks::find: item type: 1, ID: 27 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=28 --slang=swe 'Swedish' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 28 lang: "swe" name: "Swedish"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 28
-[09:50:47:420] SubTracks::find: item type: 1, ID: 28 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=29 --slang=tha 'Thai' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 29 lang: "tha" name: "Thai"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 29
-[09:50:47:420] SubTracks::find: item type: 1, ID: 29 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=30 --slang=tur 'Turkish' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 30 lang: "tur" name: "Turkish"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 30
-[09:50:47:420] SubTracks::find: item type: 1, ID: 30 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=31 --slang=ukr 'Ukrainian' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 31 lang: "ukr" name: "Ukrainian"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 31
-[09:50:47:420] SubTracks::find: item type: 1, ID: 31 doesn't exist
-[09:50:47:420] MPVProcess::parseLine: "     Subs  --sid=32 --slang=vie 'Vietnamese' (subrip)"
-[09:50:47:420] MPVProcess::parseLine: sub id: 32 lang: "vie" name: "Vietnamese"
-[09:50:47:420] MPVProcess::updateSubtitleTrack: ID: 32
-[09:50:47:420] SubTracks::find: item type: 1, ID: 32 doesn't exist
-[09:50:47:742] MPVProcess::parseLine: "[ffmpeg/video] h264: Failed to create decode context: 2 (resource allocation failed)."
-[09:50:47:742] MPVProcess::parseLine: "[ffmpeg/video] h264: Failed setup for format vaapi: hwaccel initialisation returned error."
-[09:50:47:795] MPVProcess::parseLine: "AO: [pulse] 48000Hz 5.1(side) 6ch float"
-[09:50:47:795] Core::gotAO: "pulse"
-[09:50:47:796] MPVProcess::parseLine: "VO: [gpu] 1920x1080 yuv420p"
-[09:50:47:796] VideoLayer::gotVO: "gpu"
-[09:50:47:796] Core::gotVO: "gpu"
-[09:50:47:796] MPVProcess::sendCommand: "print_text INFO_VIDEO_DSIZE=${=dwidth}x${=dheight}"
-[09:50:47:796] MPVProcess::sendCommand: state: QLocalSocket::UnconnectedState
-[09:50:47:796] MPVProcess::sendCommand: error: "QLocalSocket: Remote closed"
-[09:50:47:796] MPVProcess::sendCommand: state: QLocalSocket::ConnectedState
-[09:50:47:798] MPVProcess::parseLine: "[vo/gpu/opengl] before video texture creation: OpenGL error INVALID_OPERATION."
-[09:50:47:819] MPVProcess::parseLine: "INFO_VIDEO_DSIZE=1920x1080"
-[09:50:47:819] Core::gotWindowResolution: 1920, 1080
-[09:50:47:819] BaseGui::resizeWindow: 1920, 1080
-[09:50:47:819] BaseGui::centerWindow
-[09:50:47:819] BaseGui::centerWindow: desktop rect: QRect(0,0 1920x1080)
-[09:50:47:827] MPVProcess::parseLine: "MPV_VERSION=mpv 0.34.1-dirty"
-[09:50:47:827] MPVProcess::parseLine: mpv version: "0.34.1-dirty"
-[09:50:47:827] MplayerVersion::mplayerVersion: mpv version found: "0.34.1-dirty"
-[09:50:47:827] MplayerVersion::mplayerVersion: mplayer_svn: 33472
-[09:50:47:827] MPVProcess::parseLine: "INFO_VIDEO_WIDTH=1920"
-[09:50:47:827] MPVProcess::parseLine: md.video_width set to 1920
-[09:50:47:827] MPVProcess::parseLine: "INFO_VIDEO_HEIGHT=1080"
-[09:50:47:827] MPVProcess::parseLine: md.video_height set to 1080
-[09:50:47:827] MPVProcess::parseLine: "INFO_VIDEO_ASPECT=1.777778"
-[09:50:47:827] MPVProcess::parseLine: md.video_aspect set to 1.77778
-[09:50:47:827] MPVProcess::parseLine: "INFO_VIDEO_FPS=25.000000"
-[09:50:47:827] MPVProcess::parseLine: "INFO_VIDEO_FORMAT=h264"
-[09:50:47:827] MPVProcess::parseLine: "INFO_VIDEO_CODEC=h264 (H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10)"
-[09:50:47:827] MPVProcess::parseLine: md.video_codec: "h264"
-[09:50:47:827] MPVProcess::parseLine: "INFO_DEMUX_ROTATION="
-[09:50:47:827] Core::gotDemuxRotation: 0
-[09:50:47:827] MPVProcess::parseLine: "INFO_AUDIO_FORMAT=eac3"
-[09:50:47:827] MPVProcess::parseLine: "INFO_AUDIO_CODEC=eac3 (ATSC A/52B (AC-3, E-AC-3))"
-[09:50:47:827] MPVProcess::parseLine: md.audio_codec: "eac3"
-[09:50:47:827] MPVProcess::parseLine: "INFO_AUDIO_RATE=48000"
-[09:50:47:827] MPVProcess::parseLine: "INFO_AUDIO_NCH=6"
-[09:50:47:828] MPVProcess::parseLine: "INFO_LENGTH=2482.592000"
-[09:50:47:828] MPVProcess::parseLine: md.duration set to 2482.59
-[09:50:47:828] MPVProcess::parseLine: "INFO_DEMUXER=mkv"
-[09:50:47:828] MPVProcess::parseLine: "INFO_SEEKABLE=yes"
-[09:50:47:828] MPVProcess::parseLine: "INFO_TITLES="
-[09:50:47:828] MPVProcess::parseLine: "INFO_CHAPTERS=0"
-[09:50:47:828] MPVProcess::parseLine: "INFO_TRACKS_COUNT=34"
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_0: ${track-list/0/type} ${track-list/0/id} '${track-list/0/lang:}' '${track-list/0/title:}' ${track-list/0/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_1: ${track-list/1/type} ${track-list/1/id} '${track-list/1/lang:}' '${track-list/1/title:}' ${track-list/1/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_2: ${track-list/2/type} ${track-list/2/id} '${track-list/2/lang:}' '${track-list/2/title:}' ${track-list/2/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_3: ${track-list/3/type} ${track-list/3/id} '${track-list/3/lang:}' '${track-list/3/title:}' ${track-list/3/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_4: ${track-list/4/type} ${track-list/4/id} '${track-list/4/lang:}' '${track-list/4/title:}' ${track-list/4/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_5: ${track-list/5/type} ${track-list/5/id} '${track-list/5/lang:}' '${track-list/5/title:}' ${track-list/5/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_6: ${track-list/6/type} ${track-list/6/id} '${track-list/6/lang:}' '${track-list/6/title:}' ${track-list/6/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_7: ${track-list/7/type} ${track-list/7/id} '${track-list/7/lang:}' '${track-list/7/title:}' ${track-list/7/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_8: ${track-list/8/type} ${track-list/8/id} '${track-list/8/lang:}' '${track-list/8/title:}' ${track-list/8/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_9: ${track-list/9/type} ${track-list/9/id} '${track-list/9/lang:}' '${track-list/9/title:}' ${track-list/9/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_10: ${track-list/10/type} ${track-list/10/id} '${track-list/10/lang:}' '${track-list/10/title:}' ${track-list/10/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_11: ${track-list/11/type} ${track-list/11/id} '${track-list/11/lang:}' '${track-list/11/title:}' ${track-list/11/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_12: ${track-list/12/type} ${track-list/12/id} '${track-list/12/lang:}' '${track-list/12/title:}' ${track-list/12/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_13: ${track-list/13/type} ${track-list/13/id} '${track-list/13/lang:}' '${track-list/13/title:}' ${track-list/13/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_14: ${track-list/14/type} ${track-list/14/id} '${track-list/14/lang:}' '${track-list/14/title:}' ${track-list/14/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_15: ${track-list/15/type} ${track-list/15/id} '${track-list/15/lang:}' '${track-list/15/title:}' ${track-list/15/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_16: ${track-list/16/type} ${track-list/16/id} '${track-list/16/lang:}' '${track-list/16/title:}' ${track-list/16/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_17: ${track-list/17/type} ${track-list/17/id} '${track-list/17/lang:}' '${track-list/17/title:}' ${track-list/17/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_18: ${track-list/18/type} ${track-list/18/id} '${track-list/18/lang:}' '${track-list/18/title:}' ${track-list/18/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_19: ${track-list/19/type} ${track-list/19/id} '${track-list/19/lang:}' '${track-list/19/title:}' ${track-list/19/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_20: ${track-list/20/type} ${track-list/20/id} '${track-list/20/lang:}' '${track-list/20/title:}' ${track-list/20/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_21: ${track-list/21/type} ${track-list/21/id} '${track-list/21/lang:}' '${track-list/21/title:}' ${track-list/21/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_22: ${track-list/22/type} ${track-list/22/id} '${track-list/22/lang:}' '${track-list/22/title:}' ${track-list/22/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_23: ${track-list/23/type} ${track-list/23/id} '${track-list/23/lang:}' '${track-list/23/title:}' ${track-list/23/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_24: ${track-list/24/type} ${track-list/24/id} '${track-list/24/lang:}' '${track-list/24/title:}' ${track-list/24/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_25: ${track-list/25/type} ${track-list/25/id} '${track-list/25/lang:}' '${track-list/25/title:}' ${track-list/25/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_26: ${track-list/26/type} ${track-list/26/id} '${track-list/26/lang:}' '${track-list/26/title:}' ${track-list/26/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_27: ${track-list/27/type} ${track-list/27/id} '${track-list/27/lang:}' '${track-list/27/title:}' ${track-list/27/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_28: ${track-list/28/type} ${track-list/28/id} '${track-list/28/lang:}' '${track-list/28/title:}' ${track-list/28/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_29: ${track-list/29/type} ${track-list/29/id} '${track-list/29/lang:}' '${track-list/29/title:}' ${track-list/29/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_30: ${track-list/30/type} ${track-list/30/id} '${track-list/30/lang:}' '${track-list/30/title:}' ${track-list/30/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_31: ${track-list/31/type} ${track-list/31/id} '${track-list/31/lang:}' '${track-list/31/title:}' ${track-list/31/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_32: ${track-list/32/type} ${track-list/32/id} '${track-list/32/lang:}' '${track-list/32/title:}' ${track-list/32/selected}\""
-[09:50:47:828] MPVProcess::sendCommand: "print_text \"INFO_TRACK_33: ${track-list/33/type} ${track-list/33/id} '${track-list/33/lang:}' '${track-list/33/title:}' ${track-list/33/selected}\""
-[09:50:47:828] MPVProcess::parseLine: "METADATA_TITLE="
-[09:50:47:828] MPVProcess::parseLine: "METADATA_ARTIST="
-[09:50:47:828] MPVProcess::parseLine: "METADATA_ALBUM="
-[09:50:47:828] MPVProcess::parseLine: "METADATA_GENRE="
-[09:50:47:828] MPVProcess::parseLine: "METADATA_DATE="
-[09:50:47:828] MPVProcess::parseLine: "METADATA_TRACK="
-[09:50:47:828] MPVProcess::parseLine: "METADATA_COPYRIGHT="
-[09:50:47:828] MPVProcess::parseLine: "INFO_MEDIA_TITLE=Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv"
-[09:50:47:828] MPVProcess::parseLine: "INFO_STREAM_PATH=/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H/Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv"
-[09:50:47:828] MPVProcess::parseLine: starting sec: 0
-[09:50:47:828] Core::gotStartingTime: 0.000000
-[09:50:47:828] Core::gotStartingTime: current_sec: 0.000000
-[09:50:47:828] BaseGui::displayState: "Playing"
-[09:50:47:828] BaseGui::togglePlayAction
-[09:50:47:829] Core::changeCurrentSec: mplayer reports that now it's playing
-[09:50:47:842] Core::finishRestart: --- start ---
-[09:50:47:842] Core::newMediaPlaying: --- start ---
-[09:50:47:842] Core::initializeMenus
-[09:50:47:842] BaseGui::initializeMenus
-[09:50:47:842] BaseGui::updateBookmarks
-[09:50:47:842] MediaData::list
-[09:50:47:842]   filename: '/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H/Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv'
-[09:50:47:842]   duration: 2482.592000
-[09:50:47:842]   video_width: 1920
-[09:50:47:842]   video_height: 1080
-[09:50:47:842]   video_aspect: 1.777778
-[09:50:47:842]   type: 0
-[09:50:47:842]   novideo: 0
-[09:50:47:842]   dvd_id: ''
-[09:50:47:842]   initialized: 1
-[09:50:47:842]   chapters: 0
-[09:50:47:842]   Titles:
-[09:50:47:842]   demuxer: 'mkv'
-[09:50:47:842]   video_format: 'h264'
-[09:50:47:842]   audio_format: 'eac3'
-[09:50:47:842]   video_bitrate: 0
-[09:50:47:842]   video_fps: '25.000000'
-[09:50:47:842]   audio_bitrate: 0
-[09:50:47:842]   audio_rate: 48000
-[09:50:47:842]   audio_nch: 6
-[09:50:47:842]   video_codec: 'h264'
-[09:50:47:842]   audio_codec: 'eac3'
-[09:50:47:842] MediaSettings::list
-[09:50:47:842]   current_sec: 0.000000
-[09:50:47:842]   current_subtitle_track: -1000
-[09:50:47:842]   current_secondary_subtitle_track: -1000
-[09:50:47:842]   current_video_id: -1000
-[09:50:47:842]   current_audio_id: -1000
-[09:50:47:842]   current_title_id: -1000
-[09:50:47:842]   current_angle_id: -1000
-[09:50:47:842]   aspect_ratio_id: 1
-[09:50:47:842]   volume: 40
-[09:50:47:842]   mute: 0
-[09:50:47:842]   external_subtitles: ''
-[09:50:47:842]   external_subtitles_fps: '0'
-[09:50:47:842]   external_audio: ''
-[09:50:47:843]   sub_delay: 0
-[09:50:47:843]   audio_delay: 0
-[09:50:47:843]   sub_pos: 100
-[09:50:47:843]   sub_scale: 5.000000
-[09:50:47:843]   sub_scale_ass: 1.000000
-[09:50:47:843]   closed_caption_channel: 0
-[09:50:47:843]   brightness: 0
-[09:50:47:843]   contrast: 0
-[09:50:47:843]   gamma: 0
-[09:50:47:843]   hue: 0
-[09:50:47:843]   saturation: 0
-[09:50:47:843]   speed: 1.000000
-[09:50:47:843]   phase_filter: 0
-[09:50:47:843]   deblock_filter: 0
-[09:50:47:843]   dering_filter: 0
-[09:50:47:843]   gradfun_filter: 0
-[09:50:47:843]   noise_filter: 0
-[09:50:47:843]   postprocessing_filter: 0
-[09:50:47:843]   upscaling_filter: 0
-[09:50:47:843]   current_denoiser: 0
-[09:50:47:843]   current_unsharp: 0
-[09:50:47:843]   stereo3d_in: none
-[09:50:47:843]   stereo3d_out: 
-[09:50:47:843]   current_deinterlacer: 0
-[09:50:47:843]   add_letterbox: 0
-[09:50:47:843]   karaoke_filter: 0
-[09:50:47:843]   extrastereo_filter: 0
-[09:50:47:843]   volnorm_filter: 0
-[09:50:47:843]   earwax_filter: 0
-[09:50:47:843]   audio_use_channels: 0
-[09:50:47:843]   stereo_mode: 0
-[09:50:47:843]   zoom_factor: 1.000000
-[09:50:47:843]   rotate: -1
-[09:50:47:843]   flip: 0
-[09:50:47:843]   mirror: 0
-[09:50:47:843]   loop: 0
-[09:50:47:843]   A_marker: -1
-[09:50:47:843]   B_marker: -1
-[09:50:47:843]   current_demuxer: 'mkv'
-[09:50:47:843]   forced_demuxer: ''
-[09:50:47:843]   forced_video_codec: ''
-[09:50:47:843]   forced_audio_codec: ''
-[09:50:47:843]   original_demuxer: ''
-[09:50:47:843]   original_video_codec: ''
-[09:50:47:843]   original_audio_codec: ''
-[09:50:47:843]   mplayer_additional_options: ''
-[09:50:47:843]   mplayer_additional_video_filters: ''
-[09:50:47:843]   mplayer_additional_audio_filters: ''
-[09:50:47:843]   win_width: 1920
-[09:50:47:843]   win_height: 1080
-[09:50:47:843]   win_aspect(): 1.777778
-[09:50:47:843]   is264andHD: 0
-[09:50:47:843]   Videos:
-[09:50:47:843]   Audios:
-[09:50:47:843]   Subtitles:
-[09:50:47:843] Core::newMediaPlaying: --- end ---
-[09:50:47:843] Core::changeAspectRatio: 1
-[09:50:47:843] Core::displayMessage
-[09:50:47:843] AudioEqualizer::setValues
-[09:50:47:843] Core::changeZoom: 1.000000
-[09:50:47:843] Core::displayMessage
-[09:50:47:843] Core::changeSubVisilibity: 1
-[09:50:47:843] MPVProcess::sendCommand: "no-osd set sub-visibility yes"
-[09:50:47:843] Core::displayMessage
-[09:50:47:843] BaseGui::enableActionsOnPlaying
-[09:50:47:844] BaseGui::autosaveMplayerLog
-[09:50:47:844] Core::sendMediaInfo
-[09:50:47:844] Favorites::getCurrentMedia: '/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H/Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv', 'Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv'
-[09:50:47:844] Favorites::getCurrentMedia: '/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H/Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv', 'Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv'
-[09:50:47:844] Favorites::getCurrentMedia: '/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H/Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv', 'Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv'
-[09:50:47:844] BaseGuiPlus::updateMediaInfo
-[09:50:47:844] BaseGui::updateMediaInfo
-[09:50:47:844] TimeSliderAction::setDuration: 2482.59
-[09:50:47:844] Playlist::getMediaInfo
-[09:50:47:844] Core::updateWidgets
-[09:50:47:844] BaseGuiPlus::updateWidgets
-[09:50:47:844] BaseGui::updateWidgets
-[09:50:47:844] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:50:47:844] Core::finishRestart: --- end ---
-[09:50:47:845] BaseGui::checkStayOnTop
-[09:50:47:845] MPVProcess::parseLine: "INFO_TRACK_0: video 1 '' '' yes"
-[09:50:47:845] MPVProcess::parseLine: ID: 1 type: "video" name: "" lang: "" selected: "yes"
-[09:50:47:845] MPVProcess::updateVideoTrack: ID: 1
-[09:50:47:845] MPVProcess::parseLine: "INFO_TRACK_1: audio 1 'eng' 'English' yes"
-[09:50:47:845] MPVProcess::parseLine: ID: 1 type: "audio" name: "English" lang: "eng" selected: "yes"
-[09:50:47:845] MPVProcess::updateAudioTrack: ID: 1
-[09:50:47:845] MPVProcess::parseLine: "INFO_TRACK_2: sub 1 'eng' 'English' no"
-[09:50:47:845] MPVProcess::parseLine: ID: 1 type: "sub" name: "English" lang: "eng" selected: "no"
-[09:50:47:845] MPVProcess::updateSubtitleTrack: ID: 1
-[09:50:47:845] MPVProcess::parseLine: "INFO_TRACK_3: sub 2 'ara' 'Arabic' no"
-[09:50:47:845] MPVProcess::parseLine: ID: 2 type: "sub" name: "Arabic" lang: "ara" selected: "no"
-[09:50:47:845] MPVProcess::updateSubtitleTrack: ID: 2
-[09:50:47:845] MPVProcess::parseLine: "INFO_TRACK_4: sub 3 'chi' 'Chinese Simplified' no"
-[09:50:47:845] MPVProcess::parseLine: ID: 3 type: "sub" name: "Chinese Simplified" lang: "chi" selected: "no"
-[09:50:47:845] MPVProcess::updateSubtitleTrack: ID: 3
-[09:50:47:845] MPVProcess::parseLine: "INFO_TRACK_5: sub 4 'chi' 'Chinese Traditional' no"
-[09:50:47:845] MPVProcess::parseLine: ID: 4 type: "sub" name: "Chinese Traditional" lang: "chi" selected: "no"
-[09:50:47:845] MPVProcess::updateSubtitleTrack: ID: 4
-[09:50:47:845] MPVProcess::parseLine: "INFO_TRACK_6: sub 5 'hrv' 'Croatian' no"
-[09:50:47:845] MPVProcess::parseLine: ID: 5 type: "sub" name: "Croatian" lang: "hrv" selected: "no"
-[09:50:47:845] MPVProcess::updateSubtitleTrack: ID: 5
-[09:50:47:845] MPVProcess::parseLine: "INFO_TRACK_7: sub 6 'cze' 'Czech' no"
-[09:50:47:845] MPVProcess::parseLine: ID: 6 type: "sub" name: "Czech" lang: "cze" selected: "no"
-[09:50:47:845] MPVProcess::updateSubtitleTrack: ID: 6
-[09:50:47:845] MPVProcess::parseLine: "INFO_TRACK_8: sub 7 'dan' 'Danish' no"
-[09:50:47:845] MPVProcess::parseLine: ID: 7 type: "sub" name: "Danish" lang: "dan" selected: "no"
-[09:50:47:845] MPVProcess::updateSubtitleTrack: ID: 7
-[09:50:47:845] MPVProcess::parseLine: "INFO_TRACK_9: sub 8 'dut' 'Dutch' no"
-[09:50:47:845] MPVProcess::parseLine: ID: 8 type: "sub" name: "Dutch" lang: "dut" selected: "no"
-[09:50:47:845] MPVProcess::updateSubtitleTrack: ID: 8
-[09:50:47:845] MPVProcess::parseLine: "INFO_TRACK_10: sub 9 'fin' 'Finnish' no"
-[09:50:47:845] MPVProcess::parseLine: ID: 9 type: "sub" name: "Finnish" lang: "fin" selected: "no"
-[09:50:47:845] MPVProcess::updateSubtitleTrack: ID: 9
-[09:50:47:845] MPVProcess::parseLine: "INFO_TRACK_11: sub 10 'fre' 'French' no"
-[09:50:47:845] MPVProcess::parseLine: ID: 10 type: "sub" name: "French" lang: "fre" selected: "no"
-[09:50:47:845] MPVProcess::updateSubtitleTrack: ID: 10
-[09:50:47:845] MPVProcess::parseLine: "INFO_TRACK_12: sub 11 'ger' 'German' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 11 type: "sub" name: "German" lang: "ger" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 11
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_13: sub 12 'gre' 'Greek' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 12 type: "sub" name: "Greek" lang: "gre" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 12
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_14: sub 13 'heb' 'Hebrew' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 13 type: "sub" name: "Hebrew" lang: "heb" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 13
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_15: sub 14 'hun' 'Hungarian' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 14 type: "sub" name: "Hungarian" lang: "hun" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 14
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_16: sub 15 'ind' 'Indonesian' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 15 type: "sub" name: "Indonesian" lang: "ind" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 15
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_17: sub 16 'ita' 'Italian' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 16 type: "sub" name: "Italian" lang: "ita" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 16
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_18: sub 17 'jpn' 'Japanese' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 17 type: "sub" name: "Japanese" lang: "jpn" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 17
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_19: sub 18 'kor' 'Korean' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 18 type: "sub" name: "Korean" lang: "kor" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 18
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_20: sub 19 'may' 'Malay' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 19 type: "sub" name: "Malay" lang: "may" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 19
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_21: sub 20 'nob' 'Norwegian Bokmal' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 20 type: "sub" name: "Norwegian Bokmal" lang: "nob" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 20
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_22: sub 21 'pol' 'Polish' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 21 type: "sub" name: "Polish" lang: "pol" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 21
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_23: sub 22 'por' 'Portuguese' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 22 type: "sub" name: "Portuguese" lang: "por" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 22
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_24: sub 23 'por' 'Brazilian Portuguese' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 23 type: "sub" name: "Brazilian Portuguese" lang: "por" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 23
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_25: sub 24 'rum' 'Romanian' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 24 type: "sub" name: "Romanian" lang: "rum" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 24
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_26: sub 25 'rus' 'Russian' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 25 type: "sub" name: "Russian" lang: "rus" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 25
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_27: sub 26 'spa' 'Spanish' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 26 type: "sub" name: "Spanish" lang: "spa" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 26
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_28: sub 27 'spa' 'European Spanish' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 27 type: "sub" name: "European Spanish" lang: "spa" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 27
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_29: sub 28 'swe' 'Swedish' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 28 type: "sub" name: "Swedish" lang: "swe" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 28
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_30: sub 29 'tha' 'Thai' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 29 type: "sub" name: "Thai" lang: "tha" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 29
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_31: sub 30 'tur' 'Turkish' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 30 type: "sub" name: "Turkish" lang: "tur" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 30
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_32: sub 31 'ukr' 'Ukrainian' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 31 type: "sub" name: "Ukrainian" lang: "ukr" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 31
-[09:50:47:846] MPVProcess::parseLine: "INFO_TRACK_33: sub 32 'vie' 'Vietnamese' no"
-[09:50:47:846] MPVProcess::parseLine: ID: 32 type: "sub" name: "Vietnamese" lang: "vie" selected: "no"
-[09:50:47:846] MPVProcess::updateSubtitleTrack: ID: 32
-[09:50:47:846] BaseGui::enterFullscreenOnPlay: arg_start_in_fullscreen: -1, pref->start_in_fullscreen: 0
-[09:50:47:846] BaseGui::newMediaLoaded
-[09:50:47:846] BaseGui::newMediaLoaded: mdat.stream_title: 
-[09:50:47:846] Recents::addItem: '/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H/Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv'
-[09:50:47:846] BaseGui::updateRecents
-[09:50:47:847] BaseGui::checkPendingActionsToRun
-[09:50:47:847] BaseGui::checkMplayerVersion
-[09:50:47:847] MplayerVersion::isMplayerAtLeast: comparing 25158 with 33472
-[09:50:47:847] Core::checkIfVideoIsHD
-[09:50:47:871] MPVProcess::parseLine: video_info_changed
-[09:50:47:872] Core::initVideoTrack: selected_id: 1
-[09:50:47:872] Core::initializeMenus
-[09:50:47:872] BaseGui::initializeMenus
-[09:50:47:872] BaseGui::updateBookmarks
-[09:50:47:872] Core::updateWidgets
-[09:50:47:872] BaseGuiPlus::updateWidgets
-[09:50:47:872] BaseGui::updateWidgets
-[09:50:47:872] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:50:48:303] MPVProcess::parseLine: subtitle_info_changed
-[09:50:48:303] MPVProcess::parseLine: audio_info_changed
-[09:50:48:303] Core::initSubtitleTrack: num_items: 32 selected_id: -1
-[09:50:48:303] Core::initSubtitleTrack: list of subtitles:
-[09:50:48:303] SubTracks::list: item 0: type: 1 ID: 1 lang: 'eng' name: 'English' filename: ''
-[09:50:48:303] SubTracks::list: item 1: type: 1 ID: 2 lang: 'ara' name: 'Arabic' filename: ''
-[09:50:48:303] SubTracks::list: item 2: type: 1 ID: 3 lang: 'chi' name: 'Chinese Simplified' filename: ''
-[09:50:48:303] SubTracks::list: item 3: type: 1 ID: 4 lang: 'chi' name: 'Chinese Traditional' filename: ''
-[09:50:48:303] SubTracks::list: item 4: type: 1 ID: 5 lang: 'hrv' name: 'Croatian' filename: ''
-[09:50:48:303] SubTracks::list: item 5: type: 1 ID: 6 lang: 'cze' name: 'Czech' filename: ''
-[09:50:48:303] SubTracks::list: item 6: type: 1 ID: 7 lang: 'dan' name: 'Danish' filename: ''
-[09:50:48:303] SubTracks::list: item 7: type: 1 ID: 8 lang: 'dut' name: 'Dutch' filename: ''
-[09:50:48:303] SubTracks::list: item 8: type: 1 ID: 9 lang: 'fin' name: 'Finnish' filename: ''
-[09:50:48:303] SubTracks::list: item 9: type: 1 ID: 10 lang: 'fre' name: 'French' filename: ''
-[09:50:48:303] SubTracks::list: item 10: type: 1 ID: 11 lang: 'ger' name: 'German' filename: ''
-[09:50:48:303] SubTracks::list: item 11: type: 1 ID: 12 lang: 'gre' name: 'Greek' filename: ''
-[09:50:48:303] SubTracks::list: item 12: type: 1 ID: 13 lang: 'heb' name: 'Hebrew' filename: ''
-[09:50:48:303] SubTracks::list: item 13: type: 1 ID: 14 lang: 'hun' name: 'Hungarian' filename: ''
-[09:50:48:303] SubTracks::list: item 14: type: 1 ID: 15 lang: 'ind' name: 'Indonesian' filename: ''
-[09:50:48:303] SubTracks::list: item 15: type: 1 ID: 16 lang: 'ita' name: 'Italian' filename: ''
-[09:50:48:303] SubTracks::list: item 16: type: 1 ID: 17 lang: 'jpn' name: 'Japanese' filename: ''
-[09:50:48:303] SubTracks::list: item 17: type: 1 ID: 18 lang: 'kor' name: 'Korean' filename: ''
-[09:50:48:303] SubTracks::list: item 18: type: 1 ID: 19 lang: 'may' name: 'Malay' filename: ''
-[09:50:48:303] SubTracks::list: item 19: type: 1 ID: 20 lang: 'nob' name: 'Norwegian Bokmal' filename: ''
-[09:50:48:303] SubTracks::list: item 20: type: 1 ID: 21 lang: 'pol' name: 'Polish' filename: ''
-[09:50:48:303] SubTracks::list: item 21: type: 1 ID: 22 lang: 'por' name: 'Portuguese' filename: ''
-[09:50:48:303] SubTracks::list: item 22: type: 1 ID: 23 lang: 'por' name: 'Brazilian Portuguese' filename: ''
-[09:50:48:303] SubTracks::list: item 23: type: 1 ID: 24 lang: 'rum' name: 'Romanian' filename: ''
-[09:50:48:303] SubTracks::list: item 24: type: 1 ID: 25 lang: 'rus' name: 'Russian' filename: ''
-[09:50:48:303] SubTracks::list: item 25: type: 1 ID: 26 lang: 'spa' name: 'Spanish' filename: ''
-[09:50:48:304] SubTracks::list: item 26: type: 1 ID: 27 lang: 'spa' name: 'European Spanish' filename: ''
-[09:50:48:304] SubTracks::list: item 27: type: 1 ID: 28 lang: 'swe' name: 'Swedish' filename: ''
-[09:50:48:304] SubTracks::list: item 28: type: 1 ID: 29 lang: 'tha' name: 'Thai' filename: ''
-[09:50:48:304] SubTracks::list: item 29: type: 1 ID: 30 lang: 'tur' name: 'Turkish' filename: ''
-[09:50:48:304] SubTracks::list: item 30: type: 1 ID: 31 lang: 'ukr' name: 'Ukrainian' filename: ''
-[09:50:48:304] SubTracks::list: item 31: type: 1 ID: 32 lang: 'vie' name: 'Vietnamese' filename: ''
-[09:50:48:304] Core::initializeMenus
-[09:50:48:304] BaseGui::initializeMenus
-[09:50:48:304] BaseGui::updateBookmarks
-[09:50:48:304] Core::updateWidgets
-[09:50:48:304] BaseGuiPlus::updateWidgets
-[09:50:48:304] BaseGui::updateWidgets
-[09:50:48:304] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:50:48:304] Core::initSubtitleTrack: preferred subtitle track: 0 previous_selected: -1000
-[09:50:48:304] Core::initAudioTrack: num_items: 1 selected_id: 1
-[09:50:48:304] Core::initAudioTrack: list of audios:
-[09:50:48:304] Tracks::list: item 1: ID: 1 lang: 'eng' name: 'English'
-[09:50:48:305] Core::initializeMenus
-[09:50:48:305] BaseGui::initializeMenus
-[09:50:48:305] BaseGui::updateBookmarks
-[09:50:48:305] Core::updateWidgets
-[09:50:48:305] BaseGuiPlus::updateWidgets
-[09:50:48:305] BaseGui::updateWidgets
-[09:50:48:305] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[09:50:48:305] Core::initAudioTrack: preferred audio track: 0 previous_selected_id: -1000
-[09:50:48:305] BaseGui::enableActionsOnPlaying
-[09:50:48:306] Core::initAudioTrack: current_audio_id: 1
-[09:51:08:665] BaseGui::dragEnterEvent
-[09:51:09:077] BaseGui::dropEvent
-[09:51:09:079] BaseGui::dropEvent: scheme: "file"
-[09:51:09:079] BaseGui::dropEvent: file: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB"
-[09:51:09:079] BaseGui::dropEvent: list of dirs: ("/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB")
-[09:51:09:079] BaseGui::dropEvent: list of files: ()
-[09:51:09:079] BaseGui::dropEvent: subtitle file: ""
-[09:51:09:079] BaseGui::openDirectory: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB'
-[09:51:09:079] Playlist::setModified: 0
-[09:51:09:079] Playlist::updateWindowTitle: "Untitled playlist"
-[09:51:09:080] Playlist::addFiles
-[09:51:09:080] Playlist::addFiles: latest_dir: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB"
-[09:51:09:080] Playlist::setModified: 1
-[09:51:09:080] Playlist::updateWindowTitle: "Untitled playlist (*)"
-[09:51:09:080] Playlist::playItem: 0 (count: 19)
-[09:51:09:080] Core::open: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:51:09:080] Core::open: * identified as local file
-[09:51:09:080] Core::openFile: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:51:09:080] Core::playNewFile: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:51:09:080] Core::stopMplayer
-[09:51:09:080] MPVProcess::sendCommand: "quit 0"
-[09:51:09:080] Core::stopMplayer: Waiting mplayer to finish...
-[09:51:09:083] MPVProcess::parseLine: "Exiting... (Quit)"
-[09:51:09:188] MyProcess::procFinished
-[09:51:09:189] MyProcess::procFinished: Bytes available:  0
-[09:51:09:189] MPVProcess::processFinished: exitCode: 0, status: 0
-[09:51:09:189] ScreenHelper::playingStopped
-[09:51:09:189] ScreenHelper::setAutoHideCursor: 0
-[09:51:09:189] VideoLayer::playingStopped
-[09:51:09:189] Core::enableScreensaver
-[09:51:09:189] PowerSaving::uninhibit
-[09:51:09:189] PowerSaving::uninhibit: cookie: 11911
-[09:51:09:189] PowerSaving::uninhibit: valid reply
-[09:51:09:189] Core::stopMplayer: Finished.
-[09:51:09:189] Core::saveMediaInfo
-[09:51:09:189] FileSettingsHash::saveSettingsFor: "/run/media/rezikham/Seagate 1/Alien.Worlds.S01.1080p.NF.WEB-DL.DDP5.1.x264-T4H/Alien.Worlds.S01E01.Atlas.1080p.NF.WEB-DL.DDP5.1.x264-T4H.mkv" type: 0
-[09:51:09:190] FileSettingsHash::saveSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/f/f5e774368e731a93.ini"
-[09:51:09:190] FileSettingsHash::saveSettingsFor: output_dir: "f"
-[09:51:09:190] MediaSettings::save
-[09:51:09:191] MediaSettings::reset
-[09:51:09:191] FileSettingsHash::existSettingsFor: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:51:09:219] FileSettingsHash::existSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/4/479620e8ce60cf80.ini"
-[09:51:09:219] Core::playNewFile: volume: 40, old_volume: 40
-[09:51:09:219] Core::initPlaying
-[09:51:09:219] MplayerWindow::setLogoVisible: false
-[09:51:09:219] Core::startMplayer: file: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4" seek: 0
-[09:51:09:219] RetrieveYoutubeUrl::close
-[09:51:09:219] Core::startMplayer: checking if stream is a playlist
-[09:51:09:219] Core::startMplayer: url path: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:51:09:219] Core::startMplayer: url_is_playlist: 0
-[09:51:09:219] Core::startMplayer: hardware decoding is enabled. The video filters will be ignored
-[09:51:09:219] Core::startMplayer: edl file: ''
-[09:51:09:219] Core::startMplayer: extra_params: ()
-[09:51:09:219] MyProcess::splitArguments: '--vo=gpu'
-[09:51:09:219] MyProcess::splitArguments: arg: 0 '--vo=gpu'
-[09:51:09:219] arg 0: --vo=gpu
-[09:51:09:219] MPVProcess::addUserOption: "--vo=gpu"
-[09:51:09:219] MPVProcess::addUserOption: s: "--vo=gpu"
-[09:51:09:219] ScreenHelper::playingStarted
-[09:51:09:219] ScreenHelper::setAutoHideCursor: 1
-[09:51:09:219] VideoLayer::playingStarted
-[09:51:09:219] Core::disableScreensaver
-[09:51:09:219] PowerSaving::inhibit
-[09:51:09:220] PowerSaving::inhibit: valid reply
-[09:51:09:221] PowerSaving::inhibit: cookie: 11912
-[09:51:09:221] Core::startMplayer: command: '/usr/bin/mpv --no-quiet --terminal --no-msg-color --input-ipc-server=/tmp/smplayer-mpv-1ecb5 --msg-level=ffmpeg/demuxer=error --video-rotate=no --no-config --no-fs --hwdec=vaapi --sub-auto=fuzzy --vo=vaapi, --ao=pulse, --no-input-default-bindings --input-vo-keyboard=no --no-input-cursor --cursor-autohide=no --no-keepaspect --wid=73400341 --monitorpixelaspect=1 --osd-level=1 --osd-scale=1 --osd-bar-align-y=0.6 --sub-ass --embeddedfonts --sub-ass-line-spacing=0 --sub-scale=1 --sub-font=Arial --sub-color=#ffffffff --sub-shadow-color=#ff000000 --sub-border-color=#ff000000 --sub-border-size=0.75 --sub-shadow-offset=2.5 --sub-font-size=50 --sub-bold=no --sub-italic=no --sub-margin-y=8 --sub-margin-x=20 --sub-codepage=ISO-8859-1 --sub-pos=100 --volume=55 --cache=auto --screenshot-template=cap_%F_%p_%02n --screenshot-format=jpg --screenshot-directory=/home/rezikham/Pictures/smplayer_screenshots --audio-pitch-correction=yes --volume-max=110 --vo=gpu --term-playing-msg=MPV_VERSION=${=mpv-version:}
-INFO_VIDEO_WIDTH=${=width}
-INFO_VIDEO_HEIGHT=${=height}
-INFO_VIDEO_ASPECT=${=video-params/aspect}
-INFO_VIDEO_FPS=${=container-fps:${=fps}}
-INFO_VIDEO_FORMAT=${=video-format}
-INFO_VIDEO_CODEC=${=video-codec}
-INFO_DEMUX_ROTATION=${=track-list/0/demux-rotation}
-INFO_AUDIO_FORMAT=${=audio-codec-name}
-INFO_AUDIO_CODEC=${=audio-codec}
-INFO_AUDIO_RATE=${=audio-params/samplerate}
-INFO_AUDIO_NCH=${=audio-params/channel-count}
-INFO_LENGTH=${=duration:${=length}}
-INFO_DEMUXER=${=current-demuxer:${=demuxer}}
-INFO_SEEKABLE=${=seekable}
-INFO_TITLES=${=disc-titles}
-INFO_CHAPTERS=${=chapters}
-INFO_TRACKS_COUNT=${=track-list/count}
-METADATA_TITLE=${metadata/by-key/title:}
-METADATA_ARTIST=${metadata/by-key/artist:}
-METADATA_ALBUM=${metadata/by-key/album:}
-METADATA_GENRE=${metadata/by-key/genre:}
-METADATA_DATE=${metadata/by-key/date:}
-METADATA_TRACK=${metadata/by-key/track:}
-METADATA_COPYRIGHT=${metadata/by-key/copyright:}
-INFO_MEDIA_TITLE=${=media-title:}
-INFO_STREAM_PATH=${stream-path}
- --audio-client-name=SMPlayer --term-status-msg=STATUS: ${=time-pos} / ${=duration:${=length:0}} P: ${=pause} B: ${=paused-for-cache} I: ${=core-idle} VB: ${=video-bitrate:0} AB: ${=audio-bitrate:0} /run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:51:09:221] MyProcess::start: environment path: "/home/rezikham/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/cuda/bin:/opt/cuda/nsight_compute:/opt/cuda/nsight_systems/bin:/home/rezikham/.dotnet/tools:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
-[09:51:09:221] MyProcess::start: current directory: "/usr/bin"
-[09:51:09:223] Core::processFinished
-[09:51:09:223] Core::processFinished: we_are_restarting: 0
-[09:51:09:223] Core::processFinished: play has finished!
-[09:51:09:223] BaseGui::displayState: "Stopped"
-[09:51:09:223] BaseGui::togglePlayAction
-[09:51:09:223] Core::processFinished: exit_code: 0
-[09:51:09:223] BaseGui::checkStayOnTop
-[09:51:13:169] MPVProcess::parseLine: "[ffmpeg/video] png: inflate returned error -3"
-[09:51:13:169] MPVProcess::parseLine: " (+) Video --vid=1 (png 800x800 1.000fps)"
-[09:51:13:207] MPVProcess::parseLine: "[ffmpeg/video] png: inflate returned error -3"
-[09:51:13:207] MPVProcess::parseLine: "Error while decoding frame!"
-[09:51:13:207] MPVProcess::parseLine: "MPV_VERSION=mpv 0.34.1-dirty"
-[09:51:13:207] MPVProcess::parseLine: mpv version: "0.34.1-dirty"
-[09:51:13:207] MplayerVersion::mplayerVersion: mpv version found: "0.34.1-dirty"
-[09:51:13:207] MplayerVersion::mplayerVersion: mplayer_svn: 33472
-[09:51:13:207] MPVProcess::parseLine: "INFO_VIDEO_WIDTH=800"
-[09:51:13:207] MPVProcess::parseLine: md.video_width set to 800
-[09:51:13:207] MPVProcess::parseLine: "INFO_VIDEO_HEIGHT=800"
-[09:51:13:207] MPVProcess::parseLine: md.video_height set to 800
-[09:51:13:207] MPVProcess::parseLine: "INFO_VIDEO_ASPECT="
-[09:51:13:207] MPVProcess::parseLine: md.video_aspect set to 1
-[09:51:13:207] MPVProcess::parseLine: "INFO_VIDEO_FPS=1.000000"
-[09:51:13:207] MPVProcess::parseLine: "INFO_VIDEO_FORMAT=png"
-[09:51:13:207] MPVProcess::parseLine: "INFO_VIDEO_CODEC=png (PNG (Portable Network Graphics) image)"
-[09:51:13:207] MPVProcess::parseLine: md.video_codec: "png"
-[09:51:13:207] MPVProcess::parseLine: "INFO_DEMUX_ROTATION="
-[09:51:13:207] Core::gotDemuxRotation: 0
-[09:51:13:207] MPVProcess::parseLine: "INFO_AUDIO_FORMAT="
-[09:51:13:207] MPVProcess::parseLine: "INFO_AUDIO_CODEC="
-[09:51:13:207] MPVProcess::parseLine: "INFO_AUDIO_RATE="
-[09:51:13:207] MPVProcess::parseLine: "INFO_AUDIO_NCH="
-[09:51:13:207] MPVProcess::parseLine: "INFO_LENGTH=0.000000"
-[09:51:13:207] MPVProcess::parseLine: md.duration set to 0
-[09:51:13:207] MPVProcess::parseLine: "INFO_DEMUXER=lavf"
-[09:51:13:207] MPVProcess::parseLine: "INFO_SEEKABLE=yes"
-[09:51:13:207] MPVProcess::parseLine: "INFO_TITLES="
-[09:51:13:207] MPVProcess::parseLine: "INFO_CHAPTERS=0"
-[09:51:13:207] MPVProcess::parseLine: "INFO_TRACKS_COUNT=1"
-[09:51:13:207] MPVProcess::sendCommand: "print_text \"INFO_TRACK_0: ${track-list/0/type} ${track-list/0/id} '${track-list/0/lang:}' '${track-list/0/title:}' ${track-list/0/selected}\""
-[09:51:13:207] MPVProcess::sendCommand: state: QLocalSocket::UnconnectedState
-[09:51:13:207] MPVProcess::sendCommand: error: "QLocalSocket: Remote closed"
-[09:51:13:207] MPVProcess::sendCommand: state: QLocalSocket::ConnectedState
-[09:51:13:208] MPVProcess::parseLine: "METADATA_TITLE="
-[09:51:13:208] MPVProcess::parseLine: "METADATA_ARTIST="
-[09:51:13:208] MPVProcess::parseLine: "METADATA_ALBUM="
-[09:51:13:208] MPVProcess::parseLine: "METADATA_GENRE="
-[09:51:13:208] MPVProcess::parseLine: "METADATA_DATE="
-[09:51:13:208] MPVProcess::parseLine: "METADATA_TRACK="
-[09:51:13:208] MPVProcess::parseLine: "METADATA_COPYRIGHT="
-[09:51:13:208] MPVProcess::parseLine: "INFO_MEDIA_TITLE=Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:51:13:208] MPVProcess::parseLine: "INFO_STREAM_PATH=/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:51:13:238] MPVProcess::parseLine: "INFO_TRACK_0: (error) (error) '' '' (error)"
-[09:51:13:238] MPVProcess::parseLine: "Exiting... (Errors when loading file)"
-[09:51:13:251] MyProcess::procFinished
-[09:51:13:251] MyProcess::procFinished: Bytes available:  0
-[09:51:13:252] MPVProcess::processFinished: exitCode: 2, status: 0
-[09:51:13:252] ScreenHelper::playingStopped
-[09:51:13:252] ScreenHelper::setAutoHideCursor: 0
-[09:51:13:252] VideoLayer::playingStopped
-[09:51:13:252] Core::enableScreensaver
-[09:51:13:252] PowerSaving::uninhibit
-[09:51:13:252] PowerSaving::uninhibit: cookie: 11912
-[09:51:13:252] PowerSaving::uninhibit: valid reply
-[09:51:13:252] Core::processFinished
-[09:51:13:252] Core::processFinished: we_are_restarting: 0
-[09:51:13:252] Core::processFinished: play has finished!
-[09:51:13:252] Core::processFinished: exit_code: 2
-[09:51:13:252] BaseGui::displayState: "Stopped"
-[09:51:13:252] BaseGui::togglePlayAction
-[09:51:13:252] BaseGui::showExitCodeFromMplayer: 2
-[09:51:13:257] BaseGui::checkStayOnTop
-[09:51:14:496] WARNING: libpng warning: known incorrect sRGB profile
-[09:51:14:496] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:51:14:496] WARNING: libpng warning: known incorrect sRGB profile
-[09:51:14:496] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:51:14:498] WARNING: libpng warning: known incorrect sRGB profile
-[09:51:14:498] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:51:14:504] WARNING: libpng warning: known incorrect sRGB profile
-[09:51:14:504] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:51:14:504] WARNING: libpng warning: known incorrect sRGB profile
-[09:51:14:504] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:51:14:506] WARNING: libpng warning: known incorrect sRGB profile
-[09:51:14:506] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:51:19:591] Playlist::playerFinishedWithError: 2
-[09:51:21:973] BaseGui::openDirectory
-[09:51:27:290] BaseGui::openDirectory: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB'
-[09:51:27:290] Playlist::setModified: 0
-[09:51:27:290] Playlist::updateWindowTitle: "Untitled playlist"
-[09:51:27:291] Playlist::addFiles
-[09:51:27:291] Playlist::addFiles: latest_dir: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB"
-[09:51:27:291] Playlist::setModified: 1
-[09:51:27:291] Playlist::updateWindowTitle: "Untitled playlist (*)"
-[09:51:27:291] Playlist::playItem: 0 (count: 19)
-[09:51:27:291] Core::open: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:51:27:291] Core::open: * identified as local file
-[09:51:27:291] Core::openFile: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:51:27:291] Core::playNewFile: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:51:27:291] Core::saveMediaInfo
-[09:51:27:291] FileSettingsHash::saveSettingsFor: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4" type: 0
-[09:51:27:304] FileSettingsHash::saveSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/4/479620e8ce60cf80.ini"
-[09:51:27:304] FileSettingsHash::saveSettingsFor: output_dir: "4"
-[09:51:27:304] MediaSettings::save
-[09:51:27:305] MediaSettings::reset
-[09:51:27:305] FileSettingsHash::existSettingsFor: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:51:27:305] FileSettingsHash::existSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/4/479620e8ce60cf80.ini"
-[09:51:27:305] Core::playNewFile: we have settings for this file
-[09:51:27:305] Core::restoreSettingsForMedia: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4" type: 0
-[09:51:27:305] FileSettings::loadSettingsFor: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4" type: 0
-[09:51:27:306] FileSettingsHash::loadSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/4/479620e8ce60cf80.ini"
-[09:51:27:306] MediaSettings::reset
-[09:51:27:306] MediaSettings::load
-[09:51:27:306] MediaSettings::load: demuxer_section: demuxer_unknown
-[09:51:27:306] MediaSettings::load: list of video tracks:
-[09:51:27:306] MediaSettings::load: list of audio tracks:
-[09:51:27:306] MediaSettings::load: list of subtitle tracks:
-[09:51:27:306] Core::restoreSettingsForMedia: media settings read
-[09:51:27:306] Core::playNewFile: volume: 40, old_volume: 40
-[09:51:27:306] Core::initPlaying
-[09:51:27:306] MplayerWindow::setLogoVisible: false
-[09:51:27:306] Core::startMplayer: file: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4" seek: 0
-[09:51:27:306] RetrieveYoutubeUrl::close
-[09:51:27:306] Core::startMplayer: checking if stream is a playlist
-[09:51:27:306] Core::startMplayer: url path: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:51:27:306] Core::startMplayer: url_is_playlist: 0
-[09:51:27:306] Core::startMplayer: hardware decoding is enabled. The video filters will be ignored
-[09:51:27:306] Core::startMplayer: edl file: ''
-[09:51:27:306] Core::startMplayer: extra_params: ()
-[09:51:27:306] MyProcess::splitArguments: '--vo=gpu'
-[09:51:27:306] MyProcess::splitArguments: arg: 0 '--vo=gpu'
-[09:51:27:306] arg 0: --vo=gpu
-[09:51:27:306] MPVProcess::addUserOption: "--vo=gpu"
-[09:51:27:306] MPVProcess::addUserOption: s: "--vo=gpu"
-[09:51:27:306] ScreenHelper::playingStarted
-[09:51:27:306] ScreenHelper::setAutoHideCursor: 1
-[09:51:27:306] VideoLayer::playingStarted
-[09:51:27:306] Core::disableScreensaver
-[09:51:27:306] PowerSaving::inhibit
-[09:51:27:307] PowerSaving::inhibit: valid reply
-[09:51:27:307] PowerSaving::inhibit: cookie: 11913
-[09:51:27:307] Core::startMplayer: command: '/usr/bin/mpv --no-quiet --terminal --no-msg-color --input-ipc-server=/tmp/smplayer-mpv-1ecb5 --msg-level=ffmpeg/demuxer=error --video-rotate=no --no-config --no-fs --hwdec=vaapi --sub-auto=fuzzy --vo=vaapi, --ao=pulse, --no-input-default-bindings --input-vo-keyboard=no --no-input-cursor --cursor-autohide=no --no-keepaspect --wid=73400341 --monitorpixelaspect=1 --osd-level=1 --osd-scale=1 --osd-bar-align-y=0.6 --sub-ass --embeddedfonts --sub-ass-line-spacing=0 --sub-scale=1 --sub-font=Arial --sub-color=#ffffffff --sub-shadow-color=#ff000000 --sub-border-color=#ff000000 --sub-border-size=0.75 --sub-shadow-offset=2.5 --sub-font-size=50 --sub-bold=no --sub-italic=no --sub-margin-y=8 --sub-margin-x=20 --sub-codepage=ISO-8859-1 --sub-pos=100 --volume=55 --cache=auto --screenshot-template=cap_%F_%p_%02n --screenshot-format=jpg --screenshot-directory=/home/rezikham/Pictures/smplayer_screenshots --audio-pitch-correction=yes --volume-max=110 --vo=gpu --term-playing-msg=MPV_VERSION=${=mpv-version:}
-INFO_VIDEO_WIDTH=${=width}
-INFO_VIDEO_HEIGHT=${=height}
-INFO_VIDEO_ASPECT=${=video-params/aspect}
-INFO_VIDEO_FPS=${=container-fps:${=fps}}
-INFO_VIDEO_FORMAT=${=video-format}
-INFO_VIDEO_CODEC=${=video-codec}
-INFO_DEMUX_ROTATION=${=track-list/0/demux-rotation}
-INFO_AUDIO_FORMAT=${=audio-codec-name}
-INFO_AUDIO_CODEC=${=audio-codec}
-INFO_AUDIO_RATE=${=audio-params/samplerate}
-INFO_AUDIO_NCH=${=audio-params/channel-count}
-INFO_LENGTH=${=duration:${=length}}
-INFO_DEMUXER=${=current-demuxer:${=demuxer}}
-INFO_SEEKABLE=${=seekable}
-INFO_TITLES=${=disc-titles}
-INFO_CHAPTERS=${=chapters}
-INFO_TRACKS_COUNT=${=track-list/count}
-METADATA_TITLE=${metadata/by-key/title:}
-METADATA_ARTIST=${metadata/by-key/artist:}
-METADATA_ALBUM=${metadata/by-key/album:}
-METADATA_GENRE=${metadata/by-key/genre:}
-METADATA_DATE=${metadata/by-key/date:}
-METADATA_TRACK=${metadata/by-key/track:}
-METADATA_COPYRIGHT=${metadata/by-key/copyright:}
-INFO_MEDIA_TITLE=${=media-title:}
-INFO_STREAM_PATH=${stream-path}
- --audio-client-name=SMPlayer --term-status-msg=STATUS: ${=time-pos} / ${=duration:${=length:0}} P: ${=pause} B: ${=paused-for-cache} I: ${=core-idle} VB: ${=video-bitrate:0} AB: ${=audio-bitrate:0} /run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:51:27:307] MyProcess::start: environment path: "/home/rezikham/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/cuda/bin:/opt/cuda/nsight_compute:/opt/cuda/nsight_systems/bin:/home/rezikham/.dotnet/tools:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
-[09:51:27:307] MyProcess::start: current directory: "/usr/bin"
-[09:51:28:608] MPVProcess::parseLine: "[ffmpeg/video] png: inflate returned error -3"
-[09:51:28:609] MPVProcess::parseLine: " (+) Video --vid=1 (png 800x800 1.000fps)"
-[09:51:28:662] MPVProcess::parseLine: "[ffmpeg/video] png: inflate returned error -3"
-[09:51:28:662] MPVProcess::parseLine: "Error while decoding frame!"
-[09:51:28:662] MPVProcess::parseLine: "MPV_VERSION=mpv 0.34.1-dirty"
-[09:51:28:662] MPVProcess::parseLine: mpv version: "0.34.1-dirty"
-[09:51:28:662] MplayerVersion::mplayerVersion: mpv version found: "0.34.1-dirty"
-[09:51:28:662] MplayerVersion::mplayerVersion: mplayer_svn: 33472
-[09:51:28:662] MPVProcess::parseLine: "INFO_VIDEO_WIDTH=800"
-[09:51:28:662] MPVProcess::parseLine: md.video_width set to 800
-[09:51:28:662] MPVProcess::parseLine: "INFO_VIDEO_HEIGHT=800"
-[09:51:28:663] MPVProcess::parseLine: md.video_height set to 800
-[09:51:28:663] MPVProcess::parseLine: "INFO_VIDEO_ASPECT="
-[09:51:28:663] MPVProcess::parseLine: md.video_aspect set to 1
-[09:51:28:663] MPVProcess::parseLine: "INFO_VIDEO_FPS=1.000000"
-[09:51:28:663] MPVProcess::parseLine: "INFO_VIDEO_FORMAT=png"
-[09:51:28:663] MPVProcess::parseLine: "INFO_VIDEO_CODEC=png (PNG (Portable Network Graphics) image)"
-[09:51:28:663] MPVProcess::parseLine: md.video_codec: "png"
-[09:51:28:663] MPVProcess::parseLine: "INFO_DEMUX_ROTATION="
-[09:51:28:663] Core::gotDemuxRotation: 0
-[09:51:28:663] MPVProcess::parseLine: "INFO_AUDIO_FORMAT="
-[09:51:28:663] MPVProcess::parseLine: "INFO_AUDIO_CODEC="
-[09:51:28:663] MPVProcess::parseLine: "INFO_AUDIO_RATE="
-[09:51:28:663] MPVProcess::parseLine: "INFO_AUDIO_NCH="
-[09:51:28:663] MPVProcess::parseLine: "INFO_LENGTH=0.000000"
-[09:51:28:663] MPVProcess::parseLine: md.duration set to 0
-[09:51:28:663] MPVProcess::parseLine: "INFO_DEMUXER=lavf"
-[09:51:28:663] MPVProcess::parseLine: "INFO_SEEKABLE=yes"
-[09:51:28:663] MPVProcess::parseLine: "INFO_TITLES="
-[09:51:28:663] MPVProcess::parseLine: "INFO_CHAPTERS=0"
-[09:51:28:663] MPVProcess::parseLine: "INFO_TRACKS_COUNT=1"
-[09:51:28:663] MPVProcess::sendCommand: "print_text \"INFO_TRACK_0: ${track-list/0/type} ${track-list/0/id} '${track-list/0/lang:}' '${track-list/0/title:}' ${track-list/0/selected}\""
-[09:51:28:663] MPVProcess::sendCommand: state: QLocalSocket::UnconnectedState
-[09:51:28:663] MPVProcess::sendCommand: error: "QLocalSocket: Remote closed"
-[09:51:28:663] MPVProcess::sendCommand: state: QLocalSocket::ConnectedState
-[09:51:28:663] MPVProcess::parseLine: "METADATA_TITLE="
-[09:51:28:663] MPVProcess::parseLine: "METADATA_ARTIST="
-[09:51:28:663] MPVProcess::parseLine: "METADATA_ALBUM="
-[09:51:28:663] MPVProcess::parseLine: "METADATA_GENRE="
-[09:51:28:663] MPVProcess::parseLine: "METADATA_DATE="
-[09:51:28:663] MPVProcess::parseLine: "METADATA_TRACK="
-[09:51:28:663] MPVProcess::parseLine: "METADATA_COPYRIGHT="
-[09:51:28:663] MPVProcess::parseLine: "INFO_MEDIA_TITLE=Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:51:28:664] MPVProcess::parseLine: "INFO_STREAM_PATH=/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:51:28:684] MPVProcess::parseLine: "INFO_TRACK_0: (error) (error) '' '' (error)"
-[09:51:28:684] MPVProcess::parseLine: "Exiting... (Errors when loading file)"
-[09:51:28:696] MyProcess::procFinished
-[09:51:28:696] MyProcess::procFinished: Bytes available:  0
-[09:51:28:696] MPVProcess::processFinished: exitCode: 2, status: 0
-[09:51:28:696] ScreenHelper::playingStopped
-[09:51:28:696] ScreenHelper::setAutoHideCursor: 0
-[09:51:28:696] VideoLayer::playingStopped
-[09:51:28:696] Core::enableScreensaver
-[09:51:28:696] PowerSaving::uninhibit
-[09:51:28:696] PowerSaving::uninhibit: cookie: 11913
-[09:51:28:697] PowerSaving::uninhibit: valid reply
-[09:51:28:697] Core::processFinished
-[09:51:28:697] Core::processFinished: we_are_restarting: 0
-[09:51:28:697] Core::processFinished: play has finished!
-[09:51:28:697] Core::processFinished: exit_code: 2
-[09:51:28:697] BaseGui::displayState: "Stopped"
-[09:51:28:697] BaseGui::togglePlayAction
-[09:51:28:697] BaseGui::showExitCodeFromMplayer: 2
-[09:51:28:700] BaseGui::checkStayOnTop
-[09:51:33:940] WARNING: libpng warning: known incorrect sRGB profile
-[09:51:33:941] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:51:33:941] WARNING: libpng warning: known incorrect sRGB profile
-[09:51:33:941] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:51:33:942] WARNING: libpng warning: known incorrect sRGB profile
-[09:51:33:942] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:51:33:946] WARNING: libpng warning: known incorrect sRGB profile
-[09:51:33:946] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:51:33:946] WARNING: libpng warning: known incorrect sRGB profile
-[09:51:33:946] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:51:33:947] WARNING: libpng warning: known incorrect sRGB profile
-[09:51:33:947] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:51:57:112] Playlist::playerFinishedWithError: 2
-[09:52:00:174] BaseGui::dragEnterEvent
-[09:52:00:499] BaseGui::dropEvent
-[09:52:00:499] BaseGui::dropEvent: scheme: "file"
-[09:52:00:499] BaseGui::dropEvent: file: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:52:00:499] BaseGui::dropEvent: list of dirs: ()
-[09:52:00:500] BaseGui::dropEvent: list of files: ("/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4")
-[09:52:00:500] BaseGui::dropEvent: subtitle file: ""
-[09:52:00:500] BaseGui::openFile: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:52:02:868] Core::openFile: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:52:02:868] Core::playNewFile: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:52:02:868] Core::saveMediaInfo
-[09:52:02:868] FileSettingsHash::saveSettingsFor: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4" type: 0
-[09:52:02:869] FileSettingsHash::saveSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/4/479620e8ce60cf80.ini"
-[09:52:02:869] FileSettingsHash::saveSettingsFor: output_dir: "4"
-[09:52:02:869] MediaSettings::save
-[09:52:02:870] MediaSettings::reset
-[09:52:02:870] FileSettingsHash::existSettingsFor: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:52:02:871] FileSettingsHash::existSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/4/479620e8ce60cf80.ini"
-[09:52:02:871] Core::playNewFile: we have settings for this file
-[09:52:02:871] Core::restoreSettingsForMedia: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4" type: 0
-[09:52:02:871] FileSettings::loadSettingsFor: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4" type: 0
-[09:52:02:871] FileSettingsHash::loadSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/4/479620e8ce60cf80.ini"
-[09:52:02:871] MediaSettings::reset
-[09:52:02:871] MediaSettings::load
-[09:52:02:871] MediaSettings::load: demuxer_section: demuxer_unknown
-[09:52:02:871] MediaSettings::load: list of video tracks:
-[09:52:02:871] MediaSettings::load: list of audio tracks:
-[09:52:02:871] MediaSettings::load: list of subtitle tracks:
-[09:52:02:871] Core::restoreSettingsForMedia: media settings read
-[09:52:02:871] Core::playNewFile: volume: 40, old_volume: 40
-[09:52:02:871] Core::initPlaying
-[09:52:02:871] MplayerWindow::setLogoVisible: false
-[09:52:02:871] Core::startMplayer: file: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4" seek: 0
-[09:52:02:871] RetrieveYoutubeUrl::close
-[09:52:02:871] Core::startMplayer: checking if stream is a playlist
-[09:52:02:871] Core::startMplayer: url path: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:52:02:871] Core::startMplayer: url_is_playlist: 0
-[09:52:02:871] Core::startMplayer: hardware decoding is enabled. The video filters will be ignored
-[09:52:02:871] Core::startMplayer: edl file: ''
-[09:52:02:871] Core::startMplayer: extra_params: ()
-[09:52:02:871] MyProcess::splitArguments: '--vo=gpu'
-[09:52:02:871] MyProcess::splitArguments: arg: 0 '--vo=gpu'
-[09:52:02:871] arg 0: --vo=gpu
-[09:52:02:871] MPVProcess::addUserOption: "--vo=gpu"
-[09:52:02:871] MPVProcess::addUserOption: s: "--vo=gpu"
-[09:52:02:871] ScreenHelper::playingStarted
-[09:52:02:871] ScreenHelper::setAutoHideCursor: 1
-[09:52:02:871] VideoLayer::playingStarted
-[09:52:02:871] Core::disableScreensaver
-[09:52:02:871] PowerSaving::inhibit
-[09:52:02:872] PowerSaving::inhibit: valid reply
-[09:52:02:872] PowerSaving::inhibit: cookie: 11914
-[09:52:02:872] Core::startMplayer: command: '/usr/bin/mpv --no-quiet --terminal --no-msg-color --input-ipc-server=/tmp/smplayer-mpv-1ecb5 --msg-level=ffmpeg/demuxer=error --video-rotate=no --no-config --no-fs --hwdec=vaapi --sub-auto=fuzzy --vo=vaapi, --ao=pulse, --no-input-default-bindings --input-vo-keyboard=no --no-input-cursor --cursor-autohide=no --no-keepaspect --wid=73400341 --monitorpixelaspect=1 --osd-level=1 --osd-scale=1 --osd-bar-align-y=0.6 --sub-ass --embeddedfonts --sub-ass-line-spacing=0 --sub-scale=1 --sub-font=Arial --sub-color=#ffffffff --sub-shadow-color=#ff000000 --sub-border-color=#ff000000 --sub-border-size=0.75 --sub-shadow-offset=2.5 --sub-font-size=50 --sub-bold=no --sub-italic=no --sub-margin-y=8 --sub-margin-x=20 --sub-codepage=ISO-8859-1 --sub-pos=100 --volume=55 --cache=auto --screenshot-template=cap_%F_%p_%02n --screenshot-format=jpg --screenshot-directory=/home/rezikham/Pictures/smplayer_screenshots --audio-pitch-correction=yes --volume-max=110 --vo=gpu --term-playing-msg=MPV_VERSION=${=mpv-version:}
-INFO_VIDEO_WIDTH=${=width}
-INFO_VIDEO_HEIGHT=${=height}
-INFO_VIDEO_ASPECT=${=video-params/aspect}
-INFO_VIDEO_FPS=${=container-fps:${=fps}}
-INFO_VIDEO_FORMAT=${=video-format}
-INFO_VIDEO_CODEC=${=video-codec}
-INFO_DEMUX_ROTATION=${=track-list/0/demux-rotation}
-INFO_AUDIO_FORMAT=${=audio-codec-name}
-INFO_AUDIO_CODEC=${=audio-codec}
-INFO_AUDIO_RATE=${=audio-params/samplerate}
-INFO_AUDIO_NCH=${=audio-params/channel-count}
-INFO_LENGTH=${=duration:${=length}}
-INFO_DEMUXER=${=current-demuxer:${=demuxer}}
-INFO_SEEKABLE=${=seekable}
-INFO_TITLES=${=disc-titles}
-INFO_CHAPTERS=${=chapters}
-INFO_TRACKS_COUNT=${=track-list/count}
-METADATA_TITLE=${metadata/by-key/title:}
-METADATA_ARTIST=${metadata/by-key/artist:}
-METADATA_ALBUM=${metadata/by-key/album:}
-METADATA_GENRE=${metadata/by-key/genre:}
-METADATA_DATE=${metadata/by-key/date:}
-METADATA_TRACK=${metadata/by-key/track:}
-METADATA_COPYRIGHT=${metadata/by-key/copyright:}
-INFO_MEDIA_TITLE=${=media-title:}
-INFO_STREAM_PATH=${stream-path}
- --audio-client-name=SMPlayer --term-status-msg=STATUS: ${=time-pos} / ${=duration:${=length:0}} P: ${=pause} B: ${=paused-for-cache} I: ${=core-idle} VB: ${=video-bitrate:0} AB: ${=audio-bitrate:0} /run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:52:02:872] MyProcess::start: environment path: "/home/rezikham/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/cuda/bin:/opt/cuda/nsight_compute:/opt/cuda/nsight_systems/bin:/home/rezikham/.dotnet/tools:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
-[09:52:02:872] MyProcess::start: current directory: "/usr/bin"
-[09:52:02:875] Playlist::setModified: 0
-[09:52:02:875] Playlist::updateWindowTitle: "Untitled playlist"
-[09:52:02:875] Playlist::addFiles
-[09:52:02:875] Playlist::addFiles: latest_dir: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB"
-[09:52:02:904] WARNING: libpng warning: known incorrect sRGB profile
-[09:52:02:904] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:52:02:905] WARNING: libpng warning: known incorrect sRGB profile
-[09:52:02:905] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:52:02:906] WARNING: libpng warning: known incorrect sRGB profile
-[09:52:02:906] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:52:02:913] WARNING: libpng warning: known incorrect sRGB profile
-[09:52:02:913] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:52:02:913] WARNING: libpng warning: known incorrect sRGB profile
-[09:52:02:913] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:52:02:915] WARNING: libpng warning: known incorrect sRGB profile
-[09:52:02:915] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:52:03:953] MPVProcess::parseLine: "[ffmpeg/video] png: inflate returned error -3"
-[09:52:03:954] MPVProcess::parseLine: " (+) Video --vid=1 (png 800x800 1.000fps)"
-[09:52:03:984] MPVProcess::parseLine: "[ffmpeg/video] png: inflate returned error -3"
-[09:52:03:984] MPVProcess::parseLine: "Error while decoding frame!"
-[09:52:03:984] MPVProcess::parseLine: "MPV_VERSION=mpv 0.34.1-dirty"
-[09:52:03:984] MPVProcess::parseLine: mpv version: "0.34.1-dirty"
-[09:52:03:984] MplayerVersion::mplayerVersion: mpv version found: "0.34.1-dirty"
-[09:52:03:984] MplayerVersion::mplayerVersion: mplayer_svn: 33472
-[09:52:03:984] MPVProcess::parseLine: "INFO_VIDEO_WIDTH=800"
-[09:52:03:984] MPVProcess::parseLine: md.video_width set to 800
-[09:52:03:984] MPVProcess::parseLine: "INFO_VIDEO_HEIGHT=800"
-[09:52:03:984] MPVProcess::parseLine: md.video_height set to 800
-[09:52:03:984] MPVProcess::parseLine: "INFO_VIDEO_ASPECT="
-[09:52:03:984] MPVProcess::parseLine: md.video_aspect set to 1
-[09:52:03:984] MPVProcess::parseLine: "INFO_VIDEO_FPS=1.000000"
-[09:52:03:984] MPVProcess::parseLine: "INFO_VIDEO_FORMAT=png"
-[09:52:03:984] MPVProcess::parseLine: "INFO_VIDEO_CODEC=png (PNG (Portable Network Graphics) image)"
-[09:52:03:984] MPVProcess::parseLine: md.video_codec: "png"
-[09:52:03:984] MPVProcess::parseLine: "INFO_DEMUX_ROTATION="
-[09:52:03:984] Core::gotDemuxRotation: 0
-[09:52:03:984] MPVProcess::parseLine: "INFO_AUDIO_FORMAT="
-[09:52:03:984] MPVProcess::parseLine: "INFO_AUDIO_CODEC="
-[09:52:03:984] MPVProcess::parseLine: "INFO_AUDIO_RATE="
-[09:52:03:984] MPVProcess::parseLine: "INFO_AUDIO_NCH="
-[09:52:03:984] MPVProcess::parseLine: "INFO_LENGTH=0.000000"
-[09:52:03:984] MPVProcess::parseLine: md.duration set to 0
-[09:52:03:984] MPVProcess::parseLine: "INFO_DEMUXER=lavf"
-[09:52:03:984] MPVProcess::parseLine: "INFO_SEEKABLE=yes"
-[09:52:03:984] MPVProcess::parseLine: "INFO_TITLES="
-[09:52:03:984] MPVProcess::parseLine: "INFO_CHAPTERS=0"
-[09:52:03:985] MPVProcess::parseLine: "INFO_TRACKS_COUNT=1"
-[09:52:03:985] MPVProcess::sendCommand: "print_text \"INFO_TRACK_0: ${track-list/0/type} ${track-list/0/id} '${track-list/0/lang:}' '${track-list/0/title:}' ${track-list/0/selected}\""
-[09:52:03:985] MPVProcess::sendCommand: state: QLocalSocket::UnconnectedState
-[09:52:03:985] MPVProcess::sendCommand: error: "QLocalSocket: Remote closed"
-[09:52:03:985] MPVProcess::sendCommand: state: QLocalSocket::ConnectedState
-[09:52:03:985] MPVProcess::parseLine: "METADATA_TITLE="
-[09:52:03:985] MPVProcess::parseLine: "METADATA_ARTIST="
-[09:52:03:985] MPVProcess::parseLine: "METADATA_ALBUM="
-[09:52:03:985] MPVProcess::parseLine: "METADATA_GENRE="
-[09:52:03:985] MPVProcess::parseLine: "METADATA_DATE="
-[09:52:03:985] MPVProcess::parseLine: "METADATA_TRACK="
-[09:52:03:985] MPVProcess::parseLine: "METADATA_COPYRIGHT="
-[09:52:03:985] MPVProcess::parseLine: "INFO_MEDIA_TITLE=Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:52:03:985] MPVProcess::parseLine: "INFO_STREAM_PATH=/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:52:04:006] MPVProcess::parseLine: "INFO_TRACK_0: (error) (error) '' '' (error)"
-[09:52:04:006] MPVProcess::parseLine: "Exiting... (Errors when loading file)"
-[09:52:04:017] MyProcess::procFinished
-[09:52:04:017] MyProcess::procFinished: Bytes available:  0
-[09:52:04:017] MPVProcess::processFinished: exitCode: 2, status: 0
-[09:52:04:017] ScreenHelper::playingStopped
-[09:52:04:017] ScreenHelper::setAutoHideCursor: 0
-[09:52:04:017] VideoLayer::playingStopped
-[09:52:04:017] Core::enableScreensaver
-[09:52:04:017] PowerSaving::uninhibit
-[09:52:04:017] PowerSaving::uninhibit: cookie: 11914
-[09:52:04:018] PowerSaving::uninhibit: valid reply
-[09:52:04:018] Core::processFinished
-[09:52:04:018] Core::processFinished: we_are_restarting: 0
-[09:52:04:018] Core::processFinished: play has finished!
-[09:52:04:018] Core::processFinished: exit_code: 2
-[09:52:04:018] BaseGui::displayState: "Stopped"
-[09:52:04:018] BaseGui::togglePlayAction
-[09:52:04:018] BaseGui::showExitCodeFromMplayer: 2
-[09:52:04:020] BaseGui::checkStayOnTop
-[09:52:29:708] WARNING: libpng warning: known incorrect sRGB profile
-[09:52:29:708] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:52:29:708] WARNING: libpng warning: known incorrect sRGB profile
-[09:52:29:708] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:52:29:709] WARNING: libpng warning: known incorrect sRGB profile
-[09:52:29:710] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:52:29:719] WARNING: libpng warning: known incorrect sRGB profile
-[09:52:29:719] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:52:29:720] WARNING: libpng warning: known incorrect sRGB profile
-[09:52:29:720] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:52:29:721] WARNING: libpng warning: known incorrect sRGB profile
-[09:52:29:721] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:52:31:390] Playlist::playerFinishedWithError: 2
-[09:54:24:464] BaseGui::dragEnterEvent
-[09:54:24:651] BaseGui::dropEvent
-[09:54:24:652] BaseGui::dropEvent: scheme: "file"
-[09:54:24:652] BaseGui::dropEvent: file: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:54:24:652] BaseGui::dropEvent: list of dirs: ()
-[09:54:24:652] BaseGui::dropEvent: list of files: ("/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4")
-[09:54:24:652] BaseGui::dropEvent: subtitle file: ""
-[09:54:24:652] BaseGui::openFile: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:54:24:652] Core::openFile: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:54:24:652] Core::playNewFile: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:54:24:652] Core::saveMediaInfo
-[09:54:24:652] FileSettingsHash::saveSettingsFor: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4" type: 0
-[09:54:24:653] FileSettingsHash::saveSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/4/479620e8ce60cf80.ini"
-[09:54:24:653] FileSettingsHash::saveSettingsFor: output_dir: "4"
-[09:54:24:653] MediaSettings::save
-[09:54:24:654] MediaSettings::reset
-[09:54:24:654] FileSettingsHash::existSettingsFor: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:54:24:655] FileSettingsHash::existSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/4/479620e8ce60cf80.ini"
-[09:54:24:655] Core::playNewFile: we have settings for this file
-[09:54:24:655] Core::restoreSettingsForMedia: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4" type: 0
-[09:54:24:655] FileSettings::loadSettingsFor: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4" type: 0
-[09:54:24:656] FileSettingsHash::loadSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/4/479620e8ce60cf80.ini"
-[09:54:24:656] MediaSettings::reset
-[09:54:24:656] MediaSettings::load
-[09:54:24:656] MediaSettings::load: demuxer_section: demuxer_unknown
-[09:54:24:656] MediaSettings::load: list of video tracks:
-[09:54:24:656] MediaSettings::load: list of audio tracks:
-[09:54:24:656] MediaSettings::load: list of subtitle tracks:
-[09:54:24:656] Core::restoreSettingsForMedia: media settings read
-[09:54:24:656] Core::playNewFile: volume: 40, old_volume: 40
-[09:54:24:656] Core::initPlaying
-[09:54:24:656] MplayerWindow::setLogoVisible: false
-[09:54:24:656] Core::startMplayer: file: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4" seek: 0
-[09:54:24:656] RetrieveYoutubeUrl::close
-[09:54:24:656] Core::startMplayer: checking if stream is a playlist
-[09:54:24:656] Core::startMplayer: url path: '/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:54:24:656] Core::startMplayer: url_is_playlist: 0
-[09:54:24:656] Core::startMplayer: hardware decoding is enabled. The video filters will be ignored
-[09:54:24:656] Core::startMplayer: edl file: ''
-[09:54:24:656] Core::startMplayer: extra_params: ()
-[09:54:24:656] MyProcess::splitArguments: '--vo=gpu'
-[09:54:24:656] MyProcess::splitArguments: arg: 0 '--vo=gpu'
-[09:54:24:656] arg 0: --vo=gpu
-[09:54:24:656] MPVProcess::addUserOption: "--vo=gpu"
-[09:54:24:656] MPVProcess::addUserOption: s: "--vo=gpu"
-[09:54:24:656] ScreenHelper::playingStarted
-[09:54:24:656] ScreenHelper::setAutoHideCursor: 1
-[09:54:24:656] VideoLayer::playingStarted
-[09:54:24:656] Core::disableScreensaver
-[09:54:24:656] PowerSaving::inhibit
-[09:54:24:657] PowerSaving::inhibit: valid reply
-[09:54:24:657] PowerSaving::inhibit: cookie: 11915
-[09:54:24:657] Core::startMplayer: command: '/usr/bin/mpv --no-quiet --terminal --no-msg-color --input-ipc-server=/tmp/smplayer-mpv-1ecb5 --msg-level=ffmpeg/demuxer=error --video-rotate=no --no-config --no-fs --hwdec=vaapi --sub-auto=fuzzy --vo=vaapi, --ao=pulse, --no-input-default-bindings --input-vo-keyboard=no --no-input-cursor --cursor-autohide=no --no-keepaspect --wid=73400341 --monitorpixelaspect=1 --osd-level=1 --osd-scale=1 --osd-bar-align-y=0.6 --sub-ass --embeddedfonts --sub-ass-line-spacing=0 --sub-scale=1 --sub-font=Arial --sub-color=#ffffffff --sub-shadow-color=#ff000000 --sub-border-color=#ff000000 --sub-border-size=0.75 --sub-shadow-offset=2.5 --sub-font-size=50 --sub-bold=no --sub-italic=no --sub-margin-y=8 --sub-margin-x=20 --sub-codepage=ISO-8859-1 --sub-pos=100 --volume=55 --cache=auto --screenshot-template=cap_%F_%p_%02n --screenshot-format=jpg --screenshot-directory=/home/rezikham/Pictures/smplayer_screenshots --audio-pitch-correction=yes --volume-max=110 --vo=gpu --term-playing-msg=MPV_VERSION=${=mpv-version:}
-INFO_VIDEO_WIDTH=${=width}
-INFO_VIDEO_HEIGHT=${=height}
-INFO_VIDEO_ASPECT=${=video-params/aspect}
-INFO_VIDEO_FPS=${=container-fps:${=fps}}
-INFO_VIDEO_FORMAT=${=video-format}
-INFO_VIDEO_CODEC=${=video-codec}
-INFO_DEMUX_ROTATION=${=track-list/0/demux-rotation}
-INFO_AUDIO_FORMAT=${=audio-codec-name}
-INFO_AUDIO_CODEC=${=audio-codec}
-INFO_AUDIO_RATE=${=audio-params/samplerate}
-INFO_AUDIO_NCH=${=audio-params/channel-count}
-INFO_LENGTH=${=duration:${=length}}
-INFO_DEMUXER=${=current-demuxer:${=demuxer}}
-INFO_SEEKABLE=${=seekable}
-INFO_TITLES=${=disc-titles}
-INFO_CHAPTERS=${=chapters}
-INFO_TRACKS_COUNT=${=track-list/count}
-METADATA_TITLE=${metadata/by-key/title:}
-METADATA_ARTIST=${metadata/by-key/artist:}
-METADATA_ALBUM=${metadata/by-key/album:}
-METADATA_GENRE=${metadata/by-key/genre:}
-METADATA_DATE=${metadata/by-key/date:}
-METADATA_TRACK=${metadata/by-key/track:}
-METADATA_COPYRIGHT=${metadata/by-key/copyright:}
-INFO_MEDIA_TITLE=${=media-title:}
-INFO_STREAM_PATH=${stream-path}
- --audio-client-name=SMPlayer --term-status-msg=STATUS: ${=time-pos} / ${=duration:${=length:0}} P: ${=pause} B: ${=paused-for-cache} I: ${=core-idle} VB: ${=video-bitrate:0} AB: ${=audio-bitrate:0} /run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4'
-[09:54:24:657] MyProcess::start: environment path: "/home/rezikham/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/cuda/bin:/opt/cuda/nsight_compute:/opt/cuda/nsight_systems/bin:/home/rezikham/.dotnet/tools:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
-[09:54:24:657] MyProcess::start: current directory: "/usr/bin"
-[09:54:24:660] Playlist::setModified: 0
-[09:54:24:660] Playlist::updateWindowTitle: "Untitled playlist"
-[09:54:24:660] Playlist::addFiles
-[09:54:24:660] Playlist::addFiles: latest_dir: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB"
-[09:54:25:702] MPVProcess::parseLine: "[ffmpeg/video] png: inflate returned error -3"
-[09:54:25:703] MPVProcess::parseLine: " (+) Video --vid=1 (png 800x800 1.000fps)"
-[09:54:25:730] MPVProcess::parseLine: "[ffmpeg/video] png: inflate returned error -3"
-[09:54:25:730] MPVProcess::parseLine: "Error while decoding frame!"
-[09:54:25:730] MPVProcess::parseLine: "MPV_VERSION=mpv 0.34.1-dirty"
-[09:54:25:730] MPVProcess::parseLine: mpv version: "0.34.1-dirty"
-[09:54:25:730] MplayerVersion::mplayerVersion: mpv version found: "0.34.1-dirty"
-[09:54:25:730] MplayerVersion::mplayerVersion: mplayer_svn: 33472
-[09:54:25:730] MPVProcess::parseLine: "INFO_VIDEO_WIDTH=800"
-[09:54:25:730] MPVProcess::parseLine: md.video_width set to 800
-[09:54:25:730] MPVProcess::parseLine: "INFO_VIDEO_HEIGHT=800"
-[09:54:25:730] MPVProcess::parseLine: md.video_height set to 800
-[09:54:25:730] MPVProcess::parseLine: "INFO_VIDEO_ASPECT="
-[09:54:25:730] MPVProcess::parseLine: md.video_aspect set to 1
-[09:54:25:730] MPVProcess::parseLine: "INFO_VIDEO_FPS=1.000000"
-[09:54:25:730] MPVProcess::parseLine: "INFO_VIDEO_FORMAT=png"
-[09:54:25:730] MPVProcess::parseLine: "INFO_VIDEO_CODEC=png (PNG (Portable Network Graphics) image)"
-[09:54:25:730] MPVProcess::parseLine: md.video_codec: "png"
-[09:54:25:730] MPVProcess::parseLine: "INFO_DEMUX_ROTATION="
-[09:54:25:730] Core::gotDemuxRotation: 0
-[09:54:25:730] MPVProcess::parseLine: "INFO_AUDIO_FORMAT="
-[09:54:25:730] MPVProcess::parseLine: "INFO_AUDIO_CODEC="
-[09:54:25:730] MPVProcess::parseLine: "INFO_AUDIO_RATE="
-[09:54:25:730] MPVProcess::parseLine: "INFO_AUDIO_NCH="
-[09:54:25:730] MPVProcess::parseLine: "INFO_LENGTH=0.000000"
-[09:54:25:730] MPVProcess::parseLine: md.duration set to 0
-[09:54:25:730] MPVProcess::parseLine: "INFO_DEMUXER=lavf"
-[09:54:25:730] MPVProcess::parseLine: "INFO_SEEKABLE=yes"
-[09:54:25:730] MPVProcess::parseLine: "INFO_TITLES="
-[09:54:25:730] MPVProcess::parseLine: "INFO_CHAPTERS=0"
-[09:54:25:730] MPVProcess::parseLine: "INFO_TRACKS_COUNT=1"
-[09:54:25:730] MPVProcess::sendCommand: "print_text \"INFO_TRACK_0: ${track-list/0/type} ${track-list/0/id} '${track-list/0/lang:}' '${track-list/0/title:}' ${track-list/0/selected}\""
-[09:54:25:730] MPVProcess::sendCommand: state: QLocalSocket::UnconnectedState
-[09:54:25:730] MPVProcess::sendCommand: error: "QLocalSocket: Remote closed"
-[09:54:25:730] MPVProcess::sendCommand: state: QLocalSocket::ConnectedState
-[09:54:25:730] MPVProcess::parseLine: "METADATA_TITLE="
-[09:54:25:730] MPVProcess::parseLine: "METADATA_ARTIST="
-[09:54:25:730] MPVProcess::parseLine: "METADATA_ALBUM="
-[09:54:25:730] MPVProcess::parseLine: "METADATA_GENRE="
-[09:54:25:730] MPVProcess::parseLine: "METADATA_DATE="
-[09:54:25:730] MPVProcess::parseLine: "METADATA_TRACK="
-[09:54:25:731] MPVProcess::parseLine: "METADATA_COPYRIGHT="
-[09:54:25:731] MPVProcess::parseLine: "INFO_MEDIA_TITLE=Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:54:25:731] MPVProcess::parseLine: "INFO_STREAM_PATH=/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4"
-[09:54:25:752] MPVProcess::parseLine: "INFO_TRACK_0: (error) (error) '' '' (error)"
-[09:54:25:752] MPVProcess::parseLine: "Exiting... (Errors when loading file)"
-[09:54:25:763] MyProcess::procFinished
-[09:54:25:763] MyProcess::procFinished: Bytes available:  0
-[09:54:25:763] MPVProcess::processFinished: exitCode: 2, status: 0
-[09:54:25:763] ScreenHelper::playingStopped
-[09:54:25:763] ScreenHelper::setAutoHideCursor: 0
-[09:54:25:763] VideoLayer::playingStopped
-[09:54:25:763] Core::enableScreensaver
-[09:54:25:763] PowerSaving::uninhibit
-[09:54:25:763] PowerSaving::uninhibit: cookie: 11915
-[09:54:25:764] PowerSaving::uninhibit: valid reply
-[09:54:25:764] Core::processFinished
-[09:54:25:764] Core::processFinished: we_are_restarting: 0
-[09:54:25:764] Core::processFinished: play has finished!
-[09:54:25:764] Core::processFinished: exit_code: 2
-[09:54:25:764] BaseGui::displayState: "Stopped"
-[09:54:25:764] BaseGui::togglePlayAction
-[09:54:25:764] BaseGui::showExitCodeFromMplayer: 2
-[09:54:25:767] BaseGui::checkStayOnTop
-[09:54:25:835] WARNING: libpng warning: known incorrect sRGB profile
-[09:54:25:835] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:54:25:835] WARNING: libpng warning: known incorrect sRGB profile
-[09:54:25:835] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:54:25:837] WARNING: libpng warning: known incorrect sRGB profile
-[09:54:25:837] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:54:25:843] WARNING: libpng warning: known incorrect sRGB profile
-[09:54:25:843] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:54:25:843] WARNING: libpng warning: known incorrect sRGB profile
-[09:54:25:843] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:54:25:844] WARNING: libpng warning: known incorrect sRGB profile
-[09:54:25:844] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[09:54:34:184] Playlist::playerFinishedWithError: 2
-[09:54:43:883] Playlist::maybeSaveSettings
-[09:59:43:883] Playlist::maybeSaveSettings
-[10:00:20:410] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:20:410] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:20:410] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:20:410] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:20:411] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:20:411] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:20:417] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:20:417] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:20:417] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:20:417] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:20:418] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:20:418] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:20:423] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:20:423] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:20:423] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:20:423] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:20:424] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:20:425] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:23:575] BaseGui::dragEnterEvent
-[10:00:23:794] BaseGui::dropEvent
-[10:00:23:795] BaseGui::dropEvent: scheme: "file"
-[10:00:23:796] BaseGui::dropEvent: file: "/mnt/Data2/2022-09-24 canan succubus.mp4"
-[10:00:23:796] BaseGui::dropEvent: list of dirs: ()
-[10:00:23:796] BaseGui::dropEvent: list of files: ("/mnt/Data2/2022-09-24 canan succubus.mp4")
-[10:00:23:796] BaseGui::dropEvent: subtitle file: ""
-[10:00:23:796] BaseGui::openFile: "/mnt/Data2/2022-09-24 canan succubus.mp4"
-[10:00:23:796] Core::openFile: '/mnt/Data2/2022-09-24 canan succubus.mp4'
-[10:00:23:796] Core::playNewFile: '/mnt/Data2/2022-09-24 canan succubus.mp4'
-[10:00:23:796] Core::saveMediaInfo
-[10:00:23:796] FileSettingsHash::saveSettingsFor: "/run/media/rezikham/Seagate 1/Crime.Crackdown.2021.E01-19.1080p.WEB-DL.H264.AAC-52ptWEB/Crime.Crackdown.2021.E01.1080p.WEB-DL.H264.AAC-52ptWEB.mp4" type: 0
-[10:00:23:797] FileSettingsHash::saveSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/4/479620e8ce60cf80.ini"
-[10:00:23:797] FileSettingsHash::saveSettingsFor: output_dir: "4"
-[10:00:23:797] MediaSettings::save
-[10:00:23:799] MediaSettings::reset
-[10:00:23:799] FileSettingsHash::existSettingsFor: "/mnt/Data2/2022-09-24 canan succubus.mp4"
-[10:00:23:807] FileSettingsHash::existSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/d/d0c603dd1f1b1294.ini"
-[10:00:23:807] Core::playNewFile: volume: 40, old_volume: 40
-[10:00:23:807] Core::initPlaying
-[10:00:23:807] MplayerWindow::setLogoVisible: false
-[10:00:23:807] Core::startMplayer: file: "/mnt/Data2/2022-09-24 canan succubus.mp4" seek: 0
-[10:00:23:807] RetrieveYoutubeUrl::close
-[10:00:23:807] Core::startMplayer: checking if stream is a playlist
-[10:00:23:807] Core::startMplayer: url path: '/mnt/Data2/2022-09-24 canan succubus.mp4'
-[10:00:23:807] Core::startMplayer: url_is_playlist: 0
-[10:00:23:807] Core::startMplayer: hardware decoding is enabled. The video filters will be ignored
-[10:00:23:807] Core::startMplayer: edl file: ''
-[10:00:23:807] Core::startMplayer: extra_params: ()
-[10:00:23:807] MyProcess::splitArguments: '--vo=gpu'
-[10:00:23:807] MyProcess::splitArguments: arg: 0 '--vo=gpu'
-[10:00:23:807] arg 0: --vo=gpu
-[10:00:23:807] MPVProcess::addUserOption: "--vo=gpu"
-[10:00:23:807] MPVProcess::addUserOption: s: "--vo=gpu"
-[10:00:23:807] ScreenHelper::playingStarted
-[10:00:23:807] ScreenHelper::setAutoHideCursor: 1
-[10:00:23:807] VideoLayer::playingStarted
-[10:00:23:807] Core::disableScreensaver
-[10:00:23:807] PowerSaving::inhibit
-[10:00:23:808] PowerSaving::inhibit: valid reply
-[10:00:23:808] PowerSaving::inhibit: cookie: 11916
-[10:00:23:808] Core::startMplayer: command: '/usr/bin/mpv --no-quiet --terminal --no-msg-color --input-ipc-server=/tmp/smplayer-mpv-1ecb5 --msg-level=ffmpeg/demuxer=error --video-rotate=no --no-config --no-fs --hwdec=vaapi --sub-auto=fuzzy --vo=vaapi, --ao=pulse, --no-input-default-bindings --input-vo-keyboard=no --no-input-cursor --cursor-autohide=no --no-keepaspect --wid=73400341 --monitorpixelaspect=1 --osd-level=1 --osd-scale=1 --osd-bar-align-y=0.6 --sub-ass --embeddedfonts --sub-ass-line-spacing=0 --sub-scale=1 --sub-font=Arial --sub-color=#ffffffff --sub-shadow-color=#ff000000 --sub-border-color=#ff000000 --sub-border-size=0.75 --sub-shadow-offset=2.5 --sub-font-size=50 --sub-bold=no --sub-italic=no --sub-margin-y=8 --sub-margin-x=20 --sub-codepage=ISO-8859-1 --sub-pos=100 --volume=55 --cache=auto --screenshot-template=cap_%F_%p_%02n --screenshot-format=jpg --screenshot-directory=/home/rezikham/Pictures/smplayer_screenshots --audio-pitch-correction=yes --volume-max=110 --vo=gpu --term-playing-msg=MPV_VERSION=${=mpv-version:}
-INFO_VIDEO_WIDTH=${=width}
-INFO_VIDEO_HEIGHT=${=height}
-INFO_VIDEO_ASPECT=${=video-params/aspect}
-INFO_VIDEO_FPS=${=container-fps:${=fps}}
-INFO_VIDEO_FORMAT=${=video-format}
-INFO_VIDEO_CODEC=${=video-codec}
-INFO_DEMUX_ROTATION=${=track-list/0/demux-rotation}
-INFO_AUDIO_FORMAT=${=audio-codec-name}
-INFO_AUDIO_CODEC=${=audio-codec}
-INFO_AUDIO_RATE=${=audio-params/samplerate}
-INFO_AUDIO_NCH=${=audio-params/channel-count}
-INFO_LENGTH=${=duration:${=length}}
-INFO_DEMUXER=${=current-demuxer:${=demuxer}}
-INFO_SEEKABLE=${=seekable}
-INFO_TITLES=${=disc-titles}
-INFO_CHAPTERS=${=chapters}
-INFO_TRACKS_COUNT=${=track-list/count}
-METADATA_TITLE=${metadata/by-key/title:}
-METADATA_ARTIST=${metadata/by-key/artist:}
-METADATA_ALBUM=${metadata/by-key/album:}
-METADATA_GENRE=${metadata/by-key/genre:}
-METADATA_DATE=${metadata/by-key/date:}
-METADATA_TRACK=${metadata/by-key/track:}
-METADATA_COPYRIGHT=${metadata/by-key/copyright:}
-INFO_MEDIA_TITLE=${=media-title:}
-INFO_STREAM_PATH=${stream-path}
- --audio-client-name=SMPlayer --term-status-msg=STATUS: ${=time-pos} / ${=duration:${=length:0}} P: ${=pause} B: ${=paused-for-cache} I: ${=core-idle} VB: ${=video-bitrate:0} AB: ${=audio-bitrate:0} /mnt/Data2/2022-09-24 canan succubus.mp4'
-[10:00:23:808] MyProcess::start: environment path: "/home/rezikham/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/cuda/bin:/opt/cuda/nsight_compute:/opt/cuda/nsight_systems/bin:/home/rezikham/.dotnet/tools:/var/lib/flatpak/exports/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
-[10:00:23:808] MyProcess::start: current directory: "/usr/bin"
-[10:00:23:810] Playlist::setModified: 0
-[10:00:23:810] Playlist::updateWindowTitle: "Untitled playlist"
-[10:00:23:810] Playlist::addFiles
-[10:00:23:810] Playlist::addFiles: latest_dir: "/mnt/Data2"
-[10:00:24:847] MPVProcess::parseLine: " (+) Video --vid=1 (*) (h264 1280x720 30.000fps)"
-[10:00:24:847] MPVProcess::parseLine: " (+) Audio --aid=1 (*) (aac 2ch 48000Hz)"
-[10:00:24:847] MPVProcess::parseLine: audio id: 1 lang: "" name: ""
-[10:00:24:847] MPVProcess::updateAudioTrack: ID: 1
-[10:00:25:095] MPVProcess::parseLine: "Using hardware decoding (vaapi)."
-[10:00:25:121] MPVProcess::parseLine: "AO: [pulse] 48000Hz stereo 2ch float"
-[10:00:25:121] Core::gotAO: "pulse"
-[10:00:25:122] MPVProcess::parseLine: "VO: [gpu] 1280x720 vaapi[nv12]"
-[10:00:25:122] VideoLayer::gotVO: "gpu] 1280x720 vaapi[nv12"
-[10:00:25:122] Core::gotVO: "gpu] 1280x720 vaapi[nv12"
-[10:00:25:122] MPVProcess::sendCommand: "print_text INFO_VIDEO_DSIZE=${=dwidth}x${=dheight}"
-[10:00:25:122] MPVProcess::sendCommand: state: QLocalSocket::UnconnectedState
-[10:00:25:122] MPVProcess::sendCommand: error: "QLocalSocket: Remote closed"
-[10:00:25:122] MPVProcess::sendCommand: state: QLocalSocket::ConnectedState
-[10:00:25:122] MPVProcess::parseLine: "[vo/gpu/opengl] before video texture creation: OpenGL error INVALID_OPERATION."
-[10:00:25:133] MPVProcess::parseLine: "[vo/gpu/opengl] after rendering: OpenGL error INVALID_OPERATION."
-[10:00:25:133] MPVProcess::parseLine: "INFO_VIDEO_DSIZE=1280x720"
-[10:00:25:133] Core::gotWindowResolution: 1280, 720
-[10:00:25:133] BaseGui::resizeWindow: 1280, 720
-[10:00:25:133] BaseGui::resizeWindow: size to scale: 1280, 720
-[10:00:25:133] BaseGui::resizeWindow: new_width: 1280 new_height: 798
-[10:00:25:144] BaseGui::resizeWindow: done: window size: 1280, 798
-[10:00:25:144] BaseGui::resizeWindow: done: panel->size: 1280, 720
-[10:00:25:144] BaseGui::resizeWindow: done: mplayerwindow->size: 1280, 720
-[10:00:25:144] BaseGui::resizeWindow: right bottom point: 1442, 984
-[10:00:25:144] BaseGui::centerWindow
-[10:00:25:144] BaseGui::centerWindow: desktop rect: QRect(0,0 1920x1080)
-[10:00:25:149] MPVProcess::parseLine: "MPV_VERSION=mpv 0.34.1-dirty"
-[10:00:25:149] MPVProcess::parseLine: mpv version: "0.34.1-dirty"
-[10:00:25:149] MplayerVersion::mplayerVersion: mpv version found: "0.34.1-dirty"
-[10:00:25:149] MplayerVersion::mplayerVersion: mplayer_svn: 33472
-[10:00:25:149] MPVProcess::parseLine: "INFO_VIDEO_WIDTH=1280"
-[10:00:25:149] MPVProcess::parseLine: md.video_width set to 1280
-[10:00:25:149] MPVProcess::parseLine: "INFO_VIDEO_HEIGHT=720"
-[10:00:25:149] MPVProcess::parseLine: md.video_height set to 720
-[10:00:25:149] MPVProcess::parseLine: "INFO_VIDEO_ASPECT=1.777778"
-[10:00:25:149] MPVProcess::parseLine: md.video_aspect set to 1.77778
-[10:00:25:149] MPVProcess::parseLine: "INFO_VIDEO_FPS=29.999884"
-[10:00:25:149] MPVProcess::parseLine: "INFO_VIDEO_FORMAT=h264"
-[10:00:25:149] MPVProcess::parseLine: "INFO_VIDEO_CODEC=h264 (H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10)"
-[10:00:25:149] MPVProcess::parseLine: md.video_codec: "h264"
-[10:00:25:149] MPVProcess::parseLine: "INFO_DEMUX_ROTATION="
-[10:00:25:149] Core::gotDemuxRotation: 0
-[10:00:25:149] MPVProcess::parseLine: "INFO_AUDIO_FORMAT=aac"
-[10:00:25:149] MPVProcess::parseLine: "INFO_AUDIO_CODEC=aac (AAC (Advanced Audio Coding))"
-[10:00:25:149] MPVProcess::parseLine: md.audio_codec: "aac"
-[10:00:25:149] MPVProcess::parseLine: "INFO_AUDIO_RATE=48000"
-[10:00:25:149] MPVProcess::parseLine: "INFO_AUDIO_NCH=2"
-[10:00:25:149] MPVProcess::parseLine: "INFO_LENGTH=8271.031000"
-[10:00:25:149] MPVProcess::parseLine: md.duration set to 8271.03
-[10:00:25:149] MPVProcess::parseLine: "INFO_DEMUXER=lavf"
-[10:00:25:149] MPVProcess::parseLine: "INFO_SEEKABLE=yes"
-[10:00:25:149] MPVProcess::parseLine: "INFO_TITLES="
-[10:00:25:149] MPVProcess::parseLine: "INFO_CHAPTERS=0"
-[10:00:25:149] MPVProcess::parseLine: "INFO_TRACKS_COUNT=2"
-[10:00:25:149] MPVProcess::sendCommand: "print_text \"INFO_TRACK_0: ${track-list/0/type} ${track-list/0/id} '${track-list/0/lang:}' '${track-list/0/title:}' ${track-list/0/selected}\""
-[10:00:25:149] MPVProcess::sendCommand: "print_text \"INFO_TRACK_1: ${track-list/1/type} ${track-list/1/id} '${track-list/1/lang:}' '${track-list/1/title:}' ${track-list/1/selected}\""
-[10:00:25:149] MPVProcess::parseLine: "METADATA_TITLE="
-[10:00:25:149] MPVProcess::parseLine: "METADATA_ARTIST="
-[10:00:25:150] MPVProcess::parseLine: "METADATA_ALBUM="
-[10:00:25:150] MPVProcess::parseLine: "METADATA_GENRE="
-[10:00:25:150] MPVProcess::parseLine: "METADATA_DATE="
-[10:00:25:150] MPVProcess::parseLine: "METADATA_TRACK="
-[10:00:25:150] MPVProcess::parseLine: "METADATA_COPYRIGHT="
-[10:00:25:150] MPVProcess::parseLine: "INFO_MEDIA_TITLE=2022-09-24 canan succubus.mp4"
-[10:00:25:150] MPVProcess::parseLine: "INFO_STREAM_PATH=/mnt/Data2/2022-09-24 canan succubus.mp4"
-[10:00:25:150] MPVProcess::parseLine: starting sec: 0
-[10:00:25:150] Core::gotStartingTime: 0.000000
-[10:00:25:150] Core::gotStartingTime: current_sec: 0.000000
-[10:00:25:150] BaseGui::displayState: "Playing"
-[10:00:25:150] BaseGui::togglePlayAction
-[10:00:25:150] Core::changeCurrentSec: mplayer reports that now it's playing
-[10:00:25:150] MPVProcess::parseLine: "[vo/gpu/opengl] after rendering: OpenGL error INVALID_OPERATION."
-[10:00:25:152] Core::finishRestart: --- start ---
-[10:00:25:152] Core::newMediaPlaying: --- start ---
-[10:00:25:152] Core::initializeMenus
-[10:00:25:153] BaseGui::initializeMenus
-[10:00:25:153] BaseGui::updateBookmarks
-[10:00:25:153] MediaData::list
-[10:00:25:153]   filename: '/mnt/Data2/2022-09-24 canan succubus.mp4'
-[10:00:25:153]   duration: 8271.031000
-[10:00:25:153]   video_width: 1280
-[10:00:25:153]   video_height: 720
-[10:00:25:153]   video_aspect: 1.777778
-[10:00:25:153]   type: 0
-[10:00:25:153]   novideo: 0
-[10:00:25:153]   dvd_id: ''
-[10:00:25:153]   initialized: 1
-[10:00:25:153]   chapters: 0
-[10:00:25:153]   Titles:
-[10:00:25:153]   demuxer: 'lavf'
-[10:00:25:153]   video_format: 'h264'
-[10:00:25:153]   audio_format: 'aac'
-[10:00:25:153]   video_bitrate: 0
-[10:00:25:153]   video_fps: '29.999884'
-[10:00:25:153]   audio_bitrate: 0
-[10:00:25:153]   audio_rate: 48000
-[10:00:25:153]   audio_nch: 2
-[10:00:25:153]   video_codec: 'h264'
-[10:00:25:153]   audio_codec: 'aac'
-[10:00:25:153] MediaSettings::list
-[10:00:25:153]   current_sec: 0.000000
-[10:00:25:153]   current_subtitle_track: -1000
-[10:00:25:153]   current_secondary_subtitle_track: -1000
-[10:00:25:153]   current_video_id: -1000
-[10:00:25:153]   current_audio_id: -1000
-[10:00:25:153]   current_title_id: -1000
-[10:00:25:153]   current_angle_id: -1000
-[10:00:25:153]   aspect_ratio_id: 1
-[10:00:25:153]   volume: 40
-[10:00:25:153]   mute: 0
-[10:00:25:153]   external_subtitles: ''
-[10:00:25:153]   external_subtitles_fps: '0'
-[10:00:25:153]   external_audio: ''
-[10:00:25:153]   sub_delay: 0
-[10:00:25:153]   audio_delay: 0
-[10:00:25:153]   sub_pos: 100
-[10:00:25:153]   sub_scale: 5.000000
-[10:00:25:153]   sub_scale_ass: 1.000000
-[10:00:25:153]   closed_caption_channel: 0
-[10:00:25:153]   brightness: 0
-[10:00:25:153]   contrast: 0
-[10:00:25:153]   gamma: 0
-[10:00:25:153]   hue: 0
-[10:00:25:153]   saturation: 0
-[10:00:25:153]   speed: 1.000000
-[10:00:25:153]   phase_filter: 0
-[10:00:25:153]   deblock_filter: 0
-[10:00:25:153]   dering_filter: 0
-[10:00:25:153]   gradfun_filter: 0
-[10:00:25:153]   noise_filter: 0
-[10:00:25:153]   postprocessing_filter: 0
-[10:00:25:153]   upscaling_filter: 0
-[10:00:25:154]   current_denoiser: 0
-[10:00:25:154]   current_unsharp: 0
-[10:00:25:154]   stereo3d_in: none
-[10:00:25:154]   stereo3d_out: 
-[10:00:25:154]   current_deinterlacer: 0
-[10:00:25:154]   add_letterbox: 0
-[10:00:25:154]   karaoke_filter: 0
-[10:00:25:154]   extrastereo_filter: 0
-[10:00:25:154]   volnorm_filter: 0
-[10:00:25:154]   earwax_filter: 0
-[10:00:25:154]   audio_use_channels: 0
-[10:00:25:154]   stereo_mode: 0
-[10:00:25:154]   zoom_factor: 1.000000
-[10:00:25:154]   rotate: -1
-[10:00:25:154]   flip: 0
-[10:00:25:154]   mirror: 0
-[10:00:25:154]   loop: 0
-[10:00:25:154]   A_marker: -1
-[10:00:25:154]   B_marker: -1
-[10:00:25:154]   current_demuxer: 'lavf'
-[10:00:25:154]   forced_demuxer: ''
-[10:00:25:154]   forced_video_codec: ''
-[10:00:25:154]   forced_audio_codec: ''
-[10:00:25:154]   original_demuxer: ''
-[10:00:25:154]   original_video_codec: ''
-[10:00:25:154]   original_audio_codec: ''
-[10:00:25:154]   mplayer_additional_options: ''
-[10:00:25:154]   mplayer_additional_video_filters: ''
-[10:00:25:154]   mplayer_additional_audio_filters: ''
-[10:00:25:154]   win_width: 1280
-[10:00:25:154]   win_height: 720
-[10:00:25:154]   win_aspect(): 1.777778
-[10:00:25:154]   is264andHD: 0
-[10:00:25:154]   Videos:
-[10:00:25:154]   Audios:
-[10:00:25:154]   Subtitles:
-[10:00:25:154] Core::newMediaPlaying: --- end ---
-[10:00:25:154] Core::changeAspectRatio: 1
-[10:00:25:154] Core::displayMessage
-[10:00:25:154] AudioEqualizer::setValues
-[10:00:25:154] Core::changeZoom: 1.000000
-[10:00:25:154] Core::displayMessage
-[10:00:25:154] Core::changeSubVisilibity: 1
-[10:00:25:154] MPVProcess::sendCommand: "no-osd set sub-visibility yes"
-[10:00:25:154] Core::displayMessage
-[10:00:25:154] BaseGui::enableActionsOnPlaying
-[10:00:25:155] BaseGui::autosaveMplayerLog
-[10:00:25:155] Core::sendMediaInfo
-[10:00:25:155] Favorites::getCurrentMedia: '/mnt/Data2/2022-09-24 canan succubus.mp4', '2022-09-24 canan succubus.mp4'
-[10:00:25:155] Favorites::getCurrentMedia: '/mnt/Data2/2022-09-24 canan succubus.mp4', '2022-09-24 canan succubus.mp4'
-[10:00:25:155] Favorites::getCurrentMedia: '/mnt/Data2/2022-09-24 canan succubus.mp4', '2022-09-24 canan succubus.mp4'
-[10:00:25:155] BaseGuiPlus::updateMediaInfo
-[10:00:25:155] BaseGui::updateMediaInfo
-[10:00:25:155] TimeSliderAction::setDuration: 8271.03
-[10:00:25:155] Playlist::getMediaInfo
-[10:00:25:155] Core::updateWidgets
-[10:00:25:155] BaseGuiPlus::updateWidgets
-[10:00:25:155] BaseGui::updateWidgets
-[10:00:25:155] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[10:00:25:156] Core::finishRestart: --- end ---
-[10:00:25:156] BaseGui::checkStayOnTop
-[10:00:25:156] MPVProcess::parseLine: "INFO_TRACK_0: video 1 '' '' yes"
-[10:00:25:156] MPVProcess::parseLine: ID: 1 type: "video" name: "" lang: "" selected: "yes"
-[10:00:25:156] MPVProcess::updateVideoTrack: ID: 1
-[10:00:25:156] MPVProcess::parseLine: "INFO_TRACK_1: audio 1 '' '' yes"
-[10:00:25:156] MPVProcess::parseLine: ID: 1 type: "audio" name: "" lang: "" selected: "yes"
-[10:00:25:156] MPVProcess::updateAudioTrack: ID: 1
-[10:00:25:157] BaseGui::enterFullscreenOnPlay: arg_start_in_fullscreen: -1, pref->start_in_fullscreen: 0
-[10:00:25:157] BaseGui::newMediaLoaded
-[10:00:25:157] BaseGui::newMediaLoaded: mdat.stream_title: 
-[10:00:25:157] Recents::addItem: '/mnt/Data2/2022-09-24 canan succubus.mp4'
-[10:00:25:157] BaseGui::updateRecents
-[10:00:25:157] BaseGui::checkPendingActionsToRun
-[10:00:25:157] BaseGui::checkMplayerVersion
-[10:00:25:157] MplayerVersion::isMplayerAtLeast: comparing 25158 with 33472
-[10:00:25:157] Core::checkIfVideoIsHD
-[10:00:25:168] MPVProcess::parseLine: video_info_changed
-[10:00:25:168] Core::initVideoTrack: selected_id: 1
-[10:00:25:168] Core::initializeMenus
-[10:00:25:168] BaseGui::initializeMenus
-[10:00:25:168] BaseGui::updateBookmarks
-[10:00:25:168] Core::updateWidgets
-[10:00:25:168] BaseGuiPlus::updateWidgets
-[10:00:25:168] BaseGui::updateWidgets
-[10:00:25:168] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[10:00:25:168] MPVProcess::parseLine: "[vo/gpu/opengl] after rendering: OpenGL error INVALID_OPERATION."
-[10:00:25:201] MPVProcess::parseLine: "[vo/gpu/opengl] after rendering: OpenGL error INVALID_OPERATION."
-[10:00:25:620] MPVProcess::parseLine: audio_info_changed
-[10:00:25:620] Core::initAudioTrack: num_items: 1 selected_id: 1
-[10:00:25:620] Core::initAudioTrack: list of audios:
-[10:00:25:620] Tracks::list: item 1: ID: 1 lang: '' name: ''
-[10:00:25:620] Core::initializeMenus
-[10:00:25:620] BaseGui::initializeMenus
-[10:00:25:620] BaseGui::updateBookmarks
-[10:00:25:621] Core::updateWidgets
-[10:00:25:621] BaseGuiPlus::updateWidgets
-[10:00:25:621] BaseGui::updateWidgets
-[10:00:25:621] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
-[10:00:25:621] Core::initAudioTrack: preferred audio track: 0 previous_selected_id: -1000
-[10:00:25:621] BaseGui::enableActionsOnPlaying
-[10:00:25:622] Core::initAudioTrack: current_audio_id: 1
-[10:00:30:212] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:30:212] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:30:213] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:30:213] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:30:214] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:30:214] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:30:221] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:30:221] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:30:221] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:30:221] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:30:222] WARNING: libpng warning: known incorrect sRGB profile
-[10:00:30:222] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
-[10:00:32:589] BaseGuiPlus::closeEvent
-[10:00:32:590] BaseGuiPlus::closeWindow
-[10:00:32:590] BaseGui::closeWindow
-[10:00:32:590] Core::stop: state: "Playing"
-[10:00:32:590] Core::stopMplayer
-[10:00:32:590] MPVProcess::sendCommand: "quit 0"
-[10:00:32:590] Core::stopMplayer: Waiting mplayer to finish...
-[10:00:32:596] MPVProcess::parseLine: "Exiting... (Quit)"
-[10:00:32:659] MyProcess::procFinished
-[10:00:32:659] MyProcess::procFinished: Bytes available:  0
-[10:00:32:659] MPVProcess::processFinished: exitCode: 0, status: 0
-[10:00:32:659] ScreenHelper::playingStopped
-[10:00:32:659] ScreenHelper::setAutoHideCursor: 0
-[10:00:32:659] VideoLayer::playingStopped
-[10:00:32:659] Core::enableScreensaver
-[10:00:32:659] PowerSaving::uninhibit
-[10:00:32:659] PowerSaving::uninhibit: cookie: 11916
-[10:00:32:659] PowerSaving::uninhibit: valid reply
-[10:00:32:659] Core::stopMplayer: Finished.
-[10:00:32:659] MplayerWindow::setLogoVisible: true
-[10:00:32:660] BaseGui::disableActionsOnStop
-[10:00:32:662] MpcGui::saveConfig: w: 1280 h: 798
-[10:00:32:662] Helper::qtVersion: 6506
-[10:00:32:662] BaseGuiPlus::saveConfig
-[10:00:32:662] Chromecast::saveSettings
-[10:00:32:662] Core::saveMediaInfo
-[10:00:32:662] FileSettingsHash::saveSettingsFor: "/mnt/Data2/2022-09-24 canan succubus.mp4" type: 0
-[10:00:32:662] FileSettingsHash::saveSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/d/d0c603dd1f1b1294.ini"
-[10:00:32:662] FileSettingsHash::saveSettingsFor: output_dir: "d"
-[10:00:32:662] MediaSettings::save
-[10:00:32:664] Favorites::save
-[10:00:32:664] Favorites::save
-[10:00:32:664] Favorites::save
-[10:00:32:664] Playlist::saveSettings
-[10:00:32:664] Helper::qtVersion: 6506
-[10:00:32:676] global_end
-[10:00:32:677] Preferences::save
-[10:00:32:677] AssStyles::save
+ --audio-client-name=SMPlayer --term-status-msg=STATUS: ${=time-pos} / ${=duration:${=length:0}} P: ${=pause} B: ${=paused-for-cache} I: ${=core-idle} VB: ${=video-bitrate:0} AB: ${=audio-bitrate:0} /home/rezikham/Videos/immortal-flame-5star.mp4'
+[23:43:32:647] MyProcess::start: environment path: "/home/rezikham/bin:/home/rezikham/anaconda3/condabin:/home/rezikham/.local/bin/:/home/rezikham/.config/fish/color:/home/rezikham/.config/bin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
+[23:43:32:647] MyProcess::start: current directory: "/usr/bin"
+[23:43:32:686] BaseGui::loadActions
+[23:43:32:687] ActionsEditor::loadFromConfig
+[23:43:32:698] WARNING: libpng warning: known incorrect sRGB profile
+[23:43:32:699] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[23:43:32:699] WARNING: libpng warning: known incorrect sRGB profile
+[23:43:32:699] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[23:43:32:701] BaseGui::initializeMenus
+[23:43:32:701] BaseGui::updateBookmarks
+[23:43:32:701] BaseGui::updateRecents
+[23:43:32:702] BaseGuiPlus::updateWidgets
+[23:43:32:702] BaseGui::updateWidgets
+[23:43:32:702] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[23:43:32:723] MPVProcess::parseLine: " (+) Video --vid=1 (*) (h264 1280x720 30.000fps)"
+[23:43:32:723] MPVProcess::parseLine: " (+) Audio --aid=1 (*) (aac 2ch 48000Hz)"
+[23:43:32:723] MPVProcess::parseLine: audio id: 1 lang: "" name: ""
+[23:43:32:723] MPVProcess::updateAudioTrack: ID: 1
+[23:43:32:759] MPVProcess::parseLine: "[vo/gpu/wayland] GNOME's wayland compositor lacks support for the idle inhibit protocol. This means the screen can blank during playback."
+[23:43:32:766] BaseGuiPlus::updateShortcutsContext
+[23:43:32:766] WARNING: libpng warning: known incorrect sRGB profile
+[23:43:32:767] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[23:43:32:767] WARNING: libpng warning: known incorrect sRGB profile
+[23:43:32:767] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[23:43:33:485] BaseGui::checkReminder
+[23:43:34:260] MPVProcess::parseLine: "Using hardware decoding (vaapi)."
+[23:43:34:273] MPVProcess::parseLine: "AO: [pulse] 48000Hz stereo 2ch float"
+[23:43:34:273] Core::gotAO: "pulse"
+[23:43:34:274] MPVProcess::parseLine: "VO: [gpu] 1280x720 vaapi[nv12]"
+[23:43:34:274] VideoLayer::gotVO: "gpu] 1280x720 vaapi[nv12"
+[23:43:34:274] Core::gotVO: "gpu] 1280x720 vaapi[nv12"
+[23:43:34:274] MPVProcess::sendCommand: "print_text INFO_VIDEO_DSIZE=${=dwidth}x${=dheight}"
+[23:43:34:274] MPVProcess::sendCommand: state: QLocalSocket::UnconnectedState
+[23:43:34:274] MPVProcess::sendCommand: error: "Unknown error"
+[23:43:34:274] MPVProcess::sendCommand: state: QLocalSocket::ConnectedState
+[23:43:34:293] MPVProcess::parseLine: "INFO_VIDEO_DSIZE=1280x720"
+[23:43:34:293] Core::gotWindowResolution: 1280, 720
+[23:43:34:293] BaseGui::resizeWindow: 1280, 720
+[23:43:34:293] BaseGui::centerWindow
+[23:43:34:293] BaseGui::centerWindow: desktop rect: QRect(0,0 1920x1080)
+[23:43:34:301] MPVProcess::parseLine: "MPV_VERSION=mpv 0.34.1-dirty"
+[23:43:34:301] MPVProcess::parseLine: mpv version: "0.34.1-dirty"
+[23:43:34:301] MplayerVersion::mplayerVersion: mpv version found: "0.34.1-dirty"
+[23:43:34:301] MplayerVersion::mplayerVersion: mplayer_svn: 33472
+[23:43:34:301] MPVProcess::parseLine: "INFO_VIDEO_WIDTH=1280"
+[23:43:34:301] MPVProcess::parseLine: md.video_width set to 1280
+[23:43:34:301] MPVProcess::parseLine: "INFO_VIDEO_HEIGHT=720"
+[23:43:34:301] MPVProcess::parseLine: md.video_height set to 720
+[23:43:34:301] MPVProcess::parseLine: "INFO_VIDEO_ASPECT=1.777778"
+[23:43:34:301] MPVProcess::parseLine: md.video_aspect set to 1.77778
+[23:43:34:301] MPVProcess::parseLine: "INFO_VIDEO_FPS=30.000000"
+[23:43:34:301] MPVProcess::parseLine: "INFO_VIDEO_FORMAT=h264"
+[23:43:34:301] MPVProcess::parseLine: "INFO_VIDEO_CODEC=h264 (H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10)"
+[23:43:34:301] MPVProcess::parseLine: md.video_codec: "h264"
+[23:43:34:301] MPVProcess::parseLine: "INFO_DEMUX_ROTATION="
+[23:43:34:301] Core::gotDemuxRotation: 0
+[23:43:34:301] MPVProcess::parseLine: "INFO_AUDIO_FORMAT=aac"
+[23:43:34:301] MPVProcess::parseLine: "INFO_AUDIO_CODEC=aac (AAC (Advanced Audio Coding))"
+[23:43:34:302] MPVProcess::parseLine: md.audio_codec: "aac"
+[23:43:34:302] MPVProcess::parseLine: "INFO_AUDIO_RATE=48000"
+[23:43:34:302] MPVProcess::parseLine: "INFO_AUDIO_NCH=2"
+[23:43:34:302] MPVProcess::parseLine: "INFO_LENGTH=14.486000"
+[23:43:34:302] MPVProcess::parseLine: md.duration set to 14.486
+[23:43:34:302] MPVProcess::parseLine: "INFO_DEMUXER=lavf"
+[23:43:34:302] MPVProcess::parseLine: "INFO_SEEKABLE=yes"
+[23:43:34:302] MPVProcess::parseLine: "INFO_TITLES="
+[23:43:34:302] MPVProcess::parseLine: "INFO_CHAPTERS=0"
+[23:43:34:302] MPVProcess::parseLine: "INFO_TRACKS_COUNT=2"
+[23:43:34:302] MPVProcess::sendCommand: "print_text \"INFO_TRACK_0: ${track-list/0/type} ${track-list/0/id} '${track-list/0/lang:}' '${track-list/0/title:}' ${track-list/0/selected}\""
+[23:43:34:302] MPVProcess::sendCommand: "print_text \"INFO_TRACK_1: ${track-list/1/type} ${track-list/1/id} '${track-list/1/lang:}' '${track-list/1/title:}' ${track-list/1/selected}\""
+[23:43:34:302] MPVProcess::parseLine: "METADATA_TITLE="
+[23:43:34:302] MPVProcess::parseLine: "METADATA_ARTIST="
+[23:43:34:302] MPVProcess::parseLine: "METADATA_ALBUM="
+[23:43:34:302] MPVProcess::parseLine: "METADATA_GENRE="
+[23:43:34:302] MPVProcess::parseLine: "METADATA_DATE="
+[23:43:34:302] MPVProcess::parseLine: "METADATA_TRACK="
+[23:43:34:302] MPVProcess::parseLine: "METADATA_COPYRIGHT="
+[23:43:34:302] MPVProcess::parseLine: "INFO_MEDIA_TITLE=immortal-flame-5star.mp4"
+[23:43:34:302] MPVProcess::parseLine: "INFO_STREAM_PATH=/home/rezikham/Videos/immortal-flame-5star.mp4"
+[23:43:34:302] MPVProcess::parseLine: starting sec: 0
+[23:43:34:302] Core::gotStartingTime: 0.000000
+[23:43:34:302] Core::gotStartingTime: current_sec: 0.000000
+[23:43:34:302] BaseGui::displayState: "Playing"
+[23:43:34:302] BaseGui::togglePlayAction
+[23:43:34:302] Core::changeCurrentSec: mplayer reports that now it's playing
+[23:43:34:302] Core::finishRestart: --- start ---
+[23:43:34:302] Core::newMediaPlaying: --- start ---
+[23:43:34:302] Core::initializeMenus
+[23:43:34:302] BaseGui::initializeMenus
+[23:43:34:302] BaseGui::updateBookmarks
+[23:43:34:302] MediaData::list
+[23:43:34:302]   filename: '/home/rezikham/Videos/immortal-flame-5star.mp4'
+[23:43:34:303]   duration: 14.486000
+[23:43:34:303]   video_width: 1280
+[23:43:34:303]   video_height: 720
+[23:43:34:303]   video_aspect: 1.777778
+[23:43:34:303]   type: 0
+[23:43:34:303]   novideo: 0
+[23:43:34:303]   dvd_id: ''
+[23:43:34:303]   initialized: 1
+[23:43:34:303]   chapters: 0
+[23:43:34:303]   Titles:
+[23:43:34:303]   demuxer: 'lavf'
+[23:43:34:303]   video_format: 'h264'
+[23:43:34:303]   audio_format: 'aac'
+[23:43:34:303]   video_bitrate: 0
+[23:43:34:303]   video_fps: '30.000000'
+[23:43:34:303]   audio_bitrate: 0
+[23:43:34:303]   audio_rate: 48000
+[23:43:34:303]   audio_nch: 2
+[23:43:34:303]   video_codec: 'h264'
+[23:43:34:303]   audio_codec: 'aac'
+[23:43:34:303] MediaSettings::list
+[23:43:34:303]   current_sec: 0.000000
+[23:43:34:303]   current_subtitle_track: -1000
+[23:43:34:303]   current_secondary_subtitle_track: -1000
+[23:43:34:303]   current_video_id: -1000
+[23:43:34:303]   current_audio_id: -1000
+[23:43:34:303]   current_title_id: -1000
+[23:43:34:303]   current_angle_id: -1000
+[23:43:34:303]   aspect_ratio_id: 1
+[23:43:34:303]   volume: 40
+[23:43:34:303]   mute: 0
+[23:43:34:303]   external_subtitles: ''
+[23:43:34:303]   external_subtitles_fps: '0'
+[23:43:34:303]   external_audio: ''
+[23:43:34:303]   sub_delay: 0
+[23:43:34:303]   audio_delay: 0
+[23:43:34:303]   sub_pos: 100
+[23:43:34:303]   sub_scale: 5.000000
+[23:43:34:303]   sub_scale_ass: 1.000000
+[23:43:34:303]   closed_caption_channel: 0
+[23:43:34:303]   brightness: 0
+[23:43:34:303]   contrast: 0
+[23:43:34:303]   gamma: 0
+[23:43:34:303]   hue: 0
+[23:43:34:303]   saturation: 0
+[23:43:34:303]   speed: 1.000000
+[23:43:34:303]   phase_filter: 0
+[23:43:34:303]   deblock_filter: 0
+[23:43:34:303]   dering_filter: 0
+[23:43:34:303]   gradfun_filter: 0
+[23:43:34:303]   noise_filter: 0
+[23:43:34:303]   postprocessing_filter: 0
+[23:43:34:303]   upscaling_filter: 0
+[23:43:34:303]   current_denoiser: 0
+[23:43:34:303]   current_unsharp: 0
+[23:43:34:303]   stereo3d_in: none
+[23:43:34:303]   stereo3d_out: 
+[23:43:34:303]   current_deinterlacer: 0
+[23:43:34:303]   add_letterbox: 0
+[23:43:34:303]   karaoke_filter: 0
+[23:43:34:303]   extrastereo_filter: 0
+[23:43:34:303]   volnorm_filter: 0
+[23:43:34:303]   earwax_filter: 0
+[23:43:34:303]   audio_use_channels: 0
+[23:43:34:303]   stereo_mode: 0
+[23:43:34:303]   zoom_factor: 1.000000
+[23:43:34:303]   rotate: -1
+[23:43:34:303]   flip: 0
+[23:43:34:303]   mirror: 0
+[23:43:34:303]   loop: 0
+[23:43:34:303]   A_marker: -1
+[23:43:34:303]   B_marker: -1
+[23:43:34:303]   current_demuxer: 'lavf'
+[23:43:34:303]   forced_demuxer: ''
+[23:43:34:303]   forced_video_codec: ''
+[23:43:34:303]   forced_audio_codec: ''
+[23:43:34:303]   original_demuxer: ''
+[23:43:34:303]   original_video_codec: ''
+[23:43:34:303]   original_audio_codec: ''
+[23:43:34:303]   mplayer_additional_options: ''
+[23:43:34:303]   mplayer_additional_video_filters: ''
+[23:43:34:303]   mplayer_additional_audio_filters: ''
+[23:43:34:303]   win_width: 1280
+[23:43:34:303]   win_height: 720
+[23:43:34:303]   win_aspect(): 1.777778
+[23:43:34:303]   is264andHD: 0
+[23:43:34:303]   Videos:
+[23:43:34:303]   Audios:
+[23:43:34:303]   Subtitles:
+[23:43:34:303] Core::newMediaPlaying: --- end ---
+[23:43:34:303] Core::changeAspectRatio: 1
+[23:43:34:303] Core::displayMessage
+[23:43:34:304] AudioEqualizer::setValues
+[23:43:34:304] Core::changeZoom: 1.000000
+[23:43:34:304] Core::displayMessage
+[23:43:34:304] Core::changeSubVisilibity: 1
+[23:43:34:304] MPVProcess::sendCommand: "no-osd set sub-visibility yes"
+[23:43:34:304] Core::displayMessage
+[23:43:34:304] BaseGui::enableActionsOnPlaying
+[23:43:34:305] BaseGui::autosaveMplayerLog
+[23:43:34:305] Core::sendMediaInfo
+[23:43:34:305] Favorites::getCurrentMedia: '/home/rezikham/Videos/immortal-flame-5star.mp4', 'immortal-flame-5star.mp4'
+[23:43:34:305] Favorites::getCurrentMedia: '/home/rezikham/Videos/immortal-flame-5star.mp4', 'immortal-flame-5star.mp4'
+[23:43:34:305] Favorites::getCurrentMedia: '/home/rezikham/Videos/immortal-flame-5star.mp4', 'immortal-flame-5star.mp4'
+[23:43:34:305] BaseGuiPlus::updateMediaInfo
+[23:43:34:305] BaseGui::updateMediaInfo
+[23:43:34:305] TimeSliderAction::setDuration: 14.486
+[23:43:34:305] Playlist::getMediaInfo
+[23:43:34:305] Core::updateWidgets
+[23:43:34:305] BaseGuiPlus::updateWidgets
+[23:43:34:305] BaseGui::updateWidgets
+[23:43:34:305] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[23:43:34:305] Core::finishRestart: --- end ---
+[23:43:34:305] BaseGui::checkStayOnTop
+[23:43:34:307] BaseGui::enterFullscreenOnPlay: arg_start_in_fullscreen: -1, pref->start_in_fullscreen: 0
+[23:43:34:307] BaseGui::newMediaLoaded
+[23:43:34:307] BaseGui::newMediaLoaded: mdat.stream_title: 
+[23:43:34:307] Recents::addItem: '/home/rezikham/Videos/immortal-flame-5star.mp4'
+[23:43:34:307] BaseGui::updateRecents
+[23:43:34:307] BaseGui::checkPendingActionsToRun
+[23:43:34:307] BaseGui::checkMplayerVersion
+[23:43:34:307] MplayerVersion::isMplayerAtLeast: comparing 25158 with 33472
+[23:43:34:307] Core::checkIfVideoIsHD
+[23:43:34:307] MPVProcess::parseLine: "INFO_TRACK_0: video 1 '' '' yes"
+[23:43:34:307] MPVProcess::parseLine: ID: 1 type: "video" name: "" lang: "" selected: "yes"
+[23:43:34:307] MPVProcess::updateVideoTrack: ID: 1
+[23:43:34:307] MPVProcess::parseLine: "INFO_TRACK_1: audio 1 '' '' yes"
+[23:43:34:308] MPVProcess::parseLine: ID: 1 type: "audio" name: "" lang: "" selected: "yes"
+[23:43:34:308] MPVProcess::updateAudioTrack: ID: 1
+[23:43:34:344] MPVProcess::parseLine: video_info_changed
+[23:43:34:354] Core::initVideoTrack: selected_id: 1
+[23:43:34:354] Core::initializeMenus
+[23:43:34:354] BaseGui::initializeMenus
+[23:43:34:354] BaseGui::updateBookmarks
+[23:43:34:355] Core::updateWidgets
+[23:43:34:355] BaseGuiPlus::updateWidgets
+[23:43:34:355] BaseGui::updateWidgets
+[23:43:34:355] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[23:43:34:740] MPVProcess::parseLine: audio_info_changed
+[23:43:34:740] Core::initAudioTrack: num_items: 1 selected_id: 1
+[23:43:34:740] Core::initAudioTrack: list of audios:
+[23:43:34:740] Tracks::list: item 1: ID: 1 lang: '' name: ''
+[23:43:34:741] Core::initializeMenus
+[23:43:34:741] BaseGui::initializeMenus
+[23:43:34:741] BaseGui::updateBookmarks
+[23:43:34:741] Core::updateWidgets
+[23:43:34:741] BaseGuiPlus::updateWidgets
+[23:43:34:741] BaseGui::updateWidgets
+[23:43:34:741] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[23:43:34:741] Core::initAudioTrack: preferred audio track: 0 previous_selected_id: -1000
+[23:43:34:741] BaseGui::enableActionsOnPlaying
+[23:43:34:741] Core::initAudioTrack: current_audio_id: 1
+[23:43:48:702] MPVProcess::parseLine: "Exiting... (End of file)"
+[23:43:48:702] MVPProcess::parseLine: detected end of file
+[23:43:48:805] MyProcess::procFinished
+[23:43:48:805] MyProcess::procFinished: Bytes available:  0
+[23:43:48:805] MPVProcess::processFinished: exitCode: 0, status: 0
+[23:43:48:805] ScreenHelper::playingStopped
+[23:43:48:805] ScreenHelper::setAutoHideCursor: 0
+[23:43:48:805] VideoLayer::playingStopped
+[23:43:48:805] Core::enableScreensaver
+[23:43:48:805] PowerSaving::uninhibit
+[23:43:48:805] PowerSaving::uninhibit: cookie: 578496891
+[23:43:48:807] PowerSaving::uninhibit: valid reply
+[23:43:48:807] Core::processFinished
+[23:43:48:807] Core::processFinished: we_are_restarting: 0
+[23:43:48:807] Core::processFinished: play has finished!
+[23:43:48:807] BaseGui::displayState: "Stopped"
+[23:43:48:807] BaseGui::togglePlayAction
+[23:43:48:807] Core::processFinished: exit_code: 0
+[23:43:48:807] Core::updateWidgets
+[23:43:48:807] BaseGuiPlus::updateWidgets
+[23:43:48:807] BaseGui::updateWidgets
+[23:43:48:807] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[23:43:48:807] BaseGui::disableActionsOnStop
+[23:43:48:807] BaseGui::checkStayOnTop
+[23:43:48:807] Playlist::playNextAuto
+[23:43:48:807] Playlist::playNext
+[23:43:48:807] Playlist::playItem: 1 (count: 1)
+[23:43:48:807] Playlist::playItem: out of range
+[23:43:48:807] BaseGui::playlistHasFinished
+[23:43:48:807] Core::stop: state: "Stopped"
+[23:43:48:807] Core::stop: mset.current_sec: 0.000000
+[23:43:48:807] Core::stop: mset.current_sec set to 0
+[23:43:48:807] Core::stopMplayer
+[23:43:48:807] WARNING: Core::stopMplayer: mplayer is not running!
+[23:43:48:807] MplayerWindow::setLogoVisible: true
+[23:43:48:808] BaseGui::disableActionsOnStop
+[23:43:48:808] BaseGui::playlistHasFinished: arg_close_on_finish: -1, pref->close_on_finish: 0
+[23:43:48:808] MplayerWindow::setLogoVisible: true
+[23:43:50:304] MplayerWindow::mouseReleaseEvent
+[23:43:50:304] BaseGui::leftClickFunction
+[23:43:50:551] BaseGuiPlus::closeEvent
+[23:43:50:551] BaseGuiPlus::closeWindow
+[23:43:50:551] BaseGui::closeWindow
+[23:43:50:551] MpcGui::saveConfig: w: 942 h: 1000
+[23:43:50:551] Helper::qtVersion: 6507
+[23:43:50:551] BaseGuiPlus::saveConfig
+[23:43:50:551] Chromecast::saveSettings
+[23:43:50:552] Core::saveMediaInfo
+[23:43:50:552] FileSettingsHash::saveSettingsFor: "/home/rezikham/Videos/immortal-flame-5star.mp4" type: 0
+[23:43:50:552] FileSettingsHash::saveSettingsFor: config_file: "/home/rezikham/.config/smplayer/file_settings/7/73567dfd6732c52c.ini"
+[23:43:50:552] FileSettingsHash::saveSettingsFor: output_dir: "7"
+[23:43:50:552] MediaSettings::save
+[23:43:50:554] Favorites::save
+[23:43:50:554] Favorites::save
+[23:43:50:554] Favorites::save
+[23:43:50:554] Playlist::saveSettings
+[23:43:50:554] Helper::qtVersion: 6507
+[23:43:50:560] global_end
+[23:43:50:560] Preferences::save
+[23:43:50:560] AssStyles::save
