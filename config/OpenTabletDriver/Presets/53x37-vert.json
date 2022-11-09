@@ -517,19 +517,19 @@
               "Value": 1000.0
             },
             {
-              "Property": "AntichatterOffsetY",
-              "Value": 0.0
-            },
-            {
               "Property": "Latency",
               "Value": 10.0
             },
             {
+              "Property": "AntichatterOffsetY",
+              "Value": 0.0
+            },
+            {
               "Property": "AntichatterStrength",
-              "Value": 5.0
+              "Value": 10.0
             }
           ],
-          "Enable": true
+          "Enable": false
         },
         {
           "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping_Inverse",
@@ -537,23 +537,34 @@
           "Enable": false
         },
         {
-          "Path": "VoiDPlugins.Filter.Reconstructor",
+          "Path": "RadialFollow.RadialFollowSmoothingTabletSpace",
           "Settings": [
             {
-              "Property": "EMAWeight",
-              "Value": 0.5
+              "Property": "OuterRadius",
+              "Value": 1.0
+            },
+            {
+              "Property": "InnerRadius",
+              "Value": 0.0
+            },
+            {
+              "Property": "SmoothingCoefficient",
+              "Value": 0.95
+            },
+            {
+              "Property": "SoftKneeScale",
+              "Value": 1.0
+            },
+            {
+              "Property": "SmoothingLeakCoefficient",
+              "Value": 0.0
             }
           ],
-          "Enable": false
+          "Enable": true
         },
         {
-          "Path": "Circular_Area.Circular_Blended_E_Grid_Mapping_Inverse",
-          "Settings": [
-            {
-              "Property": "B_raw",
-              "Value": null
-            }
-          ],
+          "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping",
+          "Settings": [],
           "Enable": false
         }
       ],
@@ -568,8 +579,8 @@
         "Tablet": {
           "Width": 53.28,
           "Height": 37.0,
-          "X": 43.20529,
-          "Y": 56.197357,
+          "X": 49.774574,
+          "Y": 61.990425,
           "Rotation": 270.0
         },
         "EnableClipping": true,
