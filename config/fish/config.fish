@@ -64,6 +64,7 @@ abbr gl 'git pull'
 
 # tmux shortcut
 abbr tn "tmux new -s (pwd | sed 's/.*\///g')"
+abbr tnh "tmux new -s home"
 abbr ta "tmux a"
 abbr tat "tmux attach -t"
 abbr td 'tmux detach'
