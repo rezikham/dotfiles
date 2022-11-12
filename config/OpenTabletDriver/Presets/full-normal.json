@@ -529,7 +529,7 @@
               "Value": 0.0
             }
           ],
-          "Enable": true
+          "Enable": false
         },
         {
           "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping_Inverse",
@@ -657,6 +657,68 @@
             {
               "Property": "Hover_max",
               "Value": 10.0
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Power2_Blend_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "RadialFollow.RadialFollowSmoothingScreenSpace",
+          "Settings": [
+            {
+              "Property": "OuterRadius",
+              "Value": 5.0
+            },
+            {
+              "Property": "InnerRadius",
+              "Value": 0.0
+            },
+            {
+              "Property": "SmoothingCoefficient",
+              "Value": 0.95
+            },
+            {
+              "Property": "SoftKneeScale",
+              "Value": 1.0
+            },
+            {
+              "Property": "SmoothingLeakCoefficient",
+              "Value": 0.0
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "RadialFollow.RadialFollowSmoothingTabletSpace",
+          "Settings": [
+            {
+              "Property": "OuterRadius",
+              "Value": 1.0
+            },
+            {
+              "Property": "InnerRadius",
+              "Value": 0.0
+            },
+            {
+              "Property": "SmoothingCoefficient",
+              "Value": 0.95
+            },
+            {
+              "Property": "SoftKneeScale",
+              "Value": 1.0
+            },
+            {
+              "Property": "SmoothingLeakCoefficient",
+              "Value": 0.0
             }
           ],
           "Enable": false

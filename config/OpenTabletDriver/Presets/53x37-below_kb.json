@@ -518,15 +518,15 @@
             },
             {
               "Property": "Latency",
-              "Value": 20.0
-            },
-            {
-              "Property": "AntichatterStrength",
               "Value": 10.0
             },
             {
               "Property": "AntichatterOffsetY",
               "Value": 0.0
+            },
+            {
+              "Property": "AntichatterStrength",
+              "Value": 10.0
             }
           ],
           "Enable": false
@@ -534,167 +534,6 @@
         {
           "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping_Inverse",
           "Settings": [],
-          "Enable": false
-        },
-        {
-          "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping",
-          "Settings": [],
-          "Enable": false
-        },
-        {
-          "Path": "Pressure_Debounce.Pressure_Debounce",
-          "Settings": [
-            {
-              "Property": "Drop_excess",
-              "Value": null
-            },
-            {
-              "Property": "Disable_timer",
-              "Value": null
-            },
-            {
-              "Property": "Debounce_timer",
-              "Value": 100.0
-            },
-            {
-              "Property": "Pressure_threshold",
-              "Value": 0.5
-            }
-          ],
-          "Enable": true
-        },
-        {
-          "Path": "Circular_Area.Circular_Biased_Squelch_Horizontal_Inverse",
-          "Settings": [
-            {
-              "Property": "B_raw",
-              "Value": null
-            }
-          ],
-          "Enable": false
-        },
-        {
-          "Path": "Circular_Area.Circular_Lamé_based_Mapping",
-          "Settings": [],
-          "Enable": false
-        },
-        {
-          "Path": "Circular_Area.Circular_Biased_Squelch_Horizontal",
-          "Settings": [
-            {
-              "Property": "B_raw",
-              "Value": null
-            }
-          ],
-          "Enable": false
-        },
-        {
-          "Path": "Circular_Area.Circular_Biased_Squelch_Vertical",
-          "Settings": [
-            {
-              "Property": "B_raw",
-              "Value": null
-            }
-          ],
-          "Enable": false
-        },
-        {
-          "Path": "Circular_Area.Circular_Non_axial_2_Pinch_Mapping",
-          "Settings": [],
-          "Enable": false
-        },
-        {
-          "Path": "VoiDPlugins.Filter.Reconstructor",
-          "Settings": [
-            {
-              "Property": "EMAWeight",
-              "Value": 0.5
-            }
-          ],
-          "Enable": false
-        },
-        {
-          "Path": "Circular_Area.Circular_Biased_Squelch_Vertical_Inverse",
-          "Settings": [
-            {
-              "Property": "B_raw",
-              "Value": null
-            }
-          ],
-          "Enable": false
-        },
-        {
-          "Path": "Hover_Distance_Limiter.Hover_Distance_Limiter",
-          "Settings": [
-            {
-              "Property": "Hover_min",
-              "Value": 0.0
-            },
-            {
-              "Property": "Pressure_max",
-              "Value": 8192.0
-            },
-            {
-              "Property": "Pen",
-              "Value": null
-            },
-            {
-              "Property": "Eraser",
-              "Value": null
-            },
-            {
-              "Property": "Pressure_min",
-              "Value": 100.0
-            },
-            {
-              "Property": "Pressure",
-              "Value": false
-            },
-            {
-              "Property": "NearProximity",
-              "Value": false
-            },
-            {
-              "Property": "Hover_max",
-              "Value": 10.0
-            }
-          ],
-          "Enable": false
-        },
-        {
-          "Path": "Circular_Area.Circular_Power2_Blend_Inverse",
-          "Settings": [
-            {
-              "Property": "B_raw",
-              "Value": null
-            }
-          ],
-          "Enable": false
-        },
-        {
-          "Path": "RadialFollow.RadialFollowSmoothingScreenSpace",
-          "Settings": [
-            {
-              "Property": "OuterRadius",
-              "Value": 5.0
-            },
-            {
-              "Property": "InnerRadius",
-              "Value": 0.0
-            },
-            {
-              "Property": "SmoothingCoefficient",
-              "Value": 0.95
-            },
-            {
-              "Property": "SoftKneeScale",
-              "Value": 1.0
-            },
-            {
-              "Property": "SmoothingLeakCoefficient",
-              "Value": 0.0
-            }
-          ],
           "Enable": false
         },
         {
@@ -721,6 +560,11 @@
               "Value": 0.0
             }
           ],
+          "Enable": true
+        },
+        {
+          "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping",
+          "Settings": [],
           "Enable": false
         }
       ],
@@ -733,10 +577,10 @@
           "Rotation": 0.0
         },
         "Tablet": {
-          "Width": 160.0,
-          "Height": 100.0,
-          "X": 80.0,
-          "Y": 50.0,
+          "Width": 53.28,
+          "Height": 37.0,
+          "X": 63.6921,
+          "Y": 21.78424,
           "Rotation": 0.0
         },
         "EnableClipping": true,
@@ -750,31 +594,22 @@
         "RelativeResetDelay": "00:00:00.1000000"
       },
       "Bindings": {
-        "TipActivationThreshold": 15.0,
+        "TipActivationThreshold": 0.0,
         "TipButton": null,
         "EraserActivationThreshold": 0.0,
-        "EraserButton": null,
+        "EraserButton": {
+          "Path": "OpenTabletDriver.Desktop.Binding.LinuxArtistMode.LinuxArtistModeButtonBinding",
+          "Settings": [
+            {
+              "Property": "Button",
+              "Value": "Pen Button 1"
+            }
+          ],
+          "Enable": true
+        },
         "PenButtons": [
-          {
-            "Path": "OpenTabletDriver.Desktop.Binding.LinuxArtistMode.LinuxArtistModeButtonBinding",
-            "Settings": [
-              {
-                "Property": "Button",
-                "Value": "Pen Button 2"
-              }
-            ],
-            "Enable": true
-          },
-          {
-            "Path": "OpenTabletDriver.Desktop.Binding.LinuxArtistMode.LinuxArtistModeButtonBinding",
-            "Settings": [
-              {
-                "Property": "Button",
-                "Value": "Pen Button 3"
-              }
-            ],
-            "Enable": true
-          }
+          null,
+          null
         ],
         "AuxButtons": [],
         "MouseButtons": [],
