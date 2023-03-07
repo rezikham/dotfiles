@@ -1,0 +1,147 @@
+2023-03-04 11:19:39.674 [info] Extension host with pid 335684 started
+2023-03-04 11:19:39.674 [info] Skipping acquiring lock for /home/rezikham/.config/Code - OSS/User/workspaceStorage/5191c965391f91672a0ebb438a352abb.
+2023-03-04 11:19:39.728 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2023-03-04 11:19:39.728 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-04 11:19:39.728 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-04 11:19:39.729 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: true, activationEvent: '*'
+2023-03-04 11:19:39.729 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: true, activationEvent: '*', root cause: Oracle.oracledevtools
+2023-03-04 11:19:39.729 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-03-04 11:19:40.029 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-04 11:19:40.030 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-04 11:19:40.030 [info] ExtensionService#_doActivateExtension Oracle.oracledevtools, startup: true, activationEvent: '*'
+2023-03-04 11:19:40.894 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:*.py', root cause: ms-python.isort
+2023-03-04 11:19:41.124 [error] Activating extension Oracle.oracledevtools failed due to an error:
+2023-03-04 11:19:41.124 [error] false
+2023-03-04 11:19:41.452 [info] Extension host terminating: renderer closed the socket
+2023-03-04 11:19:41.468 [error] Canceled: Canceled
+    at Object.k [as canceled] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+    at Array.forEach (<anonymous>)
+    at l.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+    at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+    at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+    at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15535)
+    at Socket.emit (node:events:538:35)
+    at Pipe.<anonymous> (node:net:687:12) setContext undefined
+2023-03-04 11:19:41.468 [error] Canceled: Canceled
+    at Object.k [as canceled] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+    at Array.forEach (<anonymous>)
+    at l.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+    at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+    at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+    at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15535)
+    at Socket.emit (node:events:538:35)
+    at Pipe.<anonymous> (node:net:687:12) setContext undefined
+2023-03-04 11:19:41.469 [error] Canceled: Canceled
+    at Object.k [as canceled] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+    at Array.forEach (<anonymous>)
+    at l.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+    at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+    at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+    at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15535)
+    at Socket.emit (node:events:538:35)
+    at Pipe.<anonymous> (node:net:687:12) setContext undefined
+2023-03-04 11:19:41.469 [error] Canceled: Canceled
+    at Object.k [as canceled] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+    at Array.forEach (<anonymous>)
+    at l.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+    at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+    at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+    at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15535)
+    at Socket.emit (node:events:538:35)
+    at Pipe.<anonymous> (node:net:687:12) setContext undefined
+2023-03-04 11:19:41.469 [error] Canceled: Canceled
+    at Object.k [as canceled] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+    at Array.forEach (<anonymous>)
+    at l.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+    at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+    at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+    at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15535)
+    at Socket.emit (node:events:538:35)
+    at Pipe.<anonymous> (node:net:687:12) setContext undefined
+2023-03-04 11:19:41.469 [error] Canceled: Canceled
+    at Object.k [as canceled] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+    at Array.forEach (<anonymous>)
+    at l.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+    at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+    at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+    at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15535)
+    at Socket.emit (node:events:538:35)
+    at Pipe.<anonymous> (node:net:687:12) setContext undefined
+2023-03-04 11:19:41.470 [error] Canceled: Canceled
+    at Object.k [as canceled] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+    at Array.forEach (<anonymous>)
+    at l.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+    at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+    at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+    at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15535)
+    at Socket.emit (node:events:538:35)
+    at Pipe.<anonymous> (node:net:687:12) setContext undefined
+2023-03-04 11:19:41.470 [error] Canceled: Canceled
+    at Object.k [as canceled] (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:7:1192)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7891
+    at Array.forEach (<anonymous>)
+    at l.dispose (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:7856)
+    at f.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:9275)
+    at h.terminate (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:112:1397)
+    at p (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:17851)
+    at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:15535)
+    at Socket.emit (node:events:538:35)
+    at Pipe.<anonymous> (node:net:687:12) setContext undefined
+2023-03-04 11:19:41.472 [info] Eager extensions activated
+2023-03-04 11:19:41.473 [error] Activating extension vscode.debug-auto-launch failed due to an error:
+2023-03-04 11:19:41.473 [error] Canceled: Canceled
+    at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+    at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+    at Proxy.V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+    at f.Y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11499)
+    at Object.actualActivateExtension (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:8535)
+    at f.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6831)
+    at f.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6792)
+    at f.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6249)
+    at new f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6176)
+    at E.k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:5656)
+    at E.j (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:5611)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:4445
+    at Array.map (<anonymous>)
+    at E.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:4433)
+    at E.activateById (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:4345)
+    at f.S (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:10021)
+    at f.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:15029)
+    at fb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:15325)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:15620
+2023-03-04 11:19:41.473 [error] Activating extension vscode.merge-conflict failed due to an error:
+2023-03-04 11:19:41.473 [error] Canceled: Canceled
+    at new u (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:96:88070)
+    at l.O (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:11276)
+    at Proxy.V.<computed>.M.charCodeAt.V.<computed> (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:8557)
+    at f.Y (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:11499)
+    at Object.actualActivateExtension (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:8535)
+    at f.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6831)
+    at f.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6792)
+    at f.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6249)
+    at new f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6176)
+    at E.k (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:5656)
+    at E.j (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:5611)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:4445
+    at Array.map (<anonymous>)
+    at E.h (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:4433)
+    at E.activateById (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:4345)
+    at f.S (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:10021)
+    at f.eb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:15029)
+    at fb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:15325)
+    at /usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:108:15620
+2023-03-04 11:19:41.476 [info] Extension host with pid 335684 exiting with code 0

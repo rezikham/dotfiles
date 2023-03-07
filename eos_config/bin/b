@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# if file exists in current directory, then use that, otherwise use the one in the home directory
+if [ -f b ]; then
+  ./b
+  exit 0
+fi
+

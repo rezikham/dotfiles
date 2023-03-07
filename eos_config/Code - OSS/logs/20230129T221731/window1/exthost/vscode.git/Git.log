@@ -1,0 +1,19 @@
+2023-01-29 22:17:35.501 [info] Log level: Info
+2023-01-29 22:17:35.501 [info] Validating found git in: "git"
+2023-01-29 22:17:35.501 [info] Using git "2.39.1" from "git"
+2023-01-29 22:17:35.502 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-29 22:17:35.509 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-01-29 22:17:35.512 [info] Open repository: /home/rezikham/repo/Deakin-Doc
+2023-01-29 22:17:35.553 [info] > git config --get commit.template [33ms]
+2023-01-29 22:17:35.565 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-01-29 22:17:35.581 [info] > git status -z -uall [8ms]
+2023-01-29 22:17:35.582 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-29 22:17:35.600 [info] > git config --get commit.template [7ms]
+2023-01-29 22:17:35.600 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-01-29 22:17:35.614 [info] > git status -z -uall [8ms]
+2023-01-29 22:17:35.615 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-29 22:17:35.935 [info] > git show --textconv :SIT111/3.3D/ALU.hdl [5ms]
+2023-01-29 22:17:35.936 [info] > git ls-files --stage -- /home/rezikham/repo/Deakin-Doc/SIT111/3.3D/ALU.hdl [1ms]
+2023-01-29 22:17:35.942 [info] > git cat-file -s 46c08dba64fb39df4d472b4485ed80508963c79c [1ms]
+2023-01-29 22:17:36.060 [info] > git check-ignore -v -z --stdin [1ms]
+2023-01-29 22:17:36.122 [info] > git rev-parse --show-toplevel [1ms]

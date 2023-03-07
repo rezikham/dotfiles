@@ -1,0 +1,13 @@
+[Info  - 7:22:44 pm] (35553) Pylance language server 2023.1.40 (pyright e96b3ece) starting
+[Info  - 7:22:44 pm] (35553) Server root directory: /home/rezikham/.vscode-oss/extensions/ms-python.vscode-pylance-2023.1.40/dist
+[Info  - 7:22:44 pm] (35553) Starting service instance "SIT111"
+[Info  - 7:22:44 pm] (35553) No configuration file found.
+[Info  - 7:22:44 pm] (35553) No pyproject.toml file found.
+[Info  - 7:22:44 pm] (35553) Setting pythonPath for service "SIT111": "/usr/bin/python"
+[Warn  - 7:22:44 pm] (35553) stubPath /home/rezikham/repo/Deakin-Doc/SIT111/typings is not a valid directory.
+[Info  - 7:22:44 pm] (35553) Assuming Python version 3.10
+[Info  - 7:22:44 pm] (35553) Assuming Python platform Linux
+[Info  - 7:22:44 pm] (35553) Searching for source files
+[Info  - 7:22:44 pm] (35553) Found 1 source file
+[Info  - 7:22:44 pm] (35553) Background analysis(1) root directory: /home/rezikham/.vscode-oss/extensions/ms-python.vscode-pylance-2023.1.40/dist
+[Info  - 7:22:44 pm] (35553) Background analysis(1) started

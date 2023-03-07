@@ -1,0 +1,24 @@
+[Desktop Action Remove]
+Exec=/usr/lib/appimagelauncher/remove "/home/rezikham/Applications/Bitwarden-2022.11.0-x86_64_2ac06840cc44b06c7078896e4a05fb26.AppImage"
+Icon=AppImageLauncher
+Name[en_AU]=Remove AppImage from system
+Name=Remove AppImage from system
+
+[Desktop Entry]
+Actions=Remove;
+Categories=Utility;
+Comment=A secure and free password manager for all of your devices.
+Exec=/home/rezikham/Applications/Bitwarden-2022.11.0-x86_64_2ac06840cc44b06c7078896e4a05fb26.AppImage --no-sandbox %U
+GenericName=Password Manager
+Icon=appimagekit_8300015a6afc5057e34f0d153900b268_bitwarden
+MimeType=x-scheme-handler/bitwarden;
+Name=Bitwarden (2022.11.0)
+StartupWMClass=Bitwarden
+Terminal=false
+TryExec=/home/rezikham/Applications/Bitwarden-2022.11.0-x86_64_2ac06840cc44b06c7078896e4a05fb26.AppImage
+Type=Application
+X-AppImage-Identifier=8300015a6afc5057e34f0d153900b268
+X-AppImage-Old-Icon=bitwarden
+X-AppImage-Old-Name=Bitwarden
+X-AppImage-Version=2022.11.0
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2022-12-01 12:15:06 UTC

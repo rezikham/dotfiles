@@ -1,0 +1,5 @@
+2022-12-10 00:03:14.905 [info] Starting worker process with pid 81868 (type: fileWatcher, window: 1).
+2022-12-10 00:03:15.002 [info] Deleted from disk s-nlf-fh.glassit /home/rezikham/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal
+2022-12-10 00:03:15.033 [info] Deleted from disk s-nlf-fh.glassit /home/rezikham/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.4
+2022-12-10 00:05:11.901 [info] Worker process with pid 81868 terminated normally (type: fileWatcher, window: 1).
+2022-12-10 00:05:12.874 [info] Starting worker process with pid 82295 (type: fileWatcher, window: 1).

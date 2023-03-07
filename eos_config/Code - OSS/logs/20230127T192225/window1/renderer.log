@@ -1,0 +1,89 @@
+2023-01-27 19:22:29.321 [error] ENOENT: no such file or directory, open '/home/rezikham/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/rezikham/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers'
+2023-01-27 19:22:30.746 [info] [perf] Render performance baseline is 173ms
+2023-01-27 19:22:34.414 [error] ENOENT: no such file or directory, open '/home/rezikham/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/rezikham/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers'
+2023-01-27 19:22:35.390 [info] [perf] Render performance baseline is 158ms
+2023-01-27 19:22:43.521 [error] ENOENT: no such file or directory, open '/home/rezikham/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/rezikham/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers'
+2023-01-27 19:22:44.752 [info] [perf] Render performance baseline is 136ms
+2023-01-27 19:22:46.226 [error] nvim_call_function: Vim:E117: Unknown function: VSCodeClearUndo: Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:25:23.464 [error] nvim_call_function: Vim:E117: Unknown function: VSCodeClearUndo: Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:35:22.949 [error] nvim_call_function: Vim:E117: Unknown function: VSCodeClearUndo: Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:36:22.085 [error] nvim_call_function: Vim:E117: Unknown function: VSCodeClearUndo: Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:36:23.887 [error] nvim_call_function: Vim:E117: Unknown function: VSCodeClearUndo: Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:36:32.285 [error] nvim_call_function: Vim:E117: Unknown function: VSCodeClearUndo: Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:41:00.189 [error] nvim_call_function: Vim:E117: Unknown function: VSCodeClearUndo: Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:41:04.288 [error] nvim_call_function: Vim:E117: Unknown function: VSCodeClearUndo: Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:41:23.511 [error] Git error
+2023-01-27 19:41:25.038 [error] Git error
+2023-01-27 19:41:26.993 [error] nvim_call_function: Vim:E117: Unknown function: VSCodeClearUndo: Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:41:40.795 [error] Git error
+2023-01-27 19:41:44.180 [error] nvim_call_function: Vim:E117: Unknown function: VSCodeClearUndo: Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

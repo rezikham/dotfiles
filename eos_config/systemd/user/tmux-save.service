@@ -1,0 +1,11 @@
+# /home/rezikham/.config/systemd/user/tmux-save.service
+[Unit]
+Description=Save tmux sessions
+OnFailure=error@%n.service
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash /home/rezikham/.config/tmux/plugins/tmux-resurrect/scripts/save.sh
+
+[Install]
+WantedBy=default.target

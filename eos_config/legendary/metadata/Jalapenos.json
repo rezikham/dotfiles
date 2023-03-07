@@ -1,0 +1,125 @@
+{
+  "app_name": "Jalapenos",
+  "app_title": "Knockout City",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-23T01:36:44.415Z",
+    "customAttributes": {
+      "AdditionalCommandline": {
+        "type": "STRING",
+        "value": "&theme=kcb&platform=epic"
+      },
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "KnockoutCity"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "KnockoutCity.exe"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "5bb3d43818ae4188850fe1dbad9d57a5"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "KnockoutCity.exe"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "Install Dir"
+      },
+      "RegistryLocation": {
+        "type": "STRING",
+        "value": "SOFTWARE\\Velan Studios\\KnockoutCity\\Install Dir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Velan Studios\\KnockoutCity"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "ThirdPartyManagedApp": {
+        "type": "STRING",
+        "value": "Origin"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Knockout City",
+    "developer": "Velan Studios",
+    "developerId": "o-tccfu5y3rlppva3suhbwr2f9ykr3qe",
+    "endOfSupport": false,
+    "entitlementName": "908b7c3f3a3e4ef18c112ccdb0a5750e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "908b7c3f3a3e4ef18c112ccdb0a5750e",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 720,
+        "md5": "d76e479f6319bb968c5af7fa568893de",
+        "size": 514772,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-11-28T23:05:20.282Z",
+        "url": "https://cdn1.epicgames.com/item/5bb3d43818ae4188850fe1dbad9d57a5/S8_Epic_Native-YT-Thumbnail_1280x720-d76e479f6319bb968c5af7fa568893de",
+        "width": 1280
+      },
+      {
+        "height": 1600,
+        "md5": "21e1d8e02595f364dc6d9b0b060f2106",
+        "size": 539217,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-28T23:05:24.393Z",
+        "url": "https://cdn1.epicgames.com/item/5bb3d43818ae4188850fe1dbad9d57a5/S8_Epic_Featured-Carousel-Image-Vert_1200x1600-21e1d8e02595f364dc6d9b0b060f2106",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-11-29T16:06:10.977Z",
+    "namespace": "5bb3d43818ae4188850fe1dbad9d57a5",
+    "releaseInfo": [
+      {
+        "appId": "Jalapenos",
+        "dateAdded": "2021-03-23T01:47:23.232Z",
+        "id": "fe81950cefed4765a774fdfc06029401",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Knockout City",
+    "unsearchable": true
+  }
+}

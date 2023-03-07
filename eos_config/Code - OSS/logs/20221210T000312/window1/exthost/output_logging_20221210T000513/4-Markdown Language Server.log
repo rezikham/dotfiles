@@ -1,0 +1,14 @@
+[Trace 13:05:16.934] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/rezikham/repo/Deakin-Doc/README.md
+[Trace 13:05:16.935] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/rezikham/repo/Deakin-Doc/README.md
+[Trace 13:05:16.936] Server: connection.languages.diagnostics.on: file:///home/rezikham/repo/Deakin-Doc/README.md
+[Trace 13:05:16.937] Server: connection.languages.diagnostics.on: file:///home/rezikham/repo/Deakin-Doc/README.md
+[Trace 13:05:16.941] DocumentSymbolProvider: provideDocumentSymbols — file:///home/rezikham/repo/Deakin-Doc/README.md 1
+[Debug 13:05:16.941] LinkProvider: compute - file:///home/rezikham/repo/Deakin-Doc/README.md
+[Debug 13:05:17.026] TableOfContentsProvider: create - file:///home/rezikham/repo/Deakin-Doc/README.md
+[Debug 13:05:18.439] MdFoldingProvider: provideFoldingRanges — file:///home/rezikham/repo/Deakin-Doc/README.md 1
+[Trace 13:05:49.052] Server: connection.languages.diagnostics.on: file:///home/rezikham/repo/Deakin-Doc/README.md
+[Trace 13:06:14.707] Server: connection.languages.diagnostics.on: file:///home/rezikham/repo/Deakin-Doc/README.md
+[Debug 13:06:14.874] MdFoldingProvider: provideFoldingRanges — file:///home/rezikham/repo/Deakin-Doc/README.md 1
+[Trace 13:06:15.897] Server: connection.languages.diagnostics.on: file:///home/rezikham/repo/Deakin-Doc/README.md
+[Trace 13:17:02.399] Server: connection.languages.diagnostics.on: file:///home/rezikham/repo/Deakin-Doc/README.md
+[Debug 13:17:02.567] MdFoldingProvider: provideFoldingRanges — file:///home/rezikham/repo/Deakin-Doc/README.md 1

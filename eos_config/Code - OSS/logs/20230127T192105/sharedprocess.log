@@ -1,0 +1,9 @@
+2023-01-27 19:21:09.046 [info] Starting worker process with pid 34446 (type: fileWatcher, window: 1).
+2023-01-27 19:21:11.811 [info] Getting Manifest... ms-python.vscode-pylance
+2023-01-27 19:21:12.644 [info] Installing extension: ms-python.vscode-pylance
+2023-01-27 19:21:13.332 [info] Getting Manifest... ms-python.python
+2023-01-27 19:21:20.912 [info] Extracted extension to /home/rezikham/.vscode-oss/extensions/.7bba084e-0a1d-4fc1-bdaf-b2a128a6a70a: ms-python.vscode-pylance
+2023-01-27 19:21:20.918 [info] Renamed to /home/rezikham/.vscode-oss/extensions/ms-python.vscode-pylance-2023.1.40
+2023-01-27 19:21:20.921 [info] Extracting completed. ms-python.vscode-pylance
+2023-01-27 19:21:20.929 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-01-27 19:21:20.958 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.1.30

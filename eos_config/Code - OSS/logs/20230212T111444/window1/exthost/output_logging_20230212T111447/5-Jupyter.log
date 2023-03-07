@@ -1,0 +1,449 @@
+Visual Studio Code (1.75.1, undefined, desktop)
+Jupyter Extension Version: 2022.11.1003412109.
+Python Extension Version: 2022.20.2.
+Workspace folder /home/rezikham/repo/Deakin-Doc/SIT112
+info 11:14:49.455: ZMQ install verified.
+error 11:14:49.785: Python extension is not exporting the jupyter API
+info 11:14:49.805: LSP Notebooks experiment is enabled
+error 11:14:49.833: Error: Python extension is not exporting the jupyter API
+    at I.registerHooks (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525717)
+    at I.init (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525113)
+    at I.getNewApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2524882)
+    at x.getApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2534991)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537574)
+    at x.getInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530520)
+    at x.populateCachedListOfInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2535199)
+    at x.buildListOfInterpretersForFirstTime (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537201)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537531)
+    at x.get onDidChangeInterpreter [as onDidChangeInterpreter] (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530050)
+    at new K (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:44572)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848451)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849307
+    at Array.map (<anonymous>)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849279
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Object.t.resolve (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850652)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:834065
+    at e._get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:833831)
+    at e.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:832474)
+    at r.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:50299)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:1576688
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+error 11:14:49.852: getCondaVersionFromPython, Class name = k, completed in 42ms, has a falsy return value Error: Python extension is not exporting the jupyter API
+    at I.registerHooks (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525717)
+    at I.init (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525113)
+    at I.getNewApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2524882)
+    at x.getApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2534991)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537574)
+    at x.getInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530520)
+    at x.populateCachedListOfInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2535199)
+    at x.buildListOfInterpretersForFirstTime (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537201)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537531)
+    at x.get onDidChangeInterpreter [as onDidChangeInterpreter] (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530050)
+    at new K (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:44572)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848451)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849307
+    at Array.map (<anonymous>)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849279
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Object.t.resolve (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850652)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:834065
+    at e._get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:833831)
+    at e.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:832474)
+    at r.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:50299)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:1576688
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+error 11:14:49.853: getCondaFile, Class name = k, completed in 43ms, has a falsy return value Error: Python extension is not exporting the jupyter API
+    at I.registerHooks (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525717)
+    at I.init (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525113)
+    at I.getNewApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2524882)
+    at x.getApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2534991)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537574)
+    at x.getInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530520)
+    at x.populateCachedListOfInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2535199)
+    at x.buildListOfInterpretersForFirstTime (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537201)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537531)
+    at x.get onDidChangeInterpreter [as onDidChangeInterpreter] (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530050)
+    at new K (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:44572)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848451)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849307
+    at Array.map (<anonymous>)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849279
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Object.t.resolve (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850652)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:834065
+    at e._get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:833831)
+    at e.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:832474)
+    at r.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:50299)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:1576688
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+info 11:14:49.854: Find preferred kernel for /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.9"},"orig_nbformat":4,"vscode":{"interpreter":{"hash":"767d51c1340bd893661ea55ea3124f6de3c7a262a8b4abca0554b478b1e2ff90"}}} & preferred interpreter <undefined>
+info 11:14:49.855: Find preferred kernel for /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.9"},"orig_nbformat":4,"vscode":{"interpreter":{"hash":"767d51c1340bd893661ea55ea3124f6de3c7a262a8b4abca0554b478b1e2ff90"}}} & preferred interpreter <undefined>
+info 11:14:49.919: Find preferred kernel for /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.9"},"orig_nbformat":4,"vscode":{"interpreter":{"hash":"767d51c1340bd893661ea55ea3124f6de3c7a262a8b4abca0554b478b1e2ff90"}}} & preferred interpreter <undefined>
+info 11:14:49.985: Preferred kernel .jvsc74a57bd0767d51c1340bd893661ea55ea3124f6de3c7a262a8b4abca0554b478b1e2ff90./usr/bin/python./usr/bin/python.-m#ipykernel_launcher is exact match or top match for non python kernels, (false, undefined, true, false)
+info 11:14:49.986: PreferredConnection: .jvsc74a57bd0767d51c1340bd893661ea55ea3124f6de3c7a262a8b4abca0554b478b1e2ff90./usr/bin/python./usr/bin/python.-m#ipykernel_launcher found for NotebookDocument: /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb
+error 11:14:50.027: Jupyter Extension (Error in Get activated env variables from Python, method:getActivatedEnvironmentVariablesFromPython): Error: Python extension is not exporting the jupyter API
+    at I.registerHooks (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525717)
+    at I.init (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525113)
+    at I.getNewApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2524882)
+    at x.getApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2534991)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537574)
+    at x.getInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530520)
+    at x.populateCachedListOfInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2535199)
+    at x.buildListOfInterpretersForFirstTime (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537201)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537531)
+    at x.get onDidChangeInterpreter [as onDidChangeInterpreter] (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530050)
+    at new K (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:44572)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848451)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849307
+    at Array.map (<anonymous>)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849279
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Object.t.resolve (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850652)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:834065
+    at e._get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:833831)
+    at e.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:832474)
+    at r.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:50299)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:1576688
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+info 11:14:50.039: Process Execution: > /usr/bin/python -m pip list
+> /usr/bin/python -m pip list
+info 11:14:50.162: Starting Jupyter Session startUsingPythonInterpreter, .jvsc74a57bd0767d51c1340bd893661ea55ea3124f6de3c7a262a8b4abca0554b478b1e2ff90./usr/bin/python./usr/bin/python.-m#ipykernel_launcher (Python Path: , EnvType: Unknown, EnvName: '', Version: 3.10.9 (main, Dec 19 2022, 17:35:49) [GCC 12.2.0]) for '/home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb' (disableUI=true)
+info 11:14:50.162: Computing working directory for resource '/home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb'
+error 11:14:50.181: Jupyter Extension (Error in Get activated env variables from Python, method:getActivatedEnvironmentVariablesFromPython): Error: Python extension is not exporting the jupyter API
+    at I.registerHooks (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525717)
+    at I.init (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525113)
+    at I.getNewApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2524882)
+    at x.getApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2534991)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537574)
+    at x.getInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530520)
+    at x.populateCachedListOfInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2535199)
+    at x.buildListOfInterpretersForFirstTime (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537201)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537531)
+    at x.get onDidChangeInterpreter [as onDidChangeInterpreter] (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530050)
+    at new K (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:44572)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848451)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849307
+    at Array.map (<anonymous>)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849279
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Object.t.resolve (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850652)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:834065
+    at e._get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:833831)
+    at e.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:832474)
+    at r.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:50299)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:1576688
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+info 11:14:50.191: Process Execution: > /usr/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /usr/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+error 11:14:50.229: Jupyter Extension (Error in Get activated env variables from Python, method:getActivatedEnvironmentVariablesFromPython): Error: Python extension is not exporting the jupyter API
+    at I.registerHooks (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525717)
+    at I.init (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525113)
+    at I.getNewApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2524882)
+    at x.getApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2534991)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537574)
+    at x.getInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530520)
+    at x.populateCachedListOfInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2535199)
+    at x.buildListOfInterpretersForFirstTime (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537201)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537531)
+    at x.get onDidChangeInterpreter [as onDidChangeInterpreter] (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530050)
+    at new K (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:44572)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848451)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849307
+    at Array.map (<anonymous>)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849279
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Object.t.resolve (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850652)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:834065
+    at e._get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:833831)
+    at e.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:832474)
+    at r.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:50299)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:1576688
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+error 11:14:50.229: Jupyter Extension (Error in Get activated env variables from Python, method:getActivatedEnvironmentVariablesFromPython): Error: Python extension is not exporting the jupyter API
+    at I.registerHooks (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525717)
+    at I.init (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525113)
+    at I.getNewApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2524882)
+    at x.getApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2534991)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537574)
+    at x.getInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530520)
+    at x.populateCachedListOfInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2535199)
+    at x.buildListOfInterpretersForFirstTime (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537201)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537531)
+    at x.get onDidChangeInterpreter [as onDidChangeInterpreter] (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530050)
+    at new K (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:44572)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848451)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849307
+    at Array.map (<anonymous>)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849279
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Object.t.resolve (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850652)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:834065
+    at e._get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:833831)
+    at e.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:832474)
+    at r.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:50299)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:1576688
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+info 11:14:50.254: Process Execution: > /usr/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"1e1eda5b-5527-4c38-807d-078897a9a52e" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/rezikham/.local/share/jupyter/runtime/kernel-v2-5359OB1Jh9b2o3U1.json
+> /usr/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"1e1eda5b-5527-4c38-807d-078897a9a52e" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/rezikham/.local/share/jupyter/runtime/kernel-v2-5359OB1Jh9b2o3U1.json
+info 11:14:50.254: Process Execution: cwd: ~/repo/Deakin-Doc/SIT112
+cwd: ~/repo/Deakin-Doc/SIT112
+info 11:14:50.474: ipykernel version & path 6.17.1, ~/.local/lib/python3.10/site-packages/ipykernel/__init__.py for /usr/bin/python
+info 11:14:50.840: Kernel Output: To connect another client to this kernel, use: --existing kernel-v2-5359OB1Jh9b2o3U1.json
+
+info 11:14:50.880: Started Kernel Python 3.10.9 (pid: 5542)
+info 11:14:50.882: UpdateWorkingDirectoryAndPath in Kernel
+error 11:14:50.900: Jupyter Extension (Error in Get activated env variables from Python, method:getActivatedEnvironmentVariablesFromPython): Error: Python extension is not exporting the jupyter API
+    at I.registerHooks (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525717)
+    at I.init (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525113)
+    at I.getNewApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2524882)
+    at x.getApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2534991)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537574)
+    at x.getInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530520)
+    at x.populateCachedListOfInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2535199)
+    at x.buildListOfInterpretersForFirstTime (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537201)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537531)
+    at x.get onDidChangeInterpreter [as onDidChangeInterpreter] (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530050)
+    at new K (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:44572)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848451)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849307
+    at Array.map (<anonymous>)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849279
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Object.t.resolve (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850652)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:834065
+    at e._get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:833831)
+    at e.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:832474)
+    at r.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:50299)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:1576688
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+info 11:14:50.907: Process Execution: > /usr/bin/python ~/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/pythonFiles/printJupyterDataDir.py
+> /usr/bin/python ~/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/pythonFiles/printJupyterDataDir.py
+info 11:14:54.848: Find preferred kernel for /home/rezikham/repo/Deakin-Doc/SIT112/Assignment 2 Details -20221207/7_assignment2_solution.ipynb with metadata {"kernelspec":{"display_name":"Python 3 (ipykernel)","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.9.13"},"vscode":{"interpreter":{"hash":"569872e28ea7c3ea45da577d23df4bbcd7fd1688053a07ddf66fe75174876e6f"}}} & preferred interpreter <undefined>
+info 11:14:54.849: Preferred kernel .jvsc74a57bd0569872e28ea7c3ea45da577d23df4bbcd7fd1688053a07ddf66fe75174876e6f./home/rezikham/anaconda3/python./home/rezikham/anaconda3/python.-m#ipykernel_launcher is exact match or top match for non python kernels, (false, undefined, true, false)
+info 11:14:54.849: PreferredConnection: .jvsc74a57bd0569872e28ea7c3ea45da577d23df4bbcd7fd1688053a07ddf66fe75174876e6f./home/rezikham/anaconda3/python./home/rezikham/anaconda3/python.-m#ipykernel_launcher found for NotebookDocument: /home/rezikham/repo/Deakin-Doc/SIT112/Assignment 2 Details -20221207/7_assignment2_solution.ipynb
+error 11:14:54.858: Jupyter Extension (Error in Get activated env variables from Python, method:getActivatedEnvironmentVariablesFromPython): Error: Python extension is not exporting the jupyter API
+    at I.registerHooks (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525717)
+    at I.init (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2525113)
+    at I.getNewApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2524882)
+    at x.getApi (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2534991)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537574)
+    at x.getInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530520)
+    at x.populateCachedListOfInterpreters (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2535199)
+    at x.buildListOfInterpretersForFirstTime (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537201)
+    at x.hookupOnDidChangeInterpreterEvent (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2537531)
+    at x.get onDidChangeInterpreter [as onDidChangeInterpreter] (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:2530050)
+    at new K (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:7:44572)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848451)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849307
+    at Array.map (<anonymous>)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:849279
+    at Array.map (<anonymous>)
+    at Object.t.resolveInstance (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:848225)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850389
+    at Object.t.resolve (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:850652)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:834065
+    at e._get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:833831)
+    at e.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:832474)
+    at r.get (/home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:17:50299)
+    at /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/out/extension.node.js:2:1576688
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+warn 11:14:54.858: Failed to get env vars from Python extension. Falling back to ours for /home/rezikham/anaconda3/bin/python.
+info 11:14:54.872: Process Execution: > ~/anaconda3/bin/python -m pip list
+> ~/anaconda3/bin/python -m pip list
+info 11:19:04.651: Shutting down notebooks for 6cb312f4-4ca9-44ae-90bf-68aec825a0d9
+info 11:19:04.657: Disposing HostJupyterExecution 8fb9120d-1160-44d4-9c86-0089a22144ec
+info 11:19:04.657: Disposing super HostJupyterExecution 8fb9120d-1160-44d4-9c86-0089a22144ec
+info 11:19:04.658: Dispose Kernel '/home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb' associated with '/home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb'
+info 11:19:04.672: Dispose Kernel process 5542.
+info 11:19:04.696: Disposing HostJupyterExecution 8fb9120d-1160-44d4-9c86-0089a22144ec
+info 11:19:04.696: Finished disposing HostJupyterExecution  8fb9120d-1160-44d4-9c86-0089a22144ec
+info 11:19:04.721: Cleaning up server cache 8fb9120d-1160-44d4-9c86-0089a22144ec
+info 11:19:04.872: Finished disposing HostJupyterExecution  8fb9120d-1160-44d4-9c86-0089a22144ec

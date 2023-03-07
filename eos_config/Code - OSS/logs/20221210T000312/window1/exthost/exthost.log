@@ -1,0 +1,40 @@
+2022-12-10 00:03:14.911 [info] Extension host with pid 81822 started
+2022-12-10 00:03:14.958 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-10 00:03:14.959 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: true, activationEvent: '*'
+2022-12-10 00:03:14.959 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: true, activationEvent: '*', root cause: Oracle.oracledevtools
+2022-12-10 00:03:15.182 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-10 00:03:15.182 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-10 00:03:15.182 [info] ExtensionService#_doActivateExtension Oracle.oracledevtools, startup: true, activationEvent: '*'
+2022-12-10 00:03:16.073 [error] Activating extension Oracle.oracledevtools failed due to an error:
+2022-12-10 00:03:16.073 [error] false
+2022-12-10 00:03:16.128 [info] Eager extensions activated
+2022-12-10 00:03:16.209 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 00:03:16.209 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 00:03:16.210 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 00:03:16.251 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-10 00:03:16.251 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-10 00:03:16.251 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-10 00:05:11.817 [info] Extension host terminating: received terminate message from renderer
+2022-12-10 00:05:11.835 [info] Extension host with pid 81822 exiting with code 0
+2022-12-10 00:05:13.403 [info] Extension host with pid 82294 started
+2022-12-10 00:05:13.403 [info] Skipping acquiring lock for /home/rezikham/.config/Code - OSS/User/workspaceStorage/35364d83d1b25f5ec01d95e8f17fc3a8.
+2022-12-10 00:05:13.484 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2022-12-10 00:05:13.491 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-10 00:05:13.495 [info] Eager extensions activated
+2022-12-10 00:05:13.498 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 00:05:13.498 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 00:05:13.498 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-10 00:05:13.921 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2022-12-10 00:05:13.940 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: '*'
+2022-12-10 00:05:13.940 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: '*', root cause: Oracle.oracledevtools
+2022-12-10 00:05:14.056 [info] ExtensionService#_doActivateExtension Oracle.oracledevtools, startup: false, activationEvent: '*'
+2022-12-10 00:05:14.439 [error] Activating extension Oracle.oracledevtools failed due to an error:
+2022-12-10 00:05:14.439 [error] false
+2022-12-10 00:05:16.519 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2022-12-10 00:05:16.519 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2022-12-10 00:05:17.008 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2022-12-10 00:06:08.761 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-10 00:06:08.761 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-10 00:06:08.761 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2022-12-10 00:20:16.499 [info] Extension host terminating: received terminate message from renderer
+2022-12-10 00:20:16.517 [info] Extension host with pid 82294 exiting with code 0

@@ -1,0 +1,108 @@
+{
+  "app_name": "ChickenExperimental",
+  "app_title": "Auto Chess Experimental",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ChickenExperimental",
+      "asset_id": "ChickenExperimental",
+      "build_version": "2.7.0",
+      "catalog_item_id": "97e8920391374cf39162aa89950562da",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "37baf50c268d47779020d73143bb02b0"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-12-18T12:55:37.865Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AutoChessExp"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "37baf50c268d47779020d73143bb02b0"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Auto Chess Experimental",
+    "developer": "Dragonest Game",
+    "developerId": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+    "endOfSupport": false,
+    "entitlementName": "97e8920391374cf39162aa89950562da",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "97e8920391374cf39162aa89950562da",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "f041c389dafd6ff1466999a9bf804f3c",
+        "size": 243162,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-06-10T00:01:51.392Z",
+        "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/item/Autochess-promo-2560x1440-f041c389dafd6ff1466999a9bf804f3c.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "5effedf7c8afeb501d71c2cb5db93b50",
+        "size": 1542602,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-05-13T01:30:48.484Z",
+        "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/item/1200x1600-2-1200x1600-5effedf7c8afeb501d71c2cb5db93b50.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-04-27T14:03:56.165Z",
+    "namespace": "37baf50c268d47779020d73143bb02b0",
+    "releaseInfo": [
+      {
+        "appId": "ChickenExperimental",
+        "dateAdded": "2019-07-18T00:00:00.000Z",
+        "id": "960334b352164289b7b5d454994df0d8",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Auto Chess Experimental",
+    "unsearchable": false
+  }
+}

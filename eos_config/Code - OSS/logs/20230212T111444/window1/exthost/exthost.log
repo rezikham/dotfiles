@@ -1,0 +1,134 @@
+2023-02-12 11:14:47.238 [info] Extension host with pid 5359 started
+2023-02-12 11:14:47.238 [info] Skipping acquiring lock for /home/rezikham/.config/Code - OSS/User/workspaceStorage/5191c965391f91672a0ebb438a352abb.
+2023-02-12 11:14:47.282 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2023-02-12 11:14:47.283 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-12 11:14:47.283 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-02-12 11:14:47.283 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: true, activationEvent: '*'
+2023-02-12 11:14:47.283 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: true, activationEvent: '*', root cause: Oracle.oracledevtools
+2023-02-12 11:14:47.284 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-02-12 11:14:47.652 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-02-12 11:14:47.652 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-12 11:14:47.652 [info] ExtensionService#_doActivateExtension Oracle.oracledevtools, startup: true, activationEvent: '*'
+2023-02-12 11:14:48.581 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:*.py', root cause: ms-python.isort
+2023-02-12 11:14:48.865 [error] Activating extension Oracle.oracledevtools failed due to an error:
+2023-02-12 11:14:48.865 [error] false
+2023-02-12 11:14:48.926 [error] Activating extension ms-python.python failed due to an error:
+2023-02-12 11:14:48.927 [error] TypeError: TelemetrySender.sendEventData must be a function
+    at Function.validateSender (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:92:38355)
+    at Object.createTelemetryLogger (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:117:31905)
+    at new t.BaseTelemetryReporter (/home/rezikham/.vscode-oss/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:1111846)
+    at new h (/home/rezikham/.vscode-oss/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:1116985)
+    at /home/rezikham/.vscode-oss/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:677577
+    at c (/home/rezikham/.vscode-oss/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:677653)
+    at y.activate (/home/rezikham/.vscode-oss/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:156834)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at /home/rezikham/.vscode-oss/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:3078901
+    at e (/home/rezikham/.vscode-oss/extensions/ms-python.python-2022.20.2/out/client/extension.js:2:3078515)
+    at f.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6818)
+    at f.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6781)
+    at f.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:6238)
+2023-02-12 11:14:48.952 [info] Eager extensions activated
+2023-02-12 11:14:48.967 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-02-12 11:14:48.967 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+2023-02-12 11:14:49.374 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-12 11:14:49.374 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-12 11:14:49.872 [info] ExtensionService#_doActivateExtension KevinRose.vsc-python-indent, startup: false, activationEvent: 'onLanguage:python'
+2023-02-12 11:14:50.050 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-02-12 11:14:50.289 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-02-12 11:14:51.013 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-02-12 11:14:52.752 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-02-12 11:14:53.868 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-02-12 11:14:54.677 [error] [vscode.html-language-features] provider FAILED
+2023-02-12 11:14:54.677 [error] TypeError: Cannot read properties of undefined (reading 'name')
+    at Function.f (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:32819)
+    at i.provideDocumentSymbols (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:98:32580)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at processImmediate (node:internal/timers:437:9)
+2023-02-12 11:14:55.874 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-02-12 11:15:13.490 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-02-12 11:15:14.047 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-02-12 11:15:14.422 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-02-12 11:15:23.104 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-02-12 11:15:24.315 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-02-12 11:15:38.994 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-02-12 11:15:39.241 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-02-12 11:15:39.871 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-02-12 11:19:04.636 [info] Extension host terminating: received terminate message from renderer
+2023-02-12 11:19:04.885 [info] Extension host with pid 5359 exiting with code 0

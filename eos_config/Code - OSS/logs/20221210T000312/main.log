@@ -1,0 +1,5 @@
+2022-12-10 00:03:13.315 [info] update#ctor - updates are disabled as there is no update URL
+2022-12-10 00:03:14.347 [info] Starting extension host with pid 81822 (fork() took 8 ms).
+2022-12-10 00:05:11.843 [info] Extension host with pid 81822 exited with code: 0, signal: null.
+2022-12-10 00:05:12.871 [info] Starting extension host with pid 82294 (fork() took 6 ms).
+2022-12-10 00:20:16.526 [info] Extension host with pid 82294 exited with code: 0, signal: null.

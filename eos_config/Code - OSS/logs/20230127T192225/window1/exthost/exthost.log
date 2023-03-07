@@ -1,0 +1,348 @@
+2023-01-27 19:22:28.002 [info] Extension host with pid 35091 started
+2023-01-27 19:22:28.067 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-01-27 19:22:28.067 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-27 19:22:28.067 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: true, activationEvent: '*'
+2023-01-27 19:22:28.067 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: true, activationEvent: '*', root cause: Oracle.oracledevtools
+2023-01-27 19:22:28.068 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-01-27 19:22:28.341 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-27 19:22:28.341 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-27 19:22:28.342 [info] ExtensionService#_doActivateExtension Oracle.oracledevtools, startup: true, activationEvent: '*'
+2023-01-27 19:22:28.940 [error] Activating extension Oracle.oracledevtools failed due to an error:
+2023-01-27 19:22:28.940 [error] false
+2023-01-27 19:22:28.970 [info] Eager extensions activated
+2023-01-27 19:22:28.991 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-27 19:22:28.992 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-27 19:22:28.992 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-27 19:22:29.009 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-01-27 19:22:29.305 [error] Error: ENOENT: no such file or directory, open '/home/rezikham/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers'
+2023-01-27 19:22:31.831 [info] Extension host terminating: received terminate message from renderer
+2023-01-27 19:22:31.852 [error] Error: ENOENT: no such file or directory, open '/home/rezikham/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers'
+2023-01-27 19:22:31.852 [info] Extension host with pid 35091 exiting with code 0
+2023-01-27 19:22:33.134 [info] Extension host with pid 35277 started
+2023-01-27 19:22:33.134 [info] Skipping acquiring lock for /home/rezikham/.config/Code - OSS/User/workspaceStorage/9a2be55fc60106e7161b39f52838c769.
+2023-01-27 19:22:33.184 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-01-27 19:22:33.185 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-27 19:22:33.185 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: true, activationEvent: '*'
+2023-01-27 19:22:33.185 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: true, activationEvent: '*', root cause: Oracle.oracledevtools
+2023-01-27 19:22:33.185 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-01-27 19:22:33.427 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-27 19:22:33.427 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-27 19:22:33.428 [info] ExtensionService#_doActivateExtension Oracle.oracledevtools, startup: true, activationEvent: '*'
+2023-01-27 19:22:33.962 [error] Activating extension Oracle.oracledevtools failed due to an error:
+2023-01-27 19:22:33.962 [error] false
+2023-01-27 19:22:33.979 [info] Eager extensions activated
+2023-01-27 19:22:34.020 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-27 19:22:34.020 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-27 19:22:34.020 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-27 19:22:34.045 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-01-27 19:22:34.411 [error] Error: ENOENT: no such file or directory, open '/home/rezikham/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers'
+2023-01-27 19:22:40.763 [info] Extension host terminating: received terminate message from renderer
+2023-01-27 19:22:40.776 [error] Error: ENOENT: no such file or directory, open '/home/rezikham/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers'
+2023-01-27 19:22:40.777 [info] Extension host with pid 35277 exiting with code 0
+2023-01-27 19:22:42.202 [info] Extension host with pid 35395 started
+2023-01-27 19:22:42.202 [info] Skipping acquiring lock for /home/rezikham/.config/Code - OSS/User/workspaceStorage/84c553ec7cd8a9365b07dc914cabd754.
+2023-01-27 19:22:42.251 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-01-27 19:22:42.251 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-27 19:22:42.251 [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: true, activationEvent: '*'
+2023-01-27 19:22:42.252 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: true, activationEvent: '*', root cause: Oracle.oracledevtools
+2023-01-27 19:22:42.252 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-01-27 19:22:42.499 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-27 19:22:42.499 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-27 19:22:42.499 [info] ExtensionService#_doActivateExtension Oracle.oracledevtools, startup: true, activationEvent: '*'
+2023-01-27 19:22:43.036 [error] Activating extension Oracle.oracledevtools failed due to an error:
+2023-01-27 19:22:43.036 [error] false
+2023-01-27 19:22:43.037 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:*.py', root cause: ms-python.isort
+2023-01-27 19:22:43.311 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-01-27 19:22:43.409 [info] ExtensionService#_doActivateExtension ms-python.isort, startup: true, activationEvent: 'workspaceContains:*.py'
+2023-01-27 19:22:43.463 [info] Eager extensions activated
+2023-01-27 19:22:43.493 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-27 19:22:43.493 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-27 19:22:43.493 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-27 19:22:43.517 [error] Error: ENOENT: no such file or directory, open '/home/rezikham/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers'
+2023-01-27 19:22:46.223 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:25:23.460 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:26:14.392 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-27 19:26:14.393 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-27 19:26:14.393 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-01-27 19:35:22.946 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:36:22.081 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:36:23.885 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:36:32.281 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:41:00.186 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:41:04.285 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:41:22.503 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:22.503 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:22.503 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:22.503 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:22.503 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:22.503 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:22.503 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:22.503 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:22.503 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:23.505 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:23.505 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:23.505 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:23.505 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:23.505 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:23.505 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:23.505 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:23.505 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:23.506 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/asm' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.028 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.029 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.029 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.029 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.029 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.029 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.029 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.029 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:24.029 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.029 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.030 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.030 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.030 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.030 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.030 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.031 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.031 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.031 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.031 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.031 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.031 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.031 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.031 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.031 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.031 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.031 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.032 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.032 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.032 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.032 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.032 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.032 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.032 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.032 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.032 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.032 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.033 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.033 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.033 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.033 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.033 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.033 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.033 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.033 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.033 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.033 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.033 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.033 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.033 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.035 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.035 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:25.036 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.tst' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:26.990 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 19:41:39.792 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.792 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.792 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.792 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.792 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.792 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.792 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.792 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.792 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.792 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.792 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:39.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.760 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.793 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.794 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.794 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.794 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.794 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.794 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.794 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.794 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.794 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.794 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.794 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.794 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.794 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:40.794 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/Mux8Way16.hdl' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.761 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.761 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.762 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.762 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.762 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.762 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.762 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.762 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.762 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.762 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.762 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.762 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.764 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.764 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.764 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.765 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.765 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.765 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.765 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.765 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.765 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:41.765 [error] {"message":"Git error","stdout":"","stderr":"fatal: pathspec '/home/rezikham/repo/Deakin-Doc/SIT111/demo/FullAdder.cmp' is beyond a symbolic link\n","exitCode":128}
+2023-01-27 19:41:44.178 [error] Error: Error making request to nvim_call_function
+    at o.request (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Base.js:77:21)
+    at o.prefix [as call] (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:327:32)
+    at onBufferInit (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/node_modules/neovim/lib/api/Neovim.js:342:37)
+    at fe.<anonymous> (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/src/buffer_manager.ts:566:18)
+    at Generator.next (<anonymous>)
+    at o (/home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.95/dist/extension.js:1:222757)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2023-01-27 20:55:21.828 [info] Extension host terminating: received terminate message from renderer
+2023-01-27 20:55:22.193 [error] TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 't'
+    |     property '_readableState' -> object with constructor 'M'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 't.ConsoleForElectron'
+    --- property 'parent' closes the circle
+    at JSON.stringify (<anonymous>)
+    at /home/rezikham/.vscode-oss/extensions/vscodevim.vim-1.24.3/src/register/register.ts:333:16
+    at process.async (node:internal/process/task_queues:96:5)
+    at Object.e.deactivate (/home/rezikham/.vscode-oss/extensions/vscodevim.vim-1.24.3/extension.ts:64:8)
+    at async Promise.all (index 16)
+    at d.Q (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:106:9315)
+2023-01-27 20:55:22.197 [info] Extension host with pid 35395 exiting with code 0

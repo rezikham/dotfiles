@@ -1,0 +1,411 @@
+[2022-12-01 23:18:18.613] [info]  Checking for update
+[2022-12-01 23:18:18.622] [info]  Generated new staging user ID: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-01 23:18:19.248] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-01 23:19:36.514] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarYLNzr9/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarYLNzr9/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarYLNzr9/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarYLNzr9/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarYLNzr9/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarYLNzr9/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-02 14:15:30.040] [info]  Checking for update
+[2022-12-02 14:15:30.623] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-02 14:22:44.314] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarc2k6Ro/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarc2k6Ro/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwarc2k6Ro/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwarc2k6Ro/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarc2k6Ro/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarc2k6Ro/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-02 14:32:03.006] [info]  Checking for update
+[2022-12-02 14:32:03.605] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar7KzMbm/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar7KzMbm/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwar7KzMbm/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwar7KzMbm/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar7KzMbm/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar7KzMbm/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-02 14:32:03.608] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-02 18:27:27.950] [info]  Checking for update
+[2022-12-02 18:27:28.396] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-02 18:27:28.677] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarPt0uVR/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarPt0uVR/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarPt0uVR/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarPt0uVR/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarPt0uVR/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarPt0uVR/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-02 18:29:38.669] [info]  Checking for update
+[2022-12-02 18:29:39.372] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-02 18:32:09.588] [info]  Checking for update
+[2022-12-02 18:32:10.137] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-02 18:35:38.529] [info]  Checking for update
+[2022-12-02 18:35:38.586] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar0C3SZO/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar0C3SZO/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwar0C3SZO/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwar0C3SZO/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar0C3SZO/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar0C3SZO/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-03 01:54:33.428] [info]  Checking for update
+[2022-12-03 01:54:34.220] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-03 09:40:06.751] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarHXCo4I/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarHXCo4I/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarHXCo4I/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarHXCo4I/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarHXCo4I/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarHXCo4I/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-03 10:12:20.015] [info]  Checking for update
+[2022-12-03 10:12:20.475] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-03 10:19:39.344] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarAhXDyZ/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarAhXDyZ/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarAhXDyZ/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarAhXDyZ/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarAhXDyZ/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarAhXDyZ/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-03 15:18:25.800] [info]  Checking for update
+[2022-12-03 15:18:26.449] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-03 16:12:37.337] [info]  Checking for update
+[2022-12-03 16:12:37.760] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-04 04:12:32.345] [info]  Checking for update
+[2022-12-04 04:12:32.971] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-04 09:19:15.812] [info]  Checking for update
+[2022-12-04 09:19:16.217] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-04 10:24:07.645] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarLZI1XU/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarLZI1XU/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarLZI1XU/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarLZI1XU/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarLZI1XU/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarLZI1XU/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-04 10:24:08.957] [info]  Checking for update
+[2022-12-04 10:24:09.520] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-04 22:24:03.997] [info]  Checking for update
+[2022-12-04 22:24:04.757] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-05 10:24:03.983] [info]  Checking for update
+[2022-12-05 10:24:04.678] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-05 10:57:46.892] [info]  Checking for update
+[2022-12-05 10:57:47.366] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-05 11:06:18.523] [info]  Checking for update
+[2022-12-05 11:06:19.063] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-05 23:06:13.533] [info]  Checking for update
+[2022-12-05 23:06:14.026] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-06 11:06:13.543] [info]  Checking for update
+[2022-12-06 11:06:14.344] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-06 16:33:59.898] [info]  Checking for update
+[2022-12-06 16:34:00.297] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-07 00:51:59.391] [info]  Checking for update
+[2022-12-07 00:51:59.794] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-07 01:43:41.868] [info]  Checking for update
+[2022-12-07 01:43:42.308] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-07 08:24:53.678] [info]  Checking for update
+[2022-12-07 08:24:54.027] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-07 10:53:29.069] [info]  Checking for update
+[2022-12-07 10:53:29.607] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-07 11:07:29.736] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarsxooDn/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarsxooDn/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarsxooDn/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarsxooDn/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarsxooDn/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarsxooDn/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-07 11:07:54.055] [info]  Checking for update
+[2022-12-07 11:07:54.606] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-07 11:10:15.448] [info]  Checking for update
+[2022-12-07 11:10:15.947] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-07 11:10:18.106] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarTRp2Kg/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarTRp2Kg/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarTRp2Kg/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarTRp2Kg/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarTRp2Kg/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarTRp2Kg/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-07 11:14:47.096] [info]  Checking for update
+[2022-12-07 11:14:47.727] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-07 11:14:50.266] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwaronlp6e/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwaronlp6e/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwaronlp6e/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwaronlp6e/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwaronlp6e/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwaronlp6e/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-07 19:29:05.758] [info]  Checking for update
+[2022-12-07 19:29:06.323] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-07 21:15:46.801] [info]  Checking for update
+[2022-12-07 21:15:47.766] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-07 23:52:43.386] [info]  Checking for update
+[2022-12-07 23:52:43.962] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-08 11:13:26.249] [info]  Checking for update
+[2022-12-08 11:13:26.763] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-09 10:58:04.590] [info]  Checking for update
+[2022-12-09 10:58:05.058] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-10 16:27:24.812] [info]  Checking for update
+[2022-12-10 16:27:25.537] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-10 19:57:04.710] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarueVcZ5/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarueVcZ5/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarueVcZ5/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarueVcZ5/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarueVcZ5/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarueVcZ5/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-13 00:31:28.892] [info]  Checking for update
+[2022-12-13 00:31:29.565] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-13 12:31:23.904] [info]  Checking for update
+[2022-12-13 12:31:24.423] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-13 19:40:53.400] [info]  Checking for update
+[2022-12-13 19:40:54.030] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-13 19:49:32.152] [info]  Checking for update
+[2022-12-13 19:49:32.803] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-14 07:49:27.166] [info]  Checking for update
+[2022-12-14 07:49:27.818] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-14 11:47:10.763] [info]  Checking for update
+[2022-12-14 11:47:11.527] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-14 14:22:49.715] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarweioWW/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarweioWW/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarweioWW/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarweioWW/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarweioWW/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarweioWW/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-14 20:17:57.868] [info]  Checking for update
+[2022-12-14 20:17:58.506] [info]  Update for version 2022.11.0 is not available (latest version: 2022.11.0, downgrade is disallowed).
+[2022-12-15 08:17:52.886] [info]  Checking for update
+[2022-12-15 08:17:53.487] [info]  Staging percentage: 0.1, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-15 08:17:53.488] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-15 11:42:27.626] [info]  Checking for update
+[2022-12-15 11:42:28.049] [info]  Staging percentage: 0.1, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-15 11:42:28.050] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-15 13:30:29.211] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarBFTPD9/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarBFTPD9/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarBFTPD9/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarBFTPD9/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarBFTPD9/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarBFTPD9/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-15 13:35:52.942] [info]  Checking for update
+[2022-12-15 13:35:53.459] [info]  Staging percentage: 0.1, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-15 13:35:53.460] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-15 13:48:00.916] [info]  Checking for update
+[2022-12-15 13:48:01.318] [info]  Staging percentage: 0.1, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-15 13:48:01.319] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-16 06:40:29.871] [info]  Checking for update
+[2022-12-16 06:40:30.663] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-16 06:40:30.664] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-16 10:18:56.737] [info]  Checking for update
+[2022-12-16 10:18:57.316] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-16 10:18:57.316] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-16 11:03:23.476] [info]  Checking for update
+[2022-12-16 11:03:23.908] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-16 11:03:23.908] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-16 13:11:29.357] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarubGCLD/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarubGCLD/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarubGCLD/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarubGCLD/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarubGCLD/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarubGCLD/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-16 18:49:07.721] [info]  Checking for update
+[2022-12-16 18:49:08.235] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-16 18:49:08.236] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-16 23:49:22.080] [info]  Checking for update
+[2022-12-16 23:49:22.578] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-16 23:49:22.579] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-17 00:46:38.180] [info]  Checking for update
+[2022-12-17 00:46:39.741] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-17 00:46:39.741] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-17 00:51:25.565] [info]  Checking for update
+[2022-12-17 00:51:26.059] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-17 00:51:26.059] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-17 00:54:46.558] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarG9zlVK/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarG9zlVK/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarG9zlVK/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarG9zlVK/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarG9zlVK/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarG9zlVK/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-18 12:50:16.517] [info]  Checking for update
+[2022-12-18 12:50:17.287] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-18 12:50:17.288] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-18 13:48:48.646] [info]  Checking for update
+[2022-12-18 13:48:49.109] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-18 13:48:49.109] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-18 22:55:59.882] [info]  Checking for update
+[2022-12-18 22:56:00.665] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-18 22:56:00.665] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-18 23:36:30.772] [info]  Checking for update
+[2022-12-18 23:36:31.632] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-18 23:36:31.632] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-18 23:51:44.828] [info]  Checking for update
+[2022-12-18 23:51:45.539] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-18 23:51:45.540] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-19 11:51:39.309] [info]  Checking for update
+[2022-12-19 11:51:40.093] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-19 11:51:40.093] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-19 17:14:27.210] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarkIcYeY/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarkIcYeY/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarkIcYeY/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarkIcYeY/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarkIcYeY/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarkIcYeY/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-20 18:06:54.157] [info]  Checking for update
+[2022-12-20 18:06:54.714] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-20 18:06:54.714] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-21 06:06:49.188] [info]  Checking for update
+[2022-12-21 06:06:50.357] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-21 06:06:50.357] [info]  Update for version 2022.11.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-21 08:44:16.726] [info]  Checking for update
+[2022-12-21 08:44:17.284] [info]  Staging percentage: 1, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2022-12-21 08:44:17.285] [info]  Found version 2022.12.0 (url: Bitwarden-2022.12.0-x86_64.AppImage)
+[2022-12-21 08:44:17.285] [info]  Downloading update from Bitwarden-2022.12.0-x86_64.AppImage
+[2022-12-21 08:44:17.727] [info]  File has 305 changed blocks
+[2022-12-21 08:44:17.748] [info]  Full: 89,963.64 KB, To download: 6,170.4 KB (7%)
+[2022-12-21 08:44:17.808] [error] Cannot download differentially, fallback to full download: HttpError: 400 Bad Request
+Headers: {
+  "date": "Tue, 20 Dec 2022 21:44:18 GMT",
+  "content-type": "text/html",
+  "transfer-encoding": "chunked",
+  "connection": "keep-alive",
+  "vary": "Accept-Encoding",
+  "cf-cache-status": "DYNAMIC",
+  "set-cookie": [
+    "__cf_bm=p8dF5PxewPZUE0SmEy1dYhbL0t03hBkpzGUTSh_XKO4-1671572658-0-ASKRxnP5VfhkIb2QOREXdXKyuvD604pcwvBJdcVGaXjxBuic05yBf+YwDITQvHXlwSB2owAuv0kcnWjr4QfG/ls=; path=/; expires=Tue, 20-Dec-22 22:14:18 GMT; domain=.bitwarden.com; HttpOnly; Secure; SameSite=None"
+  ],
+  "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+  "x-content-type-options": "nosniff",
+  "server": "cloudflare",
+  "cf-ray": "77cb8ef8faa9f2f1-ADL"
+}
+    at Object.createHttpError (/tmp/.mount_BitwarOsRAzX/resources/app.asar/main.js:10642:12)
+    at checkIsRangesSupported (/tmp/.mount_BitwarOsRAzX/resources/app.asar/main.js:18075:39)
+    at ClientRequest.<anonymous> (/tmp/.mount_BitwarOsRAzX/resources/app.asar/main.js:18050:14)
+    at ClientRequest.emit (node:events:526:28)
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:6917)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+[2022-12-21 08:44:25.642] [info]  New version 2022.12.0 has been downloaded to /home/rezikham/.cache/bitwarden-updater/pending/Bitwarden-2022.12.0-x86_64.AppImage
+[2022-12-21 08:44:30.769] [info]  Install on explicit quitAndInstall
+[2022-12-21 08:44:30.770] [info]  Install: isSilent: true, isForceRunAfter: true
+[2022-12-21 08:44:30.797] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarOsRAzX/resources/app.asar/main.js:50014:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarOsRAzX/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarOsRAzX/resources/app.asar/main.js:49824:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarOsRAzX/resources/app.asar/main.js:50009:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarOsRAzX/resources/app.asar/main.js:49963:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarOsRAzX/resources/app.asar/main.js:49828:71
+    at new Promise (<anonymous>)
+[2022-12-21 08:44:30.798] [info]  Update installer has already been triggered. Quitting application.
+[2022-12-21 08:44:41.933] [info]  Checking for update
+[2022-12-21 08:44:42.534] [info]  Update for version 2022.12.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-21 09:10:38.806] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarRNMzul/resources/app.asar/main.js:50081:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarRNMzul/resources/app.asar/main.js:49895:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarRNMzul/resources/app.asar/main.js:49891:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarRNMzul/resources/app.asar/main.js:50076:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarRNMzul/resources/app.asar/main.js:50030:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarRNMzul/resources/app.asar/main.js:49895:71
+    at new Promise (<anonymous>)
+[2022-12-23 17:07:51.860] [info]  Checking for update
+[2022-12-23 17:07:52.739] [info]  Update for version 2022.12.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-24 05:07:46.888] [info]  Checking for update
+[2022-12-24 05:07:47.658] [info]  Update for version 2022.12.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-24 16:49:44.831] [info]  Checking for update
+[2022-12-24 16:49:45.353] [info]  Update for version 2022.12.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-25 04:49:39.865] [info]  Checking for update
+[2022-12-25 04:49:40.946] [info]  Update for version 2022.12.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-25 16:49:39.878] [info]  Checking for update
+[2022-12-25 16:49:40.752] [info]  Update for version 2022.12.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2022-12-26 04:49:39.866] [info]  Checking for update
+[2022-12-26 04:49:40.570] [info]  Update for version 2022.12.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2023-01-05 22:10:53.961] [info]  Checking for update
+[2023-01-05 22:10:54.753] [info]  Update for version 2022.12.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2023-01-06 10:10:48.991] [info]  Checking for update
+[2023-01-06 10:10:51.355] [info]  Update for version 2022.12.0 is not available (latest version: 2022.12.0, downgrade is disallowed).
+[2023-01-15 15:39:40.104] [info]  Checking for update
+[2023-01-15 15:39:40.723] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2023-01-15 15:39:40.723] [info]  Update for version 2022.12.0 is not available (latest version: 2023.1.1, downgrade is disallowed).
+[2023-02-10 14:21:36.679] [info]  Checking for update
+[2023-02-10 14:21:37.266] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7169)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+[2023-02-18 08:35:47.182] [info]  Checking for update
+[2023-02-18 08:35:47.569] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2023-02-18 08:35:47.570] [info]  Update for version 2022.12.0 is not available (latest version: 2023.2.0, downgrade is disallowed).
+[2023-02-18 21:43:13.467] [info]  Checking for update
+[2023-02-18 21:43:13.886] [info]  Staging percentage: 0.3, percentage: 0.679769318243435, user id: ec3e1f87-306f-58d1-b22c-1840ae055cae
+[2023-02-18 21:43:13.887] [info]  Update for version 2022.12.0 is not available (latest version: 2023.2.0, downgrade is disallowed).

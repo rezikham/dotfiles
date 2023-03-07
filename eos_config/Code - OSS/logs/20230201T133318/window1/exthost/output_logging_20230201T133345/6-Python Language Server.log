@@ -1,0 +1,74 @@
+[Info  - 1:33:47 pm] (13556) Pylance language server 2023.1.40 (pyright e96b3ece) starting
+[Info  - 1:33:47 pm] (13556) Server root directory: /home/rezikham/.vscode-oss/extensions/ms-python.vscode-pylance-2023.1.40/dist
+[Info  - 1:33:47 pm] (13556) Starting service instance "SIT112"
+[Info  - 1:33:47 pm] (13556) No configuration file found.
+[Info  - 1:33:47 pm] (13556) No pyproject.toml file found.
+[Info  - 1:33:47 pm] (13556) Setting pythonPath for service "SIT112": "/usr/bin/python"
+[Warn  - 1:33:47 pm] (13556) stubPath /home/rezikham/repo/Deakin-Doc/SIT112/typings is not a valid directory.
+[Info  - 1:33:47 pm] (13556) Assuming Python version 3.10
+[Info  - 1:33:47 pm] (13556) Assuming Python platform Linux
+[Info  - 1:33:47 pm] (13556) Searching for source files
+[Info  - 1:33:47 pm] (13556) Found 3 source files
+[Info  - 1:33:47 pm] (13556) Background analysis(1) root directory: /home/rezikham/.vscode-oss/extensions/ms-python.vscode-pylance-2023.1.40/dist
+[Info  - 1:33:47 pm] (13556) Background analysis(1) started
+[Info  - 1:33:48 pm] (13556) Starting service instance "/home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb"
+[Info  - 1:33:48 pm] (13556) No configuration file found.
+[Info  - 1:33:48 pm] (13556) No pyproject.toml file found.
+[Info  - 1:33:48 pm] (13556) Setting pythonPath for service "/home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb": "/usr/bin/python"
+[Warn  - 1:33:48 pm] (13556) stubPath /home/rezikham/repo/Deakin-Doc/SIT112/typings is not a valid directory.
+[Info  - 1:33:49 pm] (13556) Assuming Python version 3.10
+[Info  - 1:33:49 pm] (13556) Assuming Python platform Linux
+[Info  - 1:33:49 pm] (13556) Searching for source files
+[Info  - 1:33:49 pm] (13556) No source files found.
+[Info  - 1:33:49 pm] (13556) Background analysis(2) root directory: /home/rezikham/.vscode-oss/extensions/ms-python.vscode-pylance-2023.1.40/dist
+[Info  - 1:33:49 pm] (13556) Background analysis(2) started
+[Info  - 1:33:52 pm] (13556) [BG(2)] Long operation: checking: /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb:pylance-notebook-cell:X10sZmlsZQ==.py (2409ms)
+[Info  - 1:33:52 pm] (13556) [BG(2)] Long operation: analyzing: /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb:pylance-notebook-cell:X10sZmlsZQ==.py (2409ms)
+[Info  - 1:39:59 pm] (13556) Starting service instance "/home/rezikham/repo/Deakin-Doc/SIT112/Week7/prac7.ipynb"
+[Info  - 1:39:59 pm] (13556) No configuration file found.
+[Info  - 1:39:59 pm] (13556) No pyproject.toml file found.
+[Info  - 1:39:59 pm] (13556) Setting pythonPath for service "/home/rezikham/repo/Deakin-Doc/SIT112/Week7/prac7.ipynb": "/usr/bin/python"
+[Warn  - 1:39:59 pm] (13556) stubPath /home/rezikham/repo/Deakin-Doc/SIT112/typings is not a valid directory.
+[Info  - 1:39:59 pm] (13556) Assuming Python version 3.10
+[Info  - 1:39:59 pm] (13556) Assuming Python platform Linux
+[Info  - 1:39:59 pm] (13556) Searching for source files
+[Info  - 1:39:59 pm] (13556) No source files found.
+[Info  - 1:40:00 pm] (13556) Background analysis(3) root directory: /home/rezikham/.vscode-oss/extensions/ms-python.vscode-pylance-2023.1.40/dist
+[Info  - 1:40:00 pm] (13556) Background analysis(3) started
+[Info  - 1:44:10 pm] (13556) Starting service instance "/home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb"
+[Info  - 1:44:10 pm] (13556) No configuration file found.
+[Info  - 1:44:10 pm] (13556) No pyproject.toml file found.
+[Info  - 1:44:10 pm] (13556) Setting pythonPath for service "/home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb": "/usr/bin/python"
+[Warn  - 1:44:10 pm] (13556) stubPath /home/rezikham/repo/Deakin-Doc/SIT112/typings is not a valid directory.
+[Info  - 1:44:10 pm] (13556) Assuming Python version 3.10
+[Info  - 1:44:10 pm] (13556) Assuming Python platform Linux
+[Info  - 1:44:10 pm] (13556) Searching for source files
+[Info  - 1:44:10 pm] (13556) No source files found.
+[Info  - 1:44:10 pm] (13556) Background analysis(4) root directory: /home/rezikham/.vscode-oss/extensions/ms-python.vscode-pylance-2023.1.40/dist
+[Info  - 1:44:10 pm] (13556) Background analysis(4) started
+[Info  - 1:44:13 pm] (13556) [BG(4)] Long operation: checking: /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb:pylance-notebook-cell:X10sZmlsZQ==.py (2253ms)
+[Info  - 1:44:13 pm] (13556) [BG(4)] Long operation: analyzing: /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb:pylance-notebook-cell:X10sZmlsZQ==.py (2254ms)
+[Info  - 1:44:16 pm] (13556) No configuration file found.
+[Info  - 1:44:16 pm] (13556) No pyproject.toml file found.
+[Info  - 1:44:16 pm] (13556) Setting pythonPath for service "/home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb": "/usr/bin/python"
+[Warn  - 1:44:16 pm] (13556) stubPath /home/rezikham/repo/Deakin-Doc/SIT112/typings is not a valid directory.
+[Info  - 1:44:16 pm] (13556) Assuming Python version 3.10
+[Info  - 1:44:16 pm] (13556) Assuming Python platform Linux
+[Info  - 1:44:16 pm] (13556) Searching for source files
+[Info  - 1:44:16 pm] (13556) Found 20 source files
+[Info  - 1:44:17 pm] (13556) No configuration file found.
+[Info  - 1:44:17 pm] (13556) No pyproject.toml file found.
+[Info  - 1:44:17 pm] (13556) Setting pythonPath for service "/home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb": "/usr/bin/python"
+[Warn  - 1:44:17 pm] (13556) stubPath /home/rezikham/repo/Deakin-Doc/SIT112/typings is not a valid directory.
+[Info  - 1:44:17 pm] (13556) Assuming Python version 3.10
+[Info  - 1:44:17 pm] (13556) Assuming Python platform Linux
+[Info  - 1:44:17 pm] (13556) Searching for source files
+[Info  - 1:44:17 pm] (13556) Found 20 source files
+[Info  - 1:44:17 pm] (13556) No configuration file found.
+[Info  - 1:44:17 pm] (13556) No pyproject.toml file found.
+[Info  - 1:44:17 pm] (13556) Setting pythonPath for service "/home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb": "/usr/bin/python"
+[Warn  - 1:44:17 pm] (13556) stubPath /home/rezikham/repo/Deakin-Doc/SIT112/typings is not a valid directory.
+[Info  - 1:44:18 pm] (13556) Assuming Python version 3.10
+[Info  - 1:44:18 pm] (13556) Assuming Python platform Linux
+[Info  - 1:44:18 pm] (13556) Searching for source files
+[Info  - 1:44:18 pm] (13556) Found 20 source files

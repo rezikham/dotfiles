@@ -1,0 +1,9 @@
+# /home/rezikham/.config/systemd/user/tmux-save.timer
+[Unit]
+Description=Run each ten minutes
+
+[Timer]
+OnCalendar=*:0/10
+
+[Install]
+WantedBy=timers.target

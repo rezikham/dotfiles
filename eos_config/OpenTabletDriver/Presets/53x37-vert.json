@@ -1,0 +1,633 @@
+{
+  "Profiles": [
+    {
+      "Tablet": "Wacom CTL-472",
+      "OutputMode": {
+        "Path": "OpenTabletDriver.Desktop.Output.AbsoluteMode",
+        "Settings": [],
+        "Enable": true
+      },
+      "Filters": [
+        {
+          "Path": "TabletDriverFilters.Devocub.Antichatter",
+          "Settings": [
+            {
+              "Property": "AntichatterMultiplier",
+              "Value": 1.0
+            },
+            {
+              "Property": "AntichatterOffsetX",
+              "Value": null
+            },
+            {
+              "Property": "PredictionEnabled",
+              "Value": null
+            },
+            {
+              "Property": "PredictionSharpness",
+              "Value": 1.0
+            },
+            {
+              "Property": "PredictionOffsetX",
+              "Value": 3.0
+            },
+            {
+              "Property": "PredictionOffsetY",
+              "Value": 0.3
+            },
+            {
+              "Property": "Frequency",
+              "Value": 1000.0
+            },
+            {
+              "Property": "PredictionStrength",
+              "Value": 1.0
+            },
+            {
+              "Property": "AntichatterOffsetY",
+              "Value": 1.0
+            },
+            {
+              "Property": "Latency",
+              "Value": 10.0
+            },
+            {
+              "Property": "AntichatterStrength",
+              "Value": 5.0
+            }
+          ],
+          "Enable": true
+        },
+        {
+          "Path": "Circular_Area.Circular_FG_Squircular_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Simple_Stretch_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Elliptical_Grid_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Horizontal_Squelch_Open_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Lamé_based_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Non_axial_2_Pinch_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Non_axial_Half_Punch_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Power2_Blend_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Sham_Quartic_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Simple_Stretch",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Squelched_Grid_Open_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Squelched_Grid_Open_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Tapered4_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_3_Squircular_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_2_Squircular_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Approximate_Equal_Area",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Approximate_Equal_Area_2_Vertical",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_FG_Squircular_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_2_Squircular_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Power2_Blend",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Horizontal_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_3_Squircular_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Power3_Blend_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": 0.6
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Tapered4_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Power3_Blend",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": 0.6
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Non_axial_Half_Punch_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Non_axial_2_Pinch_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Lamé_based_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Horizontal_Squelch_Open_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Elliptical_Grid_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Cornerific_Tapered2_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Concentric_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Blended_E_Grid_Mapping_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Concentric_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Blended_E_Grid_Mapping",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Vertical",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Blended_Mapping_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Approximate_Equal_Area_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Approximate_Equal_Area_2_Horizontal",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Horizontal",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Blended_Mapping",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Cornerific_Tapered2_Mapping",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Biased_Squelch_Vertical_Inverse",
+          "Settings": [
+            {
+              "Property": "B_raw",
+              "Value": null
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "RadialFollow.RadialFollowSmoothingTabletSpace",
+          "Settings": [
+            {
+              "Property": "OuterRadius",
+              "Value": 1.0
+            },
+            {
+              "Property": "InnerRadius",
+              "Value": 0.0
+            },
+            {
+              "Property": "SmoothingCoefficient",
+              "Value": 0.95
+            },
+            {
+              "Property": "SoftKneeScale",
+              "Value": 1.0
+            },
+            {
+              "Property": "SmoothingLeakCoefficient",
+              "Value": 0.0
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "RadialFollow.RadialFollowSmoothingScreenSpace",
+          "Settings": [
+            {
+              "Property": "OuterRadius",
+              "Value": 5.0
+            },
+            {
+              "Property": "InnerRadius",
+              "Value": 0.0
+            },
+            {
+              "Property": "SmoothingCoefficient",
+              "Value": 0.95
+            },
+            {
+              "Property": "SoftKneeScale",
+              "Value": 1.0
+            },
+            {
+              "Property": "SmoothingLeakCoefficient",
+              "Value": 0.0
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "VoiDPlugins.Filter.Reconstructor",
+          "Settings": [
+            {
+              "Property": "EMAWeight",
+              "Value": 0.63
+            }
+          ],
+          "Enable": false
+        }
+      ],
+      "AbsoluteModeSettings": {
+        "Display": {
+          "Width": 1920.0,
+          "Height": 1080.0,
+          "X": 960.0,
+          "Y": 540.0,
+          "Rotation": 0.0
+        },
+        "Tablet": {
+          "Width": 50.399,
+          "Height": 35.0,
+          "X": 112.48445,
+          "Y": 70.58958,
+          "Rotation": 180.0
+        },
+        "EnableClipping": false,
+        "EnableAreaLimiting": false,
+        "LockAspectRatio": false
+      },
+      "RelativeModeSettings": {
+        "XSensitivity": 60.0,
+        "YSensitivity": 60.0,
+        "RelativeRotation": 0.0,
+        "RelativeResetDelay": "00:00:00.1000000"
+      },
+      "Bindings": {
+        "TipActivationThreshold": 0.0,
+        "TipButton": {
+          "Path": "OpenTabletDriver.Desktop.Binding.MouseBinding",
+          "Settings": [
+            {
+              "Property": "Button",
+              "Value": "Left"
+            }
+          ],
+          "Enable": true
+        },
+        "EraserActivationThreshold": 0.0,
+        "EraserButton": null,
+        "PenButtons": [
+          {
+            "Path": "OpenTabletDriver.Desktop.Binding.MouseBinding",
+            "Settings": [
+              {
+                "Property": "Button",
+                "Value": "Middle"
+              }
+            ],
+            "Enable": true
+          },
+          {
+            "Path": "OpenTabletDriver.Desktop.Binding.MouseBinding",
+            "Settings": [
+              {
+                "Property": "Button",
+                "Value": "Right"
+              }
+            ],
+            "Enable": true
+          }
+        ],
+        "AuxButtons": [],
+        "MouseButtons": [],
+        "MouseScrollUp": null,
+        "MouseScrollDown": null
+      }
+    },
+    {
+      "Tablet": "XP-Pen Star G640",
+      "OutputMode": {
+        "Path": "OpenTabletDriver.Desktop.Output.AbsoluteMode",
+        "Settings": [],
+        "Enable": true
+      },
+      "Filters": [
+        {
+          "Path": "TabletDriverFilters.Devocub.Antichatter",
+          "Settings": [
+            {
+              "Property": "AntichatterMultiplier",
+              "Value": 1.0
+            },
+            {
+              "Property": "AntichatterOffsetX",
+              "Value": null
+            },
+            {
+              "Property": "PredictionEnabled",
+              "Value": null
+            },
+            {
+              "Property": "PredictionStrength",
+              "Value": 1.1
+            },
+            {
+              "Property": "PredictionSharpness",
+              "Value": 1.0
+            },
+            {
+              "Property": "PredictionOffsetX",
+              "Value": 3.0
+            },
+            {
+              "Property": "PredictionOffsetY",
+              "Value": 0.3
+            },
+            {
+              "Property": "Frequency",
+              "Value": 1000.0
+            },
+            {
+              "Property": "Latency",
+              "Value": 10.0
+            },
+            {
+              "Property": "AntichatterOffsetY",
+              "Value": 0.0
+            },
+            {
+              "Property": "AntichatterStrength",
+              "Value": 10.0
+            }
+          ],
+          "Enable": false
+        },
+        {
+          "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping_Inverse",
+          "Settings": [],
+          "Enable": false
+        },
+        {
+          "Path": "RadialFollow.RadialFollowSmoothingTabletSpace",
+          "Settings": [
+            {
+              "Property": "OuterRadius",
+              "Value": 1.0
+            },
+            {
+              "Property": "InnerRadius",
+              "Value": 0.0
+            },
+            {
+              "Property": "SmoothingCoefficient",
+              "Value": 0.95
+            },
+            {
+              "Property": "SoftKneeScale",
+              "Value": 1.0
+            },
+            {
+              "Property": "SmoothingLeakCoefficient",
+              "Value": 0.0
+            }
+          ],
+          "Enable": true
+        },
+        {
+          "Path": "Circular_Area.Circular_Vertical_Squelch_Open_Mapping",
+          "Settings": [],
+          "Enable": false
+        }
+      ],
+      "AbsoluteModeSettings": {
+        "Display": {
+          "Width": 1920.0,
+          "Height": 1080.0,
+          "X": 960.0,
+          "Y": 540.0,
+          "Rotation": 0.0
+        },
+        "Tablet": {
+          "Width": 53.28,
+          "Height": 37.0,
+          "X": 49.774574,
+          "Y": 61.990425,
+          "Rotation": 270.0
+        },
+        "EnableClipping": true,
+        "EnableAreaLimiting": false,
+        "LockAspectRatio": false
+      },
+      "RelativeModeSettings": {
+        "XSensitivity": 10.0,
+        "YSensitivity": 10.0,
+        "RelativeRotation": 0.0,
+        "RelativeResetDelay": "00:00:00.1000000"
+      },
+      "Bindings": {
+        "TipActivationThreshold": 0.0,
+        "TipButton": {
+          "Path": "OpenTabletDriver.Desktop.Binding.MouseBinding",
+          "Settings": [
+            {
+              "Property": "Button",
+              "Value": "Left"
+            }
+          ],
+          "Enable": true
+        },
+        "EraserActivationThreshold": 0.0,
+        "EraserButton": {
+          "Path": "OpenTabletDriver.Desktop.Binding.LinuxArtistMode.LinuxArtistModeButtonBinding",
+          "Settings": [
+            {
+              "Property": "Button",
+              "Value": "Pen Button 1"
+            }
+          ],
+          "Enable": true
+        },
+        "PenButtons": [
+          null,
+          null
+        ],
+        "AuxButtons": [],
+        "MouseButtons": [],
+        "MouseScrollUp": null,
+        "MouseScrollDown": null
+      }
+    }
+  ],
+  "LockUsableAreaDisplay": true,
+  "LockUsableAreaTablet": false,
+  "Tools": []
+}

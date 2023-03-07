@@ -1,0 +1,431 @@
+[10:30:00:848] Translator::loadCatalog: can't load "qt_en_AU" from "/usr/share/smplayer/translations"
+[10:30:00:849] Translator::loadCatalog: successfully loaded "qt_en_AU" from "/usr/share/qt/translations"
+[10:30:00:849] Translator::loadCatalog: can't load "qtbase_en_AU" from "/usr/share/smplayer/translations"
+[10:30:00:849] Translator::loadCatalog: successfully loaded "qtbase_en_AU" from "/usr/share/qt/translations"
+[10:30:00:849] Translator::loadCatalog: successfully loaded "smplayer_en_AU" from "/usr/share/smplayer/translations"
+[10:30:00:849] This is SMPlayer v. 22.7.0 (revision 10091) running on Linux
+[10:30:00:849] Compiled with Qt v. 5.15.7, using 5.15.8
+[10:30:00:849]  * application path: "/usr/bin"
+[10:30:00:849]  * data path: "/usr/share/smplayer"
+[10:30:00:849]  * translation path: "/usr/share/smplayer/translations"
+[10:30:00:849]  * doc path: "/usr/share/doc/smplayer"
+[10:30:00:849]  * themes path: "/usr/share/smplayer/themes"
+[10:30:00:849]  * shortcuts path: "/usr/share/smplayer/shortcuts"
+[10:30:00:849]  * config path: "/home/rezikham/.config/smplayer"
+[10:30:00:849]  * ini path: "/home/rezikham/.config/smplayer"
+[10:30:00:849]  * file for subtitles' styles: "/home/rezikham/.config/smplayer/styles.ass"
+[10:30:00:849]  * current path: "/home/rezikham"
+[10:30:00:849] main: hdpi_config_path: "/home/rezikham/.config/smplayer"
+[10:30:00:849] SMPlayer::processArgs: arguments: 1
+[10:30:00:849] SMPlayer::processArgs: 0 = /usr/bin/smplayer
+[10:30:00:849] SMPlayer::processArgs: files_to_play: count: 0
+[10:30:00:849] SMPlayer::gui: changed working directory to app path
+[10:30:00:849] SMPlayer::gui: current directory: /usr/bin
+[10:30:00:861] ScreenHelper::setAutoHideCursor: 0
+[10:30:00:864] MediaSettings::reset
+[10:30:00:864] Core::changeFileSettingsMethod: hash
+[10:30:00:864] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[10:30:00:864] PlayerProcess::createPlayerProcess: creating MPVProcess
+[10:30:00:864] MyProcess::MyProcess: bin_path: "/home/rezikham/bin"
+[10:30:00:864] MyProcess::MyProcess: PATH: "/home/rezikham/anaconda3/condabin:/home/rezikham/.local/bin/:/home/rezikham/.config/fish/color:/home/rezikham/.config/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
+[10:30:00:864] MyProcess::MyProcess: paths: ("/home/rezikham/anaconda3/condabin", "/home/rezikham/.local/bin/", "/home/rezikham/.config/fish/color", "/home/rezikham/.config/bin", "/usr/local/sbin", "/usr/local/bin", "/usr/bin", "/usr/bin/site_perl", "/usr/bin/vendor_perl", "/usr/bin/core_perl")
+[10:30:00:864] MyProcess::MyProcess: PATH: "/home/rezikham/bin:/home/rezikham/anaconda3/condabin:/home/rezikham/.local/bin/:/home/rezikham/.config/fish/color:/home/rezikham/.config/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
+[10:30:00:864] MPVProcess::initializeOptionVars
+[10:30:00:864] MPVProcess::MPVProcess: socket_name: "/tmp/smplayer-mpv-fb11"
+[10:30:00:864] MediaSettings::reset
+[10:30:00:864] VideoLayer::setRepaintBackground: 1
+[10:30:00:864] Preferences::monitor_aspect_double
+[10:30:00:864]  warning: monitor_aspect couldn't be parsed!
+[10:30:00:864]  monitor_aspect set to 0
+[10:30:00:865] PowerSaving::PowerSaving: interface is valid
+[10:30:00:892] Playlist::setModified: 0
+[10:30:00:892] Playlist::updateWindowTitle: "Untitled playlist"
+[10:30:00:893] WARNING: libpng warning: iCCP: known incorrect sRGB profile
+[10:30:00:910] Recents::addItem: 'http://smplayer.info/sample.m3u8'
+[10:30:00:910] Playlist::setConfigPath: "/home/rezikham/.config/smplayer"
+[10:30:00:910] Playlist::setConfigPath: ini file: "/home/rezikham/.config/smplayer/playlist.ini"
+[10:30:00:911] Playlist::loadSettings
+[10:30:00:911] Helper::qtVersion: 6508
+[10:30:00:911] Playlist::updateWindowTitle: "Untitled playlist"
+[10:30:00:911] Playlist::setModified: 0
+[10:30:00:911] Playlist::updateWindowTitle: "Untitled playlist"
+[10:30:00:915] BaseGui::BaseGui: default_style: ""
+[10:30:00:915] Favorites::load
+[10:30:00:915] Favorites::load
+[10:30:00:916] TVList::parse_channels_conf
+[10:30:00:916] VList::parse_channels_conf: /home/rezikham/.mplayer/channels.conf.ter doesn't exist
+[10:30:00:916] TVList::parse_channels_conf: can't open /home/rezikham/.mplayer/channels.conf
+[10:30:00:916] Favorites::load
+[10:30:00:916] TVList::parse_channels_conf
+[10:30:00:916] VList::parse_channels_conf: /home/rezikham/.mplayer/channels.conf.ter doesn't exist
+[10:30:00:916] TVList::parse_channels_conf: can't open /home/rezikham/.mplayer/channels.conf
+[10:30:00:919] BaseGui::initializeMenus
+[10:30:00:919] BaseGui::updateBookmarks
+[10:30:00:920] WARNING: libpng warning: iCCP: known incorrect sRGB profile
+[10:30:00:920] WARNING: libpng warning: iCCP: known incorrect sRGB profile
+[10:30:00:920] WARNING: libpng warning: iCCP: known incorrect sRGB profile
+[10:30:00:924] WARNING: libpng warning: iCCP: known incorrect sRGB profile
+[10:30:00:925] WARNING: libpng warning: iCCP: known incorrect sRGB profile
+[10:30:00:926] BaseGui::initializeMenus
+[10:30:00:927] BaseGui::updateBookmarks
+[10:30:00:927] BaseGui::updateRecents
+[10:30:00:927] BaseGui::updateWidgets
+[10:30:00:927] Core::changeUseCustomSubStyle: 1
+[10:30:00:927] Core::changeSubVisilibity: 1
+[10:30:00:927] Core::displayMessage
+[10:30:00:927] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[10:30:00:927] BaseGui::setupNetworkProxy
+[10:30:00:927] BaseGui::setupNetworkProxy: no proxy
+[10:30:00:927] BaseGui::setStayOnTop: 0
+[10:30:00:927] BaseGui::setStayOnTop: nothing to do
+[10:30:00:927] BaseGui::updateWidgets
+[10:30:00:927] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[10:30:00:927] BaseGui::updateRecents
+[10:30:00:927] UpdateChecker::UpdateChecker: enabled: true
+[10:30:00:927] UpdateChecker::UpdateChecker: days_to_check: 7
+[10:30:00:927] UpdateChecker::UpdateChecker: days since last check: 0
+[10:30:00:929] BaseGuiPlus::updateSendToScreen
+[10:30:00:930] BaseGuiPlus::updateSendAudioMenu
+[10:30:00:930] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[10:30:00:930] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[10:30:00:930] DeviceInfo::mpvAudioDevices
+[10:30:01:005] DeviceInfo::mpvAudioDevices: "List of detected audio devices:"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'auto' (Autoselect device)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'pipewire' (Default (pipewire))"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'pipewire/alsa_output.usb-iFi__by_AMR__iFi__by_AMR__HD_USB_Audio_0000-00.iec958-stereo' (iFi (by AMR) HD USB Audio Digital Stereo (IEC958))"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'pipewire/alsa_output.pci-0000_07_00.6.analog-stereo' (Family 17h/19h HD Audio Controller Analog Stereo)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'pipewire/alsa_output.pci-0000_07_00.1.hdmi-stereo' (Renoir Radeon High Definition Audio Controller Digital Stereo (HDMI))"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'pulse/alsa_output.usb-iFi__by_AMR__iFi__by_AMR__HD_USB_Audio_0000-00.iec958-stereo' (iFi (by AMR) HD USB Audio Digital Stereo (IEC958))"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: device: "alsa_output.usb-iFi__by_AMR__iFi__by_AMR__HD_USB_Audio_0000-00.iec958-stereo" name: "iFi (by AMR) HD USB Audio Digital Stereo (IEC958)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'pulse/alsa_output.pci-0000_07_00.6.analog-stereo' (Family 17h/19h HD Audio Controller Analog Stereo)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: device: "alsa_output.pci-0000_07_00.6.analog-stereo" name: "Family 17h/19h HD Audio Controller Analog Stereo"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'pulse/alsa_output.pci-0000_07_00.1.hdmi-stereo' (Renoir Radeon High Definition Audio Controller Digital Stereo (HDMI))"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: device: "alsa_output.pci-0000_07_00.1.hdmi-stereo" name: "Renoir Radeon High Definition Audio Controller Digital Stereo (HDMI)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa' (Default (alsa))"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/lavrate' (Rate Converter Plugin Using Libav/FFmpeg Library)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/samplerate' (Rate Converter Plugin Using Samplerate Library)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/speexrate' (Rate Converter Plugin Using Speex Resampler)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/jack' (JACK Audio Connection Kit)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/oss' (Open Sound System)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/pipewire' (PipeWire Sound Server)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/speex' (Plugin using Speex DSP (resample, agc, denoise, echo, dereverb))"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/upmix' (Plugin for channel upmix (4,6,8))"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/vdownmix' (Plugin for channel downmix (stereo) with a simple spacialization)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=NVidia,DEV=0' (HDA NVidia, HDMI 0/HDMI Audio Output)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=NVidia,DEV=1' (HDA NVidia, HDMI 1/HDMI Audio Output)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=NVidia,DEV=2' (HDA NVidia, HDMI 2/HDMI Audio Output)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=NVidia,DEV=3' (HDA NVidia, HDMI 3/HDMI Audio Output)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/usbstream:CARD=NVidia' (HDA NVidia/USB Stream Output)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/hdmi:CARD=Generic,DEV=0' (HD-Audio Generic, MSI G27C6/HDMI Audio Output)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/usbstream:CARD=Generic' (HD-Audio Generic/USB Stream Output)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/sysdefault:CARD=Generic_1' (HD-Audio Generic, ALC289 Analog/Default Audio Device)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/front:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/Front output / input)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/surround21:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/2.1 Surround output to Front and Subwoofer speakers)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/surround40:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/4.0 Surround output to Front and Rear speakers)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/surround41:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/4.1 Surround output to Front, Rear and Subwoofer speakers)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/surround50:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/5.0 Surround output to Front, Center and Rear speakers)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/surround51:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/5.1 Surround output to Front, Center, Rear and Subwoofer speakers)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/surround71:CARD=Generic_1,DEV=0' (HD-Audio Generic, ALC289 Analog/7.1 Surround output to Front, Center, Side, Rear and Woofer speakers)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/usbstream:CARD=Generic_1' (HD-Audio Generic/USB Stream Output)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/sysdefault:CARD=Audio' (iFi (by AMR) HD USB Audio, USB Audio/Default Audio Device)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/front:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/Front output / input)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/surround21:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/2.1 Surround output to Front and Subwoofer speakers)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/surround40:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/4.0 Surround output to Front and Rear speakers)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/surround41:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/4.1 Surround output to Front, Rear and Subwoofer speakers)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/surround50:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/5.0 Surround output to Front, Center and Rear speakers)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/surround51:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/5.1 Surround output to Front, Center, Rear and Subwoofer speakers)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/surround71:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/7.1 Surround output to Front, Center, Side, Rear and Woofer speakers)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/iec958:CARD=Audio,DEV=0' (iFi (by AMR) HD USB Audio, USB Audio/IEC958 (S/PDIF) Digital Audio Output)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'alsa/usbstream:CARD=Audio' (iFi (by AMR) HD USB Audio/USB Stream Output)"
+[10:30:01:006] DeviceInfo::mpvAudioDevices: "'jack' (Default (jack))"
+[10:30:01:006] GlobalShortcuts::GlobalShortcuts
+[10:30:01:006] GlobalShortcuts::setEnabled: false
+[10:30:01:007] Chromecast::loadSettings
+[10:30:01:009] BaseGui::initializeMenus
+[10:30:01:009] BaseGui::updateBookmarks
+[10:30:01:009] BaseGui::updateRecents
+[10:30:01:009] BaseGuiPlus::updateWidgets
+[10:30:01:009] BaseGui::updateWidgets
+[10:30:01:009] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[10:30:01:010] BaseGuiPlus::loadConfig
+[10:30:01:010] TimeSlider::setDragDelay: 100
+[10:30:01:011] AutohideWidget::installFilter: child name: ""
+[10:30:01:011] AutohideWidget::installFilter: child name: "mplayerwindowlogo"
+[10:30:01:011] AutohideWidget::installFilter: child name: ""
+[10:30:01:011] BaseGuiPlus::populateMainMenu
+[10:30:01:011] BaseGui::populateMainMenu
+[10:30:01:012] BaseGuiPlus::initializeSystrayMenu
+[10:30:01:013] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:013] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:013] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:013] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:013] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:013] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:014] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:014] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:020] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:020] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:021] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:021] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:024] BaseGui::initializeMenus
+[10:30:01:024] BaseGui::updateBookmarks
+[10:30:01:024] BaseGui::updateRecents
+[10:30:01:024] BaseGuiPlus::updateWidgets
+[10:30:01:024] BaseGui::updateWidgets
+[10:30:01:024] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[10:30:01:026] DesktopInfo::isInsideScreen: center point of window: QPoint(960,540)
+[10:30:01:026] DesktopInfo::isInsideScreen: virtual geometry: QRect(0,0 1920x1080)
+[10:30:01:026] Helper::qtVersion: 6508
+[10:30:01:027] BaseGui::applyStyles
+[10:30:01:027] BaseGui::applyStyles: stylesheet: ""
+[10:30:01:027] BaseGui::changeStyleSheet: ""
+[10:30:01:027] BaseGui::loadQss: :/default-theme/style.qss
+[10:30:01:027] Images::setThemesPath: "/usr/share/smplayer/themes"
+[10:30:01:027] Images::resourceFilename: ""
+[10:30:01:027] Images::setTheme: has_rcc: false
+[10:30:01:036] BaseGui::applyStyles: style: "kvantum-dark"
+[10:30:01:052] BaseGui::showEvent
+[10:30:01:057] BaseGui::loadActions
+[10:30:01:057] ActionsEditor::loadFromConfig
+[10:30:01:061] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:061] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:062] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:062] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:062] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:062] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:062] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:062] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:069] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:069] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:070] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:070] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:073] BaseGui::initializeMenus
+[10:30:01:073] BaseGui::updateBookmarks
+[10:30:01:073] BaseGui::updateRecents
+[10:30:01:073] BaseGuiPlus::updateWidgets
+[10:30:01:073] BaseGui::updateWidgets
+[10:30:01:074] PlayerID::Player: player_bin: "/usr/bin/mpv" filename: "mpv"
+[10:30:01:112] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:112] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:112] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:112] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:114] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:114] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:120] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:120] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:120] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:120] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:121] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:121] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:207] BaseGuiPlus::updateShortcutsContext
+[10:30:01:207] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:207] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:208] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:208] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:208] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:208] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:209] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:01:209] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:01:927] BaseGui::checkReminder
+[10:30:03:667] BaseGui::openFile
+[10:30:05:663] BaseGui::openFile: "/run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam.iso"
+[10:30:05:663] Core::open: '/run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam.iso'
+[10:30:05:664] Core::open: * identified as a dvd iso
+[10:30:05:664] DiscName::join: result: 'dvd://0//run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam.iso'
+[10:30:05:664] Core::openDVD: 'dvd://0//run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam.iso'
+[10:30:05:664] DiscName::split: disc_url: 'dvd://0//run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam.iso'
+[10:30:05:664] DiscName::split: protocol: 'dvd'
+[10:30:05:664] DiscName::split: title: '0'
+[10:30:05:664] DiscName::split: device: '/run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam.iso'
+[10:30:05:664] Core::saveMediaInfo
+[10:30:05:664] MediaSettings::reset
+[10:30:05:664] Core::initPlaying
+[10:30:05:664] MplayerWindow::setLogoVisible: false
+[10:30:05:664] Core::startMplayer: file: "dvd://0//run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam.iso" seek: 0
+[10:30:05:664] RetrieveYoutubeUrl::close
+[10:30:05:664] DiscName::split: disc_url: 'dvd://0//run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam.iso'
+[10:30:05:664] DiscName::split: protocol: 'dvd'
+[10:30:05:664] DiscName::split: title: '0'
+[10:30:05:664] DiscName::split: device: '/run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam.iso'
+[10:30:05:664] Core::startMplayer: checking if stream is a playlist
+[10:30:05:664] Core::startMplayer: url path: ''
+[10:30:05:664] Core::startMplayer: url_is_playlist: 0
+[10:30:05:664] InfoReader::setPlayerBin: mplayerbin: "/usr/bin/mpv"
+[10:30:05:665] InfoReader::getInfo: sname: "mpv_4bfa5cba7906babb"
+[10:30:05:666] InfoReader::getInfo: loaded info from "/home/rezikham/.config/smplayer/player_info.ini"
+[10:30:05:667] Core::startMplayer: hardware decoding is enabled. The video filters will be ignored
+[10:30:05:667] Core::startMplayer: edl file: ''
+[10:30:05:667] Core::startMplayer: extra_params: ()
+[10:30:05:667] MyProcess::splitArguments: '--vo=gpu'
+[10:30:05:667] MyProcess::splitArguments: arg: 0 '--vo=gpu'
+[10:30:05:667] arg 0: --vo=gpu
+[10:30:05:667] MPVProcess::addUserOption: "--vo=gpu"
+[10:30:05:667] MPVProcess::addUserOption: s: "--vo=gpu"
+[10:30:05:667] ScreenHelper::playingStarted
+[10:30:05:667] ScreenHelper::setAutoHideCursor: 1
+[10:30:05:667] VideoLayer::playingStarted
+[10:30:05:667] Core::disableScreensaver
+[10:30:05:667] PowerSaving::inhibit
+[10:30:05:668] PowerSaving::inhibit: valid reply
+[10:30:05:668] PowerSaving::inhibit: cookie: 17259
+[10:30:05:668] Core::startMplayer: command: '/usr/bin/mpv --no-quiet --terminal --no-msg-color --input-ipc-server=/tmp/smplayer-mpv-fb11 --msg-level=ffmpeg/demuxer=error --video-rotate=no --no-config --no-fs --hwdec=vaapi --sub-auto=fuzzy --vo=vaapi, --ao=pipewire, --no-input-default-bindings --input-vo-keyboard=no --no-input-cursor --cursor-autohide=no --no-keepaspect --wid=7 --monitorpixelaspect=1 --osd-level=1 --osd-scale=1 --osd-bar-align-y=0.6 --sub-ass --embeddedfonts --sub-ass-line-spacing=0 --sub-scale=1 --sub-font=Arial --sub-color=#ffffffff --sub-shadow-color=#ff000000 --sub-border-color=#ff000000 --sub-border-size=0.75 --sub-shadow-offset=2.5 --sub-font-size=50 --sub-bold=no --sub-italic=no --sub-margin-y=8 --sub-margin-x=20 --sub-codepage=ISO-8859-1 --sub-pos=100 --volume=55 --dvd-device=/run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam.iso --cache=auto --screenshot-template=cap_%F_%p_%02n --screenshot-format=jpg --screenshot-directory=/home/rezikham/Pictures/smplayer_screenshots --audio-pitch-correction=yes --volume-max=110 --vo=gpu --term-playing-msg=MPV_VERSION=${=mpv-version:}
+INFO_VIDEO_WIDTH=${=width}
+INFO_VIDEO_HEIGHT=${=height}
+INFO_VIDEO_ASPECT=${=video-params/aspect}
+INFO_VIDEO_FPS=${=container-fps:${=fps}}
+INFO_VIDEO_FORMAT=${=video-format}
+INFO_VIDEO_CODEC=${=video-codec}
+INFO_DEMUX_ROTATION=${=track-list/0/demux-rotation}
+INFO_AUDIO_FORMAT=${=audio-codec-name}
+INFO_AUDIO_CODEC=${=audio-codec}
+INFO_AUDIO_RATE=${=audio-params/samplerate}
+INFO_AUDIO_NCH=${=audio-params/channel-count}
+INFO_LENGTH=${=duration:${=length}}
+INFO_DEMUXER=${=current-demuxer:${=demuxer}}
+INFO_SEEKABLE=${=seekable}
+INFO_TITLES=${=disc-titles}
+INFO_CHAPTERS=${=chapters}
+INFO_TRACKS_COUNT=${=track-list/count}
+METADATA_TITLE=${metadata/by-key/title:}
+METADATA_ARTIST=${metadata/by-key/artist:}
+METADATA_ALBUM=${metadata/by-key/album:}
+METADATA_GENRE=${metadata/by-key/genre:}
+METADATA_DATE=${metadata/by-key/date:}
+METADATA_TRACK=${metadata/by-key/track:}
+METADATA_COPYRIGHT=${metadata/by-key/copyright:}
+INFO_MEDIA_TITLE=${=media-title:}
+INFO_STREAM_PATH=${stream-path}
+ --audio-client-name=SMPlayer --term-status-msg=STATUS: ${=time-pos} / ${=duration:${=length:0}} P: ${=pause} B: ${=paused-for-cache} I: ${=core-idle} VB: ${=video-bitrate:0} AB: ${=audio-bitrate:0} dvd://0'
+[10:30:05:668] MyProcess::start: environment path: "/home/rezikham/bin:/home/rezikham/anaconda3/condabin:/home/rezikham/.local/bin/:/home/rezikham/.config/fish/color:/home/rezikham/.config/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
+[10:30:05:668] MyProcess::start: current directory: "/usr/bin"
+[10:30:05:744] MPVProcess::parseLine: "libdvdread: DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed"
+[10:30:05:744] MPVProcess::parseLine: "libdvdnav: vm: vm: failed to read VIDEO_TS.IFO"
+[10:30:05:744] MPVProcess::parseLine: "libdvdread: Can't open file VIDEO_TS.IFO."
+[10:30:05:744] MPVProcess::parseLine: "[dvdnav] Couldn't open DVD device: /run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam.iso"
+[10:30:05:744] MPVProcess::parseLine: "Failed to open dvd://0."
+[10:30:05:744] MPVProcess::parseLine: "Exiting... (Errors when loading file)"
+[10:30:05:750] MyProcess::procFinished
+[10:30:05:750] MyProcess::procFinished: Bytes available:  0
+[10:30:05:750] MPVProcess::processFinished: exitCode: 2, status: 0
+[10:30:05:750] ScreenHelper::playingStopped
+[10:30:05:750] ScreenHelper::setAutoHideCursor: 0
+[10:30:05:750] VideoLayer::playingStopped
+[10:30:05:750] Core::enableScreensaver
+[10:30:05:750] PowerSaving::uninhibit
+[10:30:05:750] PowerSaving::uninhibit: cookie: 17259
+[10:30:05:751] PowerSaving::uninhibit: valid reply
+[10:30:05:751] Core::processFinished
+[10:30:05:751] Core::processFinished: we_are_restarting: 0
+[10:30:05:751] Core::processFinished: play has finished!
+[10:30:05:751] Core::processFinished: exit_code: 2
+[10:30:05:751] BaseGui::displayState: "Stopped"
+[10:30:05:751] BaseGui::togglePlayAction
+[10:30:05:751] BaseGui::showExitCodeFromMplayer: 2
+[10:30:05:759] BaseGui::checkStayOnTop
+[10:30:13:357] Playlist::playerFinishedWithError: 2
+[10:30:16:309] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:16:309] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:16:310] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:16:310] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:16:310] WARNING: libpng warning: known incorrect sRGB profile
+[10:30:16:310] WARNING: libpng warning: profile matches sRGB but writing iCCP instead
+[10:30:17:393] BaseGui::openBluRayFromFolder
+[10:30:19:910] DiscName::join: result: 'br://0//run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam'
+[10:30:19:910] Core::openBluRay: 'br://0//run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam'
+[10:30:19:910] DiscName::split: disc_url: 'br://0//run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam'
+[10:30:19:911] DiscName::split: protocol: 'br'
+[10:30:19:911] DiscName::split: title: '0'
+[10:30:19:911] DiscName::split: device: '/run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam'
+[10:30:19:911] Core::saveMediaInfo
+[10:30:19:911] MediaSettings::reset
+[10:30:19:911] Core::initPlaying
+[10:30:19:911] MplayerWindow::setLogoVisible: false
+[10:30:19:911] Core::startMplayer: file: "br://0//run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam" seek: 0
+[10:30:19:911] RetrieveYoutubeUrl::close
+[10:30:19:911] Core::startMplayer: checking if stream is a playlist
+[10:30:19:911] Core::startMplayer: url path: '//run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam'
+[10:30:19:911] Core::startMplayer: url_is_playlist: 0
+[10:30:19:911] Core::startMplayer: hardware decoding is enabled. The video filters will be ignored
+[10:30:19:911] Core::startMplayer: edl file: ''
+[10:30:19:911] Core::startMplayer: extra_params: ()
+[10:30:19:911] MyProcess::splitArguments: '--vo=gpu'
+[10:30:19:911] MyProcess::splitArguments: arg: 0 '--vo=gpu'
+[10:30:19:911] arg 0: --vo=gpu
+[10:30:19:911] MPVProcess::addUserOption: "--vo=gpu"
+[10:30:19:911] MPVProcess::addUserOption: s: "--vo=gpu"
+[10:30:19:911] ScreenHelper::playingStarted
+[10:30:19:911] ScreenHelper::setAutoHideCursor: 1
+[10:30:19:911] VideoLayer::playingStarted
+[10:30:19:911] Core::disableScreensaver
+[10:30:19:911] PowerSaving::inhibit
+[10:30:19:912] PowerSaving::inhibit: valid reply
+[10:30:19:912] PowerSaving::inhibit: cookie: 17260
+[10:30:19:912] Core::startMplayer: command: '/usr/bin/mpv --no-quiet --terminal --no-msg-color --input-ipc-server=/tmp/smplayer-mpv-fb11 --msg-level=ffmpeg/demuxer=error --video-rotate=no --no-config --no-fs --hwdec=vaapi --sub-auto=fuzzy --vo=vaapi, --ao=pipewire, --no-input-default-bindings --input-vo-keyboard=no --no-input-cursor --cursor-autohide=no --no-keepaspect --wid=7 --monitorpixelaspect=1 --osd-level=1 --osd-scale=1 --osd-bar-align-y=0.6 --sub-ass --embeddedfonts --sub-ass-line-spacing=0 --sub-scale=1 --sub-font=Arial --sub-color=#ffffffff --sub-shadow-color=#ff000000 --sub-border-color=#ff000000 --sub-border-size=0.75 --sub-shadow-offset=2.5 --sub-font-size=50 --sub-bold=no --sub-italic=no --sub-margin-y=8 --sub-margin-x=20 --sub-codepage=ISO-8859-1 --sub-pos=100 --volume=55 --cache=auto --screenshot-template=cap_%F_%p_%02n --screenshot-format=jpg --screenshot-directory=/home/rezikham/Pictures/smplayer_screenshots --audio-pitch-correction=yes --volume-max=110 --vo=gpu --term-playing-msg=MPV_VERSION=${=mpv-version:}
+INFO_VIDEO_WIDTH=${=width}
+INFO_VIDEO_HEIGHT=${=height}
+INFO_VIDEO_ASPECT=${=video-params/aspect}
+INFO_VIDEO_FPS=${=container-fps:${=fps}}
+INFO_VIDEO_FORMAT=${=video-format}
+INFO_VIDEO_CODEC=${=video-codec}
+INFO_DEMUX_ROTATION=${=track-list/0/demux-rotation}
+INFO_AUDIO_FORMAT=${=audio-codec-name}
+INFO_AUDIO_CODEC=${=audio-codec}
+INFO_AUDIO_RATE=${=audio-params/samplerate}
+INFO_AUDIO_NCH=${=audio-params/channel-count}
+INFO_LENGTH=${=duration:${=length}}
+INFO_DEMUXER=${=current-demuxer:${=demuxer}}
+INFO_SEEKABLE=${=seekable}
+INFO_TITLES=${=disc-titles}
+INFO_CHAPTERS=${=chapters}
+INFO_TRACKS_COUNT=${=track-list/count}
+METADATA_TITLE=${metadata/by-key/title:}
+METADATA_ARTIST=${metadata/by-key/artist:}
+METADATA_ALBUM=${metadata/by-key/album:}
+METADATA_GENRE=${metadata/by-key/genre:}
+METADATA_DATE=${metadata/by-key/date:}
+METADATA_TRACK=${metadata/by-key/track:}
+METADATA_COPYRIGHT=${metadata/by-key/copyright:}
+INFO_MEDIA_TITLE=${=media-title:}
+INFO_STREAM_PATH=${stream-path}
+ --audio-client-name=SMPlayer --term-status-msg=STATUS: ${=time-pos} / ${=duration:${=length:0}} P: ${=pause} B: ${=paused-for-cache} I: ${=core-idle} VB: ${=video-bitrate:0} AB: ${=audio-bitrate:0} br://0//run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam'
+[10:30:19:912] MyProcess::start: environment path: "/home/rezikham/bin:/home/rezikham/anaconda3/condabin:/home/rezikham/.local/bin/:/home/rezikham/.config/fish/color:/home/rezikham/.config/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl"
+[10:30:19:912] MyProcess::start: current directory: "/usr/bin"
+[10:30:19:978] MPVProcess::parseLine: "[bd] Couldn't open Blu-ray device: /run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam"
+[10:30:19:978] MPVProcess::parseLine: "No protocol handler found to open URL br://0//run/media/rezikham/data/Black.Panther.Wakanda.Forever.2022.UHD.BluRay.2160p.HEVC.Atmos.TrueHD7.1-MTeam"
+[10:30:19:978] MPVProcess::parseLine: "The protocol is either unsupported, or was disabled at compile-time."
+[10:30:19:978] MPVProcess::parseLine: "Exiting... (Errors when loading file)"
+[10:30:19:991] MyProcess::procFinished
+[10:30:19:991] MyProcess::procFinished: Bytes available:  0
+[10:30:19:991] MPVProcess::processFinished: exitCode: 2, status: 0
+[10:30:19:991] ScreenHelper::playingStopped
+[10:30:19:991] ScreenHelper::setAutoHideCursor: 0
+[10:30:19:991] VideoLayer::playingStopped
+[10:30:19:991] Core::enableScreensaver
+[10:30:19:991] PowerSaving::uninhibit
+[10:30:19:991] PowerSaving::uninhibit: cookie: 17260
+[10:30:19:992] PowerSaving::uninhibit: valid reply
+[10:30:19:992] Core::processFinished
+[10:30:19:992] Core::processFinished: we_are_restarting: 0
+[10:30:19:992] Core::processFinished: play has finished!
+[10:30:19:992] Core::processFinished: exit_code: 2
+[10:30:19:992] BaseGui::displayState: "Stopped"
+[10:30:19:992] BaseGui::togglePlayAction
+[10:30:19:992] BaseGui::showExitCodeFromMplayer: 2
+[10:30:19:995] BaseGui::checkStayOnTop
+[10:30:27:412] Playlist::playerFinishedWithError: 2
+[10:30:28:904] BaseGuiPlus::closeEvent
+[10:30:28:904] BaseGuiPlus::closeWindow
+[10:30:28:904] BaseGui::closeWindow
+[10:30:28:904] MpcGui::saveConfig: w: 640 h: 442
+[10:30:28:904] Helper::qtVersion: 6508
+[10:30:28:904] BaseGuiPlus::saveConfig
+[10:30:28:904] Chromecast::saveSettings
+[10:30:28:904] Core::saveMediaInfo
+[10:30:28:905] Favorites::save
+[10:30:28:906] Favorites::save
+[10:30:28:906] Favorites::save
+[10:30:28:906] Playlist::saveSettings
+[10:30:28:906] Helper::qtVersion: 6508
+[10:30:28:922] global_end
+[10:30:28:922] Preferences::save
+[10:30:28:922] AssStyles::save

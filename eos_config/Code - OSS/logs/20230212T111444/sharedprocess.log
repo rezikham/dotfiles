@@ -1,0 +1,36 @@
+2023-02-12 11:14:49.083 [info] Starting worker process with pid 5466 (type: fileWatcher, window: 1).
+2023-02-12 11:14:53.047 [info] Getting Manifest... asvetliakov.vscode-neovim
+2023-02-12 11:14:53.048 [info] Getting Manifest... ms-python.python
+2023-02-12 11:14:53.049 [info] Getting Manifest... ms-python.vscode-pylance
+2023-02-12 11:14:53.050 [info] Getting Manifest... ms-toolsai.jupyter
+2023-02-12 11:14:53.680 [info] Installing extension: asvetliakov.vscode-neovim
+2023-02-12 11:14:54.254 [info] Installing extension: ms-toolsai.jupyter
+2023-02-12 11:14:54.283 [info] Installing extension: ms-python.python
+2023-02-12 11:14:54.285 [info] Installing extension: ms-python.vscode-pylance
+2023-02-12 11:14:55.035 [info] Getting Manifest... ms-python.python
+2023-02-12 11:14:55.087 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-02-12 11:14:57.220 [info] Extension signature verification: asvetliakov.vscode-neovim. Verification status: Unverified.
+2023-02-12 11:14:57.279 [info] Extracted extension to /home/rezikham/.vscode-oss/extensions/.2fab7272-b5ed-4b5e-a429-328f875e9acb: asvetliakov.vscode-neovim
+2023-02-12 11:14:57.282 [info] Renamed to /home/rezikham/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.97
+2023-02-12 11:14:57.283 [info] Extracting completed. asvetliakov.vscode-neovim
+2023-02-12 11:14:57.290 [info] Extension installed successfully: asvetliakov.vscode-neovim
+2023-02-12 11:14:57.308 [info] Marked extension as uninstalled asvetliakov.vscode-neovim-0.0.95
+2023-02-12 11:14:58.463 [info] Extension signature verification: ms-python.python. Verification status: Unverified.
+2023-02-12 11:14:59.720 [info] Extension signature verification: ms-python.vscode-pylance. Verification status: Unverified.
+2023-02-12 11:15:00.213 [info] Extracted extension to /home/rezikham/.vscode-oss/extensions/.fd892abb-2ef9-499d-bee0-a387dd3c952b: ms-python.python
+2023-02-12 11:15:00.217 [info] Renamed to /home/rezikham/.vscode-oss/extensions/ms-python.python-2023.2.0
+2023-02-12 11:15:00.221 [info] Extracting completed. ms-python.python
+2023-02-12 11:15:00.226 [info] Extension signature verification: ms-toolsai.jupyter. Verification status: Unverified.
+2023-02-12 11:15:00.229 [info] Extension installed successfully: ms-python.python
+2023-02-12 11:15:00.229 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-02-12 11:15:00.250 [info] Marked extension as uninstalled ms-python.python-2022.20.2
+2023-02-12 11:15:00.716 [info] Extracted extension to /home/rezikham/.vscode-oss/extensions/.bc351085-34f0-44d1-baac-ee6679ce08ae: ms-toolsai.jupyter
+2023-02-12 11:15:00.731 [info] Renamed to /home/rezikham/.vscode-oss/extensions/ms-toolsai.jupyter-2023.1.2010391206
+2023-02-12 11:15:00.740 [info] Extracting completed. ms-toolsai.jupyter
+2023-02-12 11:15:00.751 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-02-12 11:15:00.779 [info] Marked extension as uninstalled ms-toolsai.jupyter-2022.11.1003412109
+2023-02-12 11:15:02.187 [info] Extracted extension to /home/rezikham/.vscode-oss/extensions/.819b85cf-1fe5-471d-8788-ef2b409700e8: ms-python.vscode-pylance
+2023-02-12 11:15:02.190 [info] Renamed to /home/rezikham/.vscode-oss/extensions/ms-python.vscode-pylance-2023.2.20
+2023-02-12 11:15:02.192 [info] Extracting completed. ms-python.vscode-pylance
+2023-02-12 11:15:02.197 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-02-12 11:15:02.219 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.1.40

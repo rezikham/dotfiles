@@ -1,0 +1,20 @@
+-- initial setup
+require("rezikham.plugins-setup")
+require("rezikham.core.options")
+require("rezikham.core.keymaps")
+require("rezikham.core.colorscheme")
+require("rezikham.core.neovide")
+
+-- plugins config
+require("rezikham.plugins.comment")
+require("rezikham.plugins.nvim-tree")
+require("rezikham.plugins.lualine")
+require("rezikham.plugins.telescope")
+require("rezikham.plugins.nvim-cmp")
+require("rezikham.plugins.lsp.mason")
+require("rezikham.plugins.lsp.lspsaga")
+require("rezikham.plugins.lsp.lspconfig")
+require("rezikham.plugins.lsp.null-ls")
+require("rezikham.plugins.autopairs")
+require("rezikham.plugins.treesitter")
+require("rezikham.plugins.gitsigns")

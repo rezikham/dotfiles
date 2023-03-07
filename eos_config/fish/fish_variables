@@ -1,0 +1,44 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export BAT_THEME:ansi
+SETUVAR EDITOR:nvim
+SETUVAR OPENSSL_DIR:/etc/ssl
+SETUVAR QT_QPA_PLATFORM:wayland\x3bxcb
+SETUVAR WAYLAND_DISPLAY:wayland\x2d0
+SETUVAR __fish_initialized:3400
+SETUVAR _fish_abbr_c:clear
+SETUVAR _fish_abbr_cx:chmod\x20\x2bx
+SETUVAR _fish_abbr_df:sudo\x20btrfs\x20filesystem\x20usage
+SETUVAR _fish_abbr_dupe:sudo\x20duperemove\x20\x2ddf
+SETUVAR _fish_abbr_g:git\x20status
+SETUVAR _fish_abbr_ga:git\x20add
+SETUVAR _fish_abbr_gc:git\x20commit\x20\x2dm
+SETUVAR _fish_abbr_gca:git\x20add\x20\x2e\x3b\x20git\x20commit\x20\x2dm
+SETUVAR _fish_abbr_gd:git\x20diff
+SETUVAR _fish_abbr_gf:git\x20fetch
+SETUVAR _fish_abbr_gl:git\x20pull
+SETUVAR _fish_abbr_gp:git\x20push
+SETUVAR _fish_abbr_rmd:rm\x20\x2dr
+SETUVAR _fish_abbr_ta:tmux\x20a
+SETUVAR _fish_abbr_tad:tmux\x20attach\x20\x2dd\x20\x2dt
+SETUVAR _fish_abbr_tat:tmux\x20attach\x20\x2dt
+SETUVAR _fish_abbr_td:tmux\x20detach
+SETUVAR _fish_abbr_tkss:tmux\x20kill\x2dsession\x20\x2dt
+SETUVAR _fish_abbr_tksv:tmux\x20kill\x2dserver
+SETUVAR _fish_abbr_tl:tmux\x20list\x2dsessions
+SETUVAR _fish_abbr_tn:tmux\x20new\x20\x2ds\x20\x28pwd\x20\x7c\x20sed\x20\x27s/\x2e\x2a\x5c///g\x27\x29
+SETUVAR _fish_abbr_tnh:tmux\x20new\x20\x2ds\x20home
+SETUVAR _fish_abbr_tr:tldr\x20\x2d\x2dlist\x20\x7c\x20fzf\x20\x2d\x2dheader\x20\x27tldr\x20\x28tealdeer\x29\x27\x20\x2d\x2dreverse\x20\x2d\x2dpreview\x20\x27tldr\x20\x7b1\x7d\x27\x20\x2d\x2dpreview\x2dwindow\x3dright\x2c80\x25\x20\x7c\x20xargs\x20tldr
+SETUVAR _fish_abbr_ts:tmux\x20new\x2dsession\x20\x2ds
+SETUVAR _fish_abbr_va:nvim\x20\x7e/\x2econfig/alacritty/alacritty\x2eyml
+SETUVAR _fish_abbr_vf:nvim\x20\x7e/\x2econfig/fish/config\x2efish
+SETUVAR _fish_abbr_vn:nvim\x20\x7e/\x2econfig/nvim/
+SETUVAR _fish_abbr_vnv:nvim\x20\x7e/\x2econfig/nvim/lua/rezikham/core/neovide\x2elua
+SETUVAR _fish_abbr_vt:nvim\x20\x7e/\x2econfig/tmux/tmux\x2econf
+SETUVAR _fish_abbr_wineprefix:WINEPREFIX\x3dpath/to/prefix\x20winetricks\x20dotnet20\x20dotnet48\x20d3dcompiler_43\x20d3dcompiler_47\x20d3dx9\x20d3dx10\x20d3dx11_42\x20d3dx11_43\x20faudio\x20vcrun2005\x20vcrun2008\x20vcrun2010\x20vcrun2012\x20vcrun2013\x20vcrun2015\x20quartz
+SETUVAR _fisher_jorgebucaran_2F_fisher_files:\x7e/\x2econfig/fish/functions/fisher\x2efish\x1e\x7e/\x2econfig/fish/completions/fisher\x2efish
+SETUVAR _fisher_plugins:jorgebucaran/fisher
+SETUVAR _fisher_upgraded_to_4_4:\x1d
+SETUVAR fish_key_bindings:fish_default_key_bindings
+SETUVAR --export fish_tmux_autoconnect:true
+SETUVAR fish_user_paths:/home/rezikham/\x2econfig/fish/color\x1e/home/rezikham/\x2econfig/bin

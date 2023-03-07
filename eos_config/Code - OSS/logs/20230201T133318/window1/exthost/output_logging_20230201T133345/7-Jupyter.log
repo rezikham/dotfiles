@@ -1,0 +1,60 @@
+Visual Studio Code (1.74.3, undefined, desktop)
+Jupyter Extension Version: 2022.11.1003412109.
+Python Extension Version: 2022.20.2.
+Workspace folder /home/rezikham/repo/Deakin-Doc/SIT112
+info 13:33:49.281: ZMQ install verified.
+info 13:33:49.705: LSP Notebooks experiment is enabled
+info 13:33:49.754: Find preferred kernel for /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.9"},"orig_nbformat":4,"vscode":{"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"}}} & preferred interpreter /usr/bin/python
+info 13:33:49.755: Find preferred kernel for /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.9"},"orig_nbformat":4,"vscode":{"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"}}} & preferred interpreter /usr/bin/python
+info 13:33:49.787: Process Execution: > jupyter notebook --version
+> jupyter notebook --version
+info 13:33:49.800: Process Execution: > jupyter lab --version
+> jupyter lab --version
+info 13:33:49.811: Find preferred kernel for /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.9"},"orig_nbformat":4,"vscode":{"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"}}} & preferred interpreter /usr/bin/python
+info 13:33:50.023: Got empty env vars with python /usr/bin/python in 270ms
+info 13:33:50.039: Process Execution: > /usr/bin/python -m pip list
+> /usr/bin/python -m pip list
+info 13:33:50.054: Find preferred kernel for /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.9"},"orig_nbformat":4,"vscode":{"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"}}} & preferred interpreter /usr/bin/python
+info 13:33:52.254: Preferred kernel .jvsc74a57bd0767d51c1340bd893661ea55ea3124f6de3c7a262a8b4abca0554b478b1e2ff90./usr/bin/python./usr/bin/python.-m#ipykernel_launcher is exact match or top match for non python kernels, (true, [object Object], false, false)
+info 13:33:52.255: PreferredConnection: .jvsc74a57bd0767d51c1340bd893661ea55ea3124f6de3c7a262a8b4abca0554b478b1e2ff90./usr/bin/python./usr/bin/python.-m#ipykernel_launcher found for NotebookDocument: /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb
+info 13:33:52.319: Find preferred kernel for /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.9"},"orig_nbformat":4,"vscode":{"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"}}} & preferred interpreter /usr/bin/python
+info 13:33:52.320: Preferred kernel .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher is exact match or top match for non python kernels, (false, undefined, true, false)
+info 13:33:52.320: PreferredConnection: .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher found for NotebookDocument: /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb
+info 13:33:52.347: Got empty env vars with python /bin/python in 12ms
+info 13:33:52.360: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+info 13:39:59.803: Find preferred kernel for /home/rezikham/repo/Deakin-Doc/SIT112/Week7/prac7.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.9 (main, Dec 19 2022, 17:35:49) [GCC 12.2.0]"},"vscode":{"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"}}} & preferred interpreter /usr/bin/python
+info 13:39:59.804: Preferred kernel .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher is exact match or top match for non python kernels, (false, undefined, true, false)
+info 13:39:59.804: PreferredConnection: .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher found for NotebookDocument: /home/rezikham/repo/Deakin-Doc/SIT112/Week7/prac7.ipynb
+info 13:44:10.061: Find preferred kernel for /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.10.9"},"orig_nbformat":4,"vscode":{"interpreter":{"hash":"e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a"}}} & preferred interpreter /usr/bin/python
+info 13:44:10.062: Preferred kernel .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher is exact match or top match for non python kernels, (false, undefined, true, false)
+info 13:44:10.063: PreferredConnection: .jvsc74a57bd0e7370f93d1d0cde622a1f8e1c04877d8463912d04d973331ad4851f04de6915a./bin/python./bin/python.-m#ipykernel_launcher found for NotebookDocument: /home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb
+info 13:44:16.787: Starting Jupyter Session startUsingPythonInterpreter, .jvsc74a57bd0767d51c1340bd893661ea55ea3124f6de3c7a262a8b4abca0554b478b1e2ff90./usr/bin/python./usr/bin/python.-m#ipykernel_launcher (Python Path: , EnvType: Unknown, EnvName: '', Version: 3.10.9 (main, Dec 19 2022, 17:35:49) [GCC 12.2.0]) for '/home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb' (disableUI=false)
+info 13:44:16.788: Computing working directory for resource '/home/rezikham/repo/Deakin-Doc/SIT112/test.ipynb'
+info 13:44:16.803: Process Execution: > /usr/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /usr/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 13:44:16.843: Process Execution: > /usr/bin/python -m pip list
+> /usr/bin/python -m pip list
+info 13:44:16.864: Process Execution: > /usr/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"aa63f74f-d55f-41d0-92e6-66544a589274" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/rezikham/.local/share/jupyter/runtime/kernel-v2-134326dB4Xr2K2WN4.json
+> /usr/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"aa63f74f-d55f-41d0-92e6-66544a589274" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/rezikham/.local/share/jupyter/runtime/kernel-v2-134326dB4Xr2K2WN4.json
+info 13:44:16.864: Process Execution: cwd: ~/repo/Deakin-Doc/SIT112
+cwd: ~/repo/Deakin-Doc/SIT112
+info 13:44:16.883: Got empty env vars with python /usr/bin/python in 94ms
+info 13:44:16.884: Got empty env vars with python /usr/bin/python in 53ms
+info 13:44:16.884: Got empty env vars with python /usr/bin/python in 38ms
+info 13:44:16.884: Got empty env vars with python /usr/bin/python in 38ms
+info 13:44:17.016: ipykernel version & path 6.17.1, ~/.local/lib/python3.10/site-packages/ipykernel/__init__.py for /usr/bin/python
+warn 13:44:17.503: StdErr from Kernel Process /home/rezikham/.local/lib/python3.10/site-packages/traitlets/traitlets.py:2412: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+
+warn 13:44:17.504: StdErr from Kernel Process /home/rezikham/.local/lib/python3.10/site-packages/traitlets/traitlets.py:2366: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'aa63f74f-d55f-41d0-92e6-66544a589274' instead of 'b"aa63f74f-d55f-41d0-92e6-66544a589274"'.
+  warn(
+
+info 13:44:17.512: Kernel Output: To connect another client to this kernel, use: --existing kernel-v2-134326dB4Xr2K2WN4.json
+
+info 13:44:17.695: Started Kernel Python 3.10.9 (pid: 15430)
+info 13:44:17.697: UpdateWorkingDirectoryAndPath in Kernel
+info 13:44:17.734: Process Execution: > /usr/bin/python ~/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/pythonFiles/printJupyterDataDir.py
+> /usr/bin/python ~/.vscode-oss/extensions/ms-toolsai.jupyter-2022.11.1003412109/pythonFiles/printJupyterDataDir.py
+info 13:44:17.879: Got empty env vars with python /usr/bin/python in 159ms
+info 14:14:30.890: Cancel all remaining cells true || Error || undefined

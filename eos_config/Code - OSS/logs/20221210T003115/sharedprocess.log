@@ -1,0 +1,34 @@
+2022-12-10 00:31:18.701 [info] Starting worker process with pid 116799 (type: fileWatcher, window: 1).
+2022-12-10 00:31:21.799 [info] Getting Manifest... asvetliakov.vscode-neovim
+2022-12-10 00:31:21.800 [info] Getting Manifest... enkia.tokyo-night
+2022-12-10 00:31:21.801 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2022-12-10 00:31:21.801 [info] Getting Manifest... ms-python.isort
+2022-12-10 00:31:21.802 [info] Getting Manifest... ms-python.python
+2022-12-10 00:31:21.802 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2022-12-10 00:31:21.803 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2022-12-10 00:31:21.804 [info] Getting Manifest... oracle.oracledevtools
+2022-12-10 00:31:21.804 [info] Getting Manifest... tomoki1207.pdf
+2022-12-10 00:31:22.730 [info] Installing extension: ms-python.isort
+2022-12-10 00:31:22.736 [info] Installing extension: ms-python.python
+2022-12-10 00:31:22.795 [info] Installing extension: oracle.oracledevtools
+2022-12-10 00:31:22.911 [info] Extension installed successfully: ms-python.python
+2022-12-10 00:31:23.041 [info] Installing extension: tomoki1207.pdf
+2022-12-10 00:31:23.048 [info] Installing extension: ms-dotnettools.vscode-dotnet-runtime
+2022-12-10 00:31:23.048 [info] Installing extension: ms-toolsai.jupyter-renderers
+2022-12-10 00:31:23.049 [info] Installing extension: ms-toolsai.jupyter-keymap
+2022-12-10 00:31:23.051 [info] Installing extension: enkia.tokyo-night
+2022-12-10 00:31:23.070 [info] Installing extension: asvetliakov.vscode-neovim
+2022-12-10 00:31:23.647 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2022-12-10 00:31:23.676 [info] Getting Manifest... ms-python.python
+2022-12-10 00:31:23.850 [info] Waiting for already requested installing extension ms-dotnettools.vscode-dotnet-runtime oracle.oracledevtools
+2022-12-10 00:31:23.896 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2022-12-10 00:31:23.897 [info] Extension installed successfully: ms-dotnettools.vscode-dotnet-runtime
+2022-12-10 00:31:23.897 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2022-12-10 00:31:23.898 [info] Extension installed successfully: enkia.tokyo-night
+2022-12-10 00:31:23.917 [info] Extension installed successfully: asvetliakov.vscode-neovim
+2022-12-10 00:31:23.933 [info] Extension installed successfully: ms-python.isort
+2022-12-10 00:31:23.936 [info] Extension installed successfully: oracle.oracledevtools
+2022-12-10 00:31:26.034 [info] Extracted extension to /home/rezikham/.vscode-oss/extensions/.fed198af-c20f-4ced-82b7-9a141fc2658f: tomoki1207.pdf
+2022-12-10 00:31:26.035 [info] Renamed to /home/rezikham/.vscode-oss/extensions/tomoki1207.pdf-1.2.0
+2022-12-10 00:31:26.037 [info] Extracting completed. tomoki1207.pdf
+2022-12-10 00:31:26.038 [info] Extension installed successfully: tomoki1207.pdf

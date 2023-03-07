@@ -1,0 +1,12 @@
+2023-02-12 11:14:46.747 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2023-02-12 11:14:46.747 [info] Added views:workbench.panel.output in workbench.panel.output
+2023-02-12 11:14:46.747 [info] Added views:terminal in terminal
+2023-02-12 11:14:46.747 [info] Added views:outline in workbench.view.explorer
+2023-02-12 11:14:46.747 [info] Added views:workbench.scm in workbench.view.scm
+2023-02-12 11:14:46.747 [info] Added views:workbench.view.search in workbench.view.search
+2023-02-12 11:14:46.747 [info] Added views:timeline in workbench.view.explorer
+2023-02-12 11:14:46.747 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2023-02-12 11:14:46.747 [info] Added views:workbench.explorer.fileView in workbench.view.explorer
+2023-02-12 11:14:47.141 [info] Added views:oracleDBObjectExplorer,oracleCloudExplorer,oracleBookmarkExplorer,oracleQueryHistoryExplorer in workbench.view.extension.oracle-db-explorer
+2023-02-12 11:14:47.280 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
+2023-02-12 11:14:49.883 [info] Added views:jupyterViewVariables in workbench.view.extension.jupyter-variables

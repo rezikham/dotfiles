@@ -1,0 +1,6 @@
+2023-01-27 19:22:28.164 [info] Starting worker process with pid 35145 (type: fileWatcher, window: 1).
+2023-01-27 19:22:28.673 [info] Deleted from disk ms-python.vscode-pylance /home/rezikham/.vscode-oss/extensions/ms-python.vscode-pylance-2023.1.30
+2023-01-27 19:22:31.859 [info] Worker process with pid 35145 terminated normally (type: fileWatcher, window: 1).
+2023-01-27 19:22:32.675 [info] Starting worker process with pid 35276 (type: fileWatcher, window: 1).
+2023-01-27 19:22:40.773 [info] Worker process with pid 35276 terminated normally (type: fileWatcher, window: 1).
+2023-01-27 19:22:41.731 [info] Starting worker process with pid 35396 (type: fileWatcher, window: 1).

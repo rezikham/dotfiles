@@ -1,0 +1,25 @@
+2023-01-27 19:21:10.859 [info] Log level: Info
+2023-01-27 19:21:10.859 [info] Validating found git in: "git"
+2023-01-27 19:21:10.859 [info] Using git "2.39.1" from "git"
+2023-01-27 19:21:10.859 [info] > git rev-parse --show-toplevel [4ms]
+2023-01-27 19:21:10.859 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-01-27 19:21:10.859 [info] Open repository: /home/rezikham/repo/Deakin-Doc
+2023-01-27 19:21:10.865 [info] > git config --get commit.template [102ms]
+2023-01-27 19:21:10.889 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [18ms]
+2023-01-27 19:21:10.908 [info] > git status -z -uall [12ms]
+2023-01-27 19:21:10.910 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2023-01-27 19:21:10.928 [info] > git config --get commit.template [1ms]
+2023-01-27 19:21:10.936 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-01-27 19:21:10.950 [info] > git status -z -uall [8ms]
+2023-01-27 19:21:10.950 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-27 19:21:11.275 [info] > git show --textconv :SIT111/7.2D/Fill copy.asm [5ms]
+2023-01-27 19:21:11.276 [info] > git ls-files --stage -- /home/rezikham/repo/Deakin-Doc/SIT111/7.2D/Fill copy.asm [2ms]
+2023-01-27 19:21:11.283 [info] > git cat-file -s 0da145c76a08fe4182be8a5e1c204d0fb2a79c70 [1ms]
+2023-01-27 19:21:11.371 [info] > git check-ignore -v -z --stdin [1ms]
+2023-01-27 19:21:11.457 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-27 19:21:14.018 [info] > git check-ignore -v -z --stdin [3ms]
+2023-01-27 19:22:19.971 [info] > git config --get commit.template [1ms]
+2023-01-27 19:22:19.984 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-01-27 19:22:20.009 [info] > git status -z -uall [14ms]
+2023-01-27 19:22:20.010 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-27 19:22:20.524 [info] > git rev-parse --show-toplevel [1ms]

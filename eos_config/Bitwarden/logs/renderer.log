@@ -1,0 +1,33 @@
+[2022-12-01 23:18:39.605] [info]  Finished search indexing
+[2022-12-01 23:18:41.782] [info]  Finished search indexing
+[2022-12-02 14:15:42.727] [info]  Finished search indexing
+[2022-12-02 14:32:02.239] [info]  Finished search indexing
+[2022-12-03 10:19:22.543] [info]  Finished search indexing
+[2022-12-04 10:24:11.682] [info]  Finished search indexing
+[2022-12-14 14:22:21.223] [info]  Finished search indexing
+[2022-12-15 13:18:04.882] [info]  Finished search indexing
+[2022-12-15 13:35:56.691] [error] mac failed.
+[2022-12-15 13:35:59.353] [info]  Finished search indexing
+[2022-12-15 14:00:17.555] [info]  Finished search indexing
+[2022-12-16 11:12:33.069] [info]  Finished search indexing
+[2022-12-18 12:50:18.532] [info]  Finished search indexing
+[2022-12-23 17:10:24.494] [info]  Finished search indexing
+[2022-12-24 16:49:56.617] [info]  Finished search indexing
+[2023-01-05 22:10:54.268] [info]  Finished search indexing
+[2023-01-15 15:39:42.498] [info]  Finished search indexing
+[2023-02-18 08:36:02.417] [error] {
+  response: {
+    error: 'invalid_grant',
+    error_description: 'invalid_username_or_password',
+    ErrorModel: {
+      Message: 'Username or password is incorrect. Try again.',
+      Object: 'error'
+    }
+  },
+  message: 'Username or password is incorrect. Try again.',
+  captchaRequired: false,
+  statusCode: 400
+}
+[2023-02-18 08:36:02.420] [error] Received API exception: [object Object]
+[2023-02-18 08:36:29.308] [info]  Finished search indexing
+[2023-02-18 08:36:31.326] [info]  Finished search indexing

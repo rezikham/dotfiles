@@ -1,0 +1,3 @@
+2023-01-29 18:14:10.915 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/rezikham/repo/Deakin-Doc/SIT111/9.3D/CPU.hdl","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-01-29 18:14:13.128 [error] ENOENT: no such file or directory, open '/home/rezikham/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/rezikham/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers'
+2023-01-29 18:14:14.610 [info] [perf] Render performance baseline is 134ms
